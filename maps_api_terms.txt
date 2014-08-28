@@ -60,6 +60,12 @@ Sign in
 
 
 
+Hide
+
+
+
+
+
 
 
 
@@ -78,7 +84,7 @@ Feedback on this document
 
 
 
-DocumentationWebiOSAndroidWeb ServicesPlaces APIImage APIsGoogle Earth APICommunityBlogSupportGoogle+Google Developers LiveArticlesMaps API for BusinessLicensingTermsFAQ
+DocumentationWebiOSAndroidWeb ServicesPlaces APIImage APIsGoogle Earth APICommunityBlogSupportGoogle+Google Developers LiveArticlesMaps API for BusinessLicensingTermsFAQAPI Picker
 
 
 
@@ -290,7 +296,7 @@ information, see Section 10.1.1(i) below.
 
           (i) contacting the
           
-          Google Maps API for Business sales team to
+Google Maps API for Business sales team to
           obtain a Google enterprise license; or
           (ii) terminating your use of the Service.
 
@@ -817,7 +823,7 @@ to your adherence to the following requirements:
       printed maps or guide books) that you redistribute for a fee. You must
       contact the
       
-      Google Maps API for Business sales team to obtain a direct license
+Google Maps API for Business sales team to obtain a direct license
       if you desire to do either of the above.
       
 
@@ -889,7 +895,7 @@ to your adherence to the following requirements:
           business asset tracking, or similar applications, please contact
           the
           
-          Google Maps API for Business sales team to obtain a Google
+Google Maps API for Business sales team to obtain a Google
           enterprise
           license. (If you are offering a non-enterprise implementation, you may
           use the Google Maps API(s) to track assets such as cars, buses
@@ -1312,6 +1318,10 @@ Privacy Policy
 
 
 
+
+
+
+
 Authentication required
 
         You need to be signed in with Google+ to do that.
@@ -1327,6 +1337,7 @@ Signing you in...
       
 Try again
 Cancel
+
 
 
 
