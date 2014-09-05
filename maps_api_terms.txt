@@ -84,7 +84,7 @@ Feedback on this document
 
 
 
-DocumentationWebiOSAndroidWeb ServicesPlaces APIImage APIsGoogle Earth APICommunityBlogSupportGoogle+Google Developers LiveArticlesMaps API for BusinessLicensingTermsFAQAPI Picker
+DocumentationWebiOSAndroidWeb ServicesPlaces APIImage APIsGoogle Earth APICommunityBlogSupportGoogle+Google Developers LiveArticlesMaps API for WorkLicensingTermsFAQAPI Picker
 
 
 
@@ -296,7 +296,7 @@ information, see Section 10.1.1(i) below.
 
           (i) contacting the
           
-Google Maps API for Business sales team to
+Google Maps API for Work sales team to
           obtain a Google enterprise license; or
           (ii) terminating your use of the Service.
 
@@ -790,7 +790,7 @@ to your adherence to the following requirements:
        Google also reserves the right to set other
        usage policies in the Documentation from time to time.  If you
        want to engage in use outside these transaction limits or usage
-       policies, please contact the Google Maps API for Business sales team for
+       policies, please contact the Google Maps API for Work sales team for
        information on licensing options to address your needs.
        (j) Geolocation Privacy.
 
@@ -823,7 +823,7 @@ to your adherence to the following requirements:
       printed maps or guide books) that you redistribute for a fee. You must
       contact the
       
-Google Maps API for Business sales team to obtain a direct license
+Google Maps API for Work sales team to obtain a direct license
       if you desire to do either of the above.
       
 
@@ -895,7 +895,7 @@ Google Maps API for Business sales team to obtain a direct license
           business asset tracking, or similar applications, please contact
           the
           
-Google Maps API for Business sales team to obtain a Google
+Google Maps API for Work sales team to obtain a Google
           enterprise
           license. (If you are offering a non-enterprise implementation, you may
           use the Google Maps API(s) to track assets such as cars, buses
