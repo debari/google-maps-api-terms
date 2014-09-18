@@ -15,10 +15,7 @@
 
 
 
-
 Google Maps/Google Earth APIs Terms of Service - Google Maps API — Google Developers
-
-
 
 
 
@@ -62,6 +59,7 @@ Sign in
 
 
 Hide
+
 
 
 
@@ -1221,7 +1219,6 @@ Terms of Use
 
 
 Privacy Policy
-
 
 
 
