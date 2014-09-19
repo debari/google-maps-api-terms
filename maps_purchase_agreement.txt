@@ -1,6 +1,23 @@
 
+
+
+
+
       Google Maps for Business
     
+
+
+
+
+
+
+
+
+
+
+
+
+
         Google Maps for Business - APAC Purchase Agreement
       
 This agreement for the purchase of Google Maps API Premier (the
@@ -9,6 +26,7 @@ This agreement for the purchase of Google Maps API Premier (the
       Document ("Customer"). This Agreement and the corresponding Ordering Document governs
       Customer's access to and use of the Services.
       1. Licenses.
+
         1.1 From Google to Customer. Subject to this Agreement, and in consideration of
         Customer's payment of Fees, Google grants to Customer, and Customer agrees to comply with a
         non-sublicensable, non-transferable, non-exclusive, terminable, limited license in the
@@ -30,6 +48,7 @@ This agreement for the purchase of Google Maps API Premier (the
       Customer is solely responsible for backing up its Customer Content. Google will not bear any
       risk of loss for Customer Content.
       3. Modifications.
+
         3.1 To the Services. Subject to Section 8.2 (Deprecation), Google may make
         commercially reasonable changes to the Services from time to time. If Google makes a
         material change to the Services, Google will inform Customer, provided that Customer has
@@ -45,6 +64,7 @@ This agreement for the purchase of Google Maps API Premier (the
         updated URL Terms.
       
 4. Restrictions.
+
 4.1 License Restrictions. Unless Google specifically agrees
         in writing or through the Documentation, Customer will not
         
@@ -55,14 +75,18 @@ This agreement for the purchase of Google Maps API Premier (the
             incorporate or embed the Services into any of Customer's products that it sells to
             third parties;
           
+
             c. attempt to reverse engineer the Services or any component or attempt to create a
             substitute or similar service thorough use of or access to the Services;
           
+
             d. modify, reorder, augment or manipulate search results in any way unless Customer
             indicate to the End User that this has occurred;
           
+
             e. use the Services for High Risk Activities;
           
+
             f. create or offer a âwrapperâ for the Services, unless Customer obtain Googleâs
             written consent to do so. For example, Customer are not permitted to: (a) use or
             provide any part of the Service or Content in an API that Customer offer to others; or
@@ -72,30 +96,37 @@ This agreement for the purchase of Google Maps API Premier (the
             features or content constitute the primary defining characteristic of the Customer
             Implementation;
           
+
             g. use the Services or Content with any products, systems, or applications for or in
             connection with any of the following: (i) real time navigation or route guidance,
             including but not limited to turn-by-turn route guidance that is synchronized to the
             position of a user's sensor-enabled device; or (ii) any systems or functions for
             automatic or autonomous control of vehicle behavior;
           
+
             h. display business listings Content in any Customer Implementation that has the
             primary purpose of making available business, residential address, or telephone
             directory listings;
           
+
             i. print more than five thousand copies of sales collateral materials containing a
             screenshot of the Content for purposes of commercial sales lead generation or
             incorporate the Content as a core part of printed matter (such as printed maps or guide
             books) that is redistributed for a fee;
           
+
             j. use the Service in a manner that gives access to mass downloads or bulk feeds of any
             Content;
           
+
             k. use the Services outside the Licensed Configuration specified in the applicable
             Ordering Document or usage limits specified in the Documentation; or
           
+
             l. use content derived from the Service without a corresponding Google Map (ex.
             Geocodes obtained through the Service may not be used except with a Google Map).
           
+
 4.2 Customer IDs. Customer IDs are required, must be used
         according to the Documentation, and will be forwarded to Customer electronically. Google
         may not respond to requests with an invalid Customer ID. Customer's failure to use a
@@ -123,6 +154,7 @@ This agreement for the purchase of Google Maps API Premier (the
         environment. TSS is included with development kits.
       
 5. Customer Obligations.
+
 5.1 Advertising. Customer can configure the Services to
         display Ads, or not, to End Users in its sole discretion. Customer can enable Ads in the
         Customer Implementation by following the instructions in the Documentation.
@@ -132,6 +164,7 @@ This agreement for the purchase of Google Maps API Premier (the
         owns or controls the Domains. If Customer does not own or control the Domains, then Google
         will have no obligation to provide the Services to Customer.
         5.3 Maps Terms, Privacy, Legal Notices and AUP.
+
 a. Compliance. Customer agrees to comply with the Maps
           Terms, the Legal Notices, and the AUP. Customer is responsible for its End Usersâ
           compliance with the Maps Terms, the Legal Notices, and the AUP.
@@ -143,7 +176,9 @@ a. Compliance. Customer agrees to comply with the Maps
           providing Customer with the ability to do so (for example, Customer may not store an End
           Userâs location without consent); and (ii) Google to provide the Services to Customer.
         
+
 6. Ownership and Publicity.
+
 6.1 Generally. Except as expressly set forth herein, this
         Agreement does not grant either party any rights, implied or otherwise, to the other's
         content or any of the other's Intellectual Property Rights. Intellectual Property Rights in
@@ -168,6 +203,7 @@ a. Compliance. Customer agrees to comply with the Maps
       all required authorization from applicable government authorities under the Export Control
       Laws. This Section 7 will survive termination or cancellation of this Agreement.
       8. Support.
+
 8.1 TSS. Google will provide TSS to Customer in accordance
         with the TSSG for the License Term. Unless otherwise agreed in writing, to receive TSS
         Customer must provide Google with reasonably required access to the Services in accordance
@@ -176,6 +212,7 @@ a. Compliance. Customer agrees to comply with the Maps
         then Google will provide Standard Support. Google may change the TSS from time to time, but
         not if the changes materially adversely impact Customer.
         8.2 Deprecation.
+
 a. Deprecation. Google will issue an announcement if the
           current version of the API will become the Deprecated Version of the API. If Google does
           so, Google will use commercially reasonable efforts to continue to operate the Deprecated
@@ -193,12 +230,15 @@ a. Deprecation. Google will issue an announcement if the
           risk or material technical burden as determined by Google in its reasonable good faith
           judgment.
         
+
 9. Payment.
+
 9.1 Purchase Process. Google will provide Customer an
         Ordering Document for each purchase, to confirm the Services, quantity and Fees.
         9.2 Payment. All Fees are due thirty days from the invoice
         date. All payments due are in the currency and mode of payment indicated on the invoice.
         9.3 Taxes.
+
 a. Defined. âTaxesâ means any duties, customs fees, or
           taxes (other than Googleâs income tax) associated with the sale of the Services,
           including any related penalties or interest.
@@ -224,6 +264,7 @@ a. Defined. âTaxesâ means any duties, customs fees, or
         delinquent amounts, except where these delinquent amounts are due to Googleâs billing
         inaccuracies.
         9.6 Purchase Orders.
+
 a. Required. If Customerâs Ordering Document is a Quote,
           then a Purchase Order is required. If Customerâs Ordering Document is an Order Form, and
           Customer wants a Purchase Order number on its invoice, Customer will inform Google and
@@ -237,7 +278,9 @@ a. Required. If Customerâs Ordering Document is a Quote,
           without a Purchase Order; and (b) Customer agrees to pay invoices without a Purchase
           Order.
         
+
 10. Ordering, Overages, and Reporting.
+
 10.1 Ordering. The Fees will be based on the applicable
         Billing Unit. In order to use certain APIs provided as part of the Service, Customer may be
         required to purchase additional SKUs. If Customer orders Asset Tracking as part of the
@@ -247,6 +290,7 @@ a. Required. If Customerâs Ordering Document is a Quote,
         10.2 Upgrades. Google may, if Customer is not in breach at
         the time of the request, provide Customer an opportunity to purchase higher usage limits.
         10.3 Overages.
+
 a. Page Views. For Customer using Page Views, Google will
           notify Customer before the usage indicated on the Ordering Document has been exceeded. If
           Customer exceeds its usage of Page Views during the License Term, Customer will be
@@ -273,6 +317,7 @@ a. Page Views. For Customer using Page Views, Google will
       and this Agreement; or (b) a complete and duly executed Order Form. Google will provide
       Customer with Documentation on using the Services.
       12. Confidentiality.
+
 12.1 Obligations. Each party will: (a) protect the other
         party's Confidential Information with the same standard of care it uses to protect its own
         Confidential Information, but in no event less than reasonable care; and (b) not disclose
@@ -292,6 +337,7 @@ a. Page Views. For Customer using Page Views, Google will
         gives the other party the chance to challenge the disclosure.
       
 13. Term and Termination.
+
 13.1 Agreement Term. This Agreement will remain in effect for
         the Term.
         13.2 License Term. Subject to Customerâs payment of Fees, the
@@ -320,6 +366,7 @@ a. Auto-Renewal. At the end of the License Term, the
         providing the Services in a particular country, Google reserves the right to terminate the
         Agreement with respect to that particular country on written notice.
         13.5 Effect of Termination.
+
 a. Termination for Google's Breach. If the Agreement is
           terminated for Googleâs breach, the licenses granted herein regarding Customerâs use of
           the Services may, at Customerâs option, continue for the remainder of the License Term,
@@ -337,6 +384,7 @@ a. Termination for Google's Breach. If the Agreement is
           License Term, if Customer does not submit an Ordering Document for a renewal License
           Term, the Services will cease functioning and this Agreement will terminate.
         
+
 14. Representations and Warranties. Each party represents that
       it has the rights, power and authority necessary to enter into this Agreement. Google
       warrants that it will provide the Services in accordance with the Service Level Agreement.
@@ -349,6 +397,7 @@ a. Termination for Google's Breach. If the Agreement is
       UNINTERRUPTED. THE SERVICES ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR HIGH RISK
       ACTIVITIES.
       16. Limitation of Liability.
+
 16.1 Limitation on Indirect Liability. TO THE EXTENT
         PERMITTED BY LAW, NEITHER PARTY, NOR ITS LICENSORS OR SUPPLIERS, WILL BE LIABLE UNDER THIS
         AGREEMENT FOR LOST REVENUES OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR
@@ -364,6 +413,7 @@ a. Termination for Google's Breach. If the Agreement is
         Intellectual Property Rights by the other party, or indemnification obligations.
       
 17. Indemnification.
+
 17.1 By Google. Google will indemnify, defend, and hold
         harmless Customer from and against all liabilities, damages, losses, expenses, and costs
         (including settlement costs and reasonable attorneys' fees) arising out of a third party
@@ -389,6 +439,7 @@ a. Termination for Google's Breach. If the Agreement is
         on conduct by Customer as described in Section 17.2; or (b) Customer's breach of Section 7
         (Export Compliance).
         17.4 Possible Infringement.
+
 a.Repair, Replace, or Modify. If Google reasonably believes
           the Services infringes a third party's Intellectual Property Rights, then Google will:
           (a) procure for Customer the right to continue to use the Services; (b) replace the
@@ -465,6 +516,7 @@ a.Repair, Replace, or Modify. If Google reasonably believes
         license key to any of its customers; or (d) distribute or market the Integrated Solution in
         the Prohibited Territory.
         20.4 Design and Marketing.
+
 a. Design. Integrator will respond to a Google
           Questionnaire for each new Integrated Solution at least sixty days prior to its public
           launch. Integrator will respond to Googleâs reasonable requests for additional
@@ -503,6 +555,7 @@ a. Design. Integrator will respond to a Google
         its rights under this section to any third party.
       
 21. Miscellaneous.
+
 21.1 Notices. All notices must be in writing and addressed to
         the attention of the other party's Legal Department and primary point of contact. Notice
         will be deemed given: (a) when verified by written receipt if sent by personal courier,
@@ -563,6 +616,7 @@ a. Design. Integrator will respond to a Google
         inactions were its own.
       
 22. Definitions.
+
 "Acceptable Use Policy" or "AUP" means the means the
         acceptable use policy for the Services available at http://www.google.com/enterprise/earthmaps/legal/us/maps_AUP.html
         (or other URL as may be provided by Google).
@@ -733,3 +787,8 @@ a. Design. Integrator will respond to a Google
         "Version" means any major update to the Service (i.e. version
         1.4 to version 2.0, but not version 1.4 to 1.5).
       
+
+
+
+
+
