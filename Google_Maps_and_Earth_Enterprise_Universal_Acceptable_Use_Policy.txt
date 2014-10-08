@@ -1,0 +1,73 @@
+
+      Google Maps for Business
+    
+        Google Maps and Earth Enterprise Universal Acceptable Use Policy
+      
+        Google customers (âYou(r)â) access to or use of Googleâs software, services or content
+        (âProductsâ) is subject to this Google Maps and Earth Enterprise Universal Acceptable Use
+        Policy (âUAUPâ). Except as otherwise explicitly authorized in writing by Google, You agree
+        not to, and not to allow third parties (including their end users), to use the Products as
+        follows:
+      
+-to threaten, violate, or encourage the violation of the legal rights of others;
+          
+-for any unlawful, invasive, infringing, defamatory, or fraudulent purpose;
+          
+-to intentionally distribute viruses, worms, trojan horses, corrupted files, hoaxes,
+          or other items of a destructive or deceptive nature; to interfere with the use of the
+          Products, or the equipment used to provide the Products, by customers, authorized
+          resellers, or other authorized users; to use the Products, or any Product component, in a
+          manner not authorized by Google;
+          
+-to, unless otherwise authorized in advance and in writing by Google, pre-fetch,
+          retrieve, cache, index, or store any Google content, or any portion of Googleâs services
+          with the exception being You may store limited amounts of Google content solely to
+          improve the performance of the Your Product implementation. To store limited amounts of
+          Google content You must do so temporarily, securely, and in a manner that 1) does not
+          permit use of the Google content outside of Googleâs services, 2) is session based only
+          (once the browser is closed, any additional storage is prohibited), 3) does not aggregate
+          or manipulate any Google content or portion of the Google services, 4) does not prohibit
+          Google from tracking usage limits and 5) does not modify and adjust attribution;
+          
+-to alter, disable, reverse-engineer, interfere with, circumvent, copy, translate, or
+          create a derivative work of, any aspect of the Products (except to the extent applicable
+          laws specifically prohibit this restriction);
+          
+-to remove, modify, or obscure any trademarks, service marks or other marks, links,
+          or notices appearing in the Products; to violate the product documentation or violate
+          Google's Software Principles (available at http://www.google.com/intl/en/corporate/software_principles.html
+          or such successor URL as Google may provide);
+          
+-to surpass usage limits in any applicable terms of service or product documentation;
+          
+-to upload, post, email or transmit or otherwise make available any content that
+          infringes any patent, trademark, copyright, trade secret or other proprietary right of
+          any party, unless you are the owner of such rights or have the permission of the owner to
+          post such content;
+          
+-to use any robot, spider, site search/retrieval application, or other device to
+          retrieve or index any portion of the Products or collect information about users for any
+          unauthorized purpose;
+          
+-to submit content that falsely expresses or implies that such content is sponsored
+          or endorsed by Google;
+          
+-to promote or provide instructional information about illegal activities or promote
+          physical harm or injury against any group or individual; or
+          
+-to loan, sell, lease or use for timesharing or service bureau purposes the Products
+          or any Product component.
+          
+THE PRODUCTS AND SERVICES ARE NOT DESIGNED, INTENDED OR MANUFACTURED FOR HIGH RISK
+          ACTIVITIES. âHigh Risk Activitiesâ means uses like the operation of emergency services,
+          nuclear facilities, air traffic control or life support systems, reliance on the
+          positional accuracy of the Products for operational targeting or precise navigation, or
+          where the use or failure of the Services could lead to death, personal injury, or
+          environmental damage.
+          
+          Failure to comply with this UAUP may constitute a breach of your written agreement with
+          Google and may further result in suspension or termination, or both, of Your Product use.
+          Google reserves the right to pursue all remedies available to it under your agreementâs
+          terms. If Your agreementâs terms modify the UAUPâs terms, Your agreementâs terms will
+          supercede.
+        

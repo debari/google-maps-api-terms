@@ -1,0 +1,80 @@
+
+      Google Maps Coordinate
+    
+        Google Coordinate Service Level Agreement
+      
+Google Coordinate SLA. During the Term of the applicable Google
+          Coordinate Agreement (the "Agreement"), the Google Coordinate Covered Services web
+          interface will be operational and available to Customer at least 99.9% of the time in any
+          calendar month (the "Google Coordinate SLA"). If Google does not meet the Google
+          Coordinate SLA, and if Customer meets its obligations under the Agreement and this Google
+          Coordinate SLA, Customer will be eligible to receive the Service Credits described below.
+          This Google Coordinate SLA states Customer's sole and exclusive remedy for any failure by
+          Google to meet the Google Coordinate SLA.
+        
+Definitions. The following definitions shall apply to the Google
+          Coordinate SLA.
+        
+"Downtime" means, for a domain, if the average server-side latency,
+          measured over a one-minute period, for requesting one of the Google Coordinate web
+          console pages exceeds 5 seconds.
+          
+"Downtime Period" means, for a domain, a period of ten consecutive
+          minutes of Downtime. Intermittent Downtime for a period of less than ten minutes will not
+          be counted towards any Downtime Periods.
+          
+"Google Coordinate Covered Services" means the Google Coordinate web
+          console components of the Service only. This does not include integrations with other
+          Google products such as Google Hangouts, Google+, Google Earth Builder, Google Maps for
+          Mobile, or Google Floor Plans/Floor Plans Marker.
+          
+"Monthly Uptime Percentage" means total number of minutes in a
+          calendar month minus the number of minutes of Downtime suffered from all Downtime Periods
+          in a calendar month, divided by the total number of minutes in a calendar month.
+          
+"Scheduled Downtime" means those times where Google notifies
+          Customers of periods of Downtime five days prior to the commencement of such Downtime.
+          There will be no more than twelve hours of Scheduled Downtime per calendar year.
+          Scheduled Downtime is not considered Downtime for purposes of this SLA, and will not be
+          counted towards any Downtime Periods.
+          
+"Service" means the Google Coordinate service provided by Google to
+          Customer under the Agreement.
+          
+"Service Credit" means the following:
+Monthly Uptime Percentage
+Days of Service added to the end of the Service term (or monetary credit
+                  equal to the value of days of service for monthly postpay billing customers), at
+                  no charge to Customer
+                  < 99.9% - >= 99.0%
+                
+                  3
+                
+                  < 99.0% - >= 95.0%
+                
+                  7
+                
+                  < 95.0%
+                
+                  15
+                
+Customer Must Request Service Credit. In order to receive any of the
+          Service Credits described above, Customer must notify Google within thirty days from the
+          time Customer becomes eligible to receive a Service Credit. Failure to comply with this
+          requirement will forfeit Customer's right to receive a Service Credit.
+        
+Maximum Service Credit. The aggregate maximum number of Service Credits
+          to be issued by Google to Customer for all Downtime that occurs in a single calendar
+          month shall not exceed fifteen days of Service added to the end of Customer's term for
+          the Service (or the value of 15 days of service in the form of a monetary credit to a
+          monthly-billing customerâs account). Service Credits may not be exchanged for, or
+          converted to, monetary amounts.
+        
+Google Coordinate SLA Exclusions. The Google Coordinate SLA does not
+          apply to any services that expressly exclude this Google Coordinate SLA (as stated in the
+          documentation for such services) or any performance issues: (i) caused by factors
+          described in the "Force Majeure" section of the Agreement; or (ii) that resulted from
+          Customer's equipment or third party equipment, or both (not within the primary control of
+          Google); or (iii) caused by the lack or performance of mobile network, wireless, or GPS
+          connectivity.
+        

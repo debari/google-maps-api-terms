@@ -1,0 +1,82 @@
+
+      Google Maps for Business
+    
+        Google Maps API for Business - Included APIs
+      
+        The Maps API for Business licence agreement includes the use of the following API(s):
+      
+Google Maps Javascript API V3 (https://developers.google.com/maps/documentation/javascript/)
+        
+Google Static Maps API V2 (https://developers.google.com/maps/documentation/staticmaps/)
+        
+Google Street View Image API (https://developers.google.com/maps/documentation/streetview/)
+        
+Google Earth API (https://developers.google.com/earth/)
+        
+Google Geocoding API V3 (https://developers.google.com/maps/documentation/geocoding/)
+        
+Google Elevation API (https://developers.google.com/maps/documentation/elevation/)
+        
+Google Directions API (https://developers.google.com/maps/documentation/directions/)
+        
+Google Distance Matrix API (https://developers.google.com/maps/documentation/distancematrix/)
+        
+Google Time Zone API (https://developers.google.com/maps/documentation/timezone/)
+        
+Google Maps and Earth Enterprise Deprecation Policy
+            The Google Maps and Earth Deprecation Terms (âPolicyâ) can be found here (http://www.google.com/enterprise/earthmaps/legal/us/deprecation.html).
+            The following applies to the APIs listed above and supplements the Policy terms: Google
+            will use commercially reasonable efforts to continue to operate the Service or the
+            applicable APIs without these changes until the later of: (i) one year after the
+            announcement or (ii) April 20, 2015, unless (as Google determines in its reasonable
+            good faith judgment):
+          
+a. required by law or third party relationship (including if there is a change in
+            applicable law or relationship), or
+            
+b. doing so could create a security risk or substantial economic or material
+            technical burden
+            
+        The following APIs are available as upgrades to Maps API for Business:
+      
+Google Maps Places API for Business (https://developers.google.com/places/documentation/)
+        
+Google Maps Places Autocomplete API for Business (https://developers.google.com/places/documentation/autocomplete)
+        
+Google Maps Places library (https://developers.google.com/maps/documentation/javascript/places)
+        
+Google Maps Geolocation API (https://developers.google.com/maps/documentation/business/geolocation/)
+        
+Google Maps Mobile SDK for Business
+        
+        The following APIs have been deprecated and will only be supported for the duration of
+        their deprecation period:
+      
+Google Maps Geocoding API V2 (https://developers.google.com/maps/documentation/geocoding/v2/)
+          
+Deprecation announced: March 10, 2010
+            
+Earliest retirement date: March 10, 2013
+            
+Google Maps Javascript API V2 (https://developers.google.com/maps/documentation/javascript/v2/)
+          
+Deprecation announced: May 19, 2010
+            
+Earliest retirement date: May 19, 2013
+            
+Google Maps API for Flash (https://developers.google.com/maps/documentation/flash/intro)
+          
+Deprecation announced: September 2, 2011
+            
+Earliest retirement date: September 2, 2014
+            
+        The following APIs have been retired because their deprecation period is over:
+      
+Google Maps Static Maps API V1
+          
+Deprecation announced: August 25, 2009
+            
+Retirement date: August 25, 2012
+            
+        This document is subject to change at Googleâs discretion.
+      

@@ -1,0 +1,448 @@
+
+Frequently Asked Questions - Google Maps API for Work — Google Developers
+Sign in
+Hide
+Products
+Google Maps API
+Google Maps API for Work
+Google Maps API for Work
+Take the Google Developers survey
+Report documentation issue
+Maps API for Work HomeClient-side APIsOverviewAuthentication and AuthorizationLoading Client-side APIsQuotas and ReportingContacting SupportDemographics LayerDeprecatedWeb ServicesOverviewAuthentication and AuthorizationQuota and ReportingContacting SupportGeolocation APIMaps Image APIsOverviewAuthentication and AuthorizationQuotas and ReportingContacting SupportMobile SDKOverviewiOSOverviewAuthenticationConfigurationMaps Engine layerRelease NotesAPI ReferenceReferenceGMSAddressGMSCALayerGMSCameraPositionGMSCameraUpdateGMSCircleGMSCoordinateBoundsGMSGeocoderGMSGroundOverlayGMSIndoorBuildingGMSIndoorDisplayGMSEnterpriseMapViewDelegateNew!GMSIndoorDisplayDelegateGMSIndoorLevelGMSMapLayerGMSMapsEngineFeatureNew!GMSMapsEngineLayerNew!GMSMapViewGMSMapViewDelegateGMSMarkerGMSMarkerLayerGMSMutableCameraPositionGMSMutablePathGMSOrientationGMSOverlayGMSPanoramaGMSPanoramaCameraGMSPanoramaLayerGMSPanoramaLinkGMSPanoramaServiceGMSPanoramaViewGMSPanoramaViewDelegateGMSPathGMSPolygonGMSPolylineGMSProjectionGMSReverseGeocodeResponseGMSServicesGMSStrokeStyleGMSStyleSpanGMSSyncTileLayerGMSTileLayerGMSTileReceiverGMSUISettingsGMSURLTileLayerGMSVisibleRegionModulesGMSGeometryUtilsGMSMapPointAndroidOverviewAuthenticationConfigurationMaps Engine layerRelease NotesContacting SupportAndroid API Referencecom.google.android.m4bmapsCameraUpdateCameraUpdateFactoryGoogleMapCancelableCallbackInfoWindowAdapterOAuthTokenProviderOnCameraChangeListenerOnIndoorStateChangeListenerOnInfoWindowClickListenerOnMapClickListenerOnMapLoadedCallbackOnMapLongClickListenerOnMapsEngineFeatureClickListenerOnMarkerClickListenerOnMarkerDragListenerOnMyLocationButtonClickListenerOnMyLocationChangeListenerSnapshotReadyCallbackGoogleMapOptionsLocationSourceOnLocationChangedListenerMapFragmentMapViewMapsInitializerProjectionStreetViewPanoramaOnStreetViewPanoramaCameraChangeListenerOnStreetViewPanoramaChangeListenerOnStreetViewPanoramaClickListenerStreetViewPanoramaFragmentStreetViewPanoramaOptionsStreetViewPanoramaViewSupportMapFragmentSupportStreetViewPanoramaFragmentUiSettingsmaps.modelBitmapDescriptorBitmapDescriptorFactoryCameraPositionBuilderCircleCircleOptionsGroundOverlayGroundOverlayOptionsIndoorBuildingIndoorLevelLatLngLatLngBoundsBuilderMapsEngineFeatureMapsEngineLayerMapsEngineLayerInfoMapsEngineLayerOptionsMarkerMarkerOptionsPolygonPolygonOptionsPolylinePolylineOptionsRuntimeRemoteExceptionStreetViewPanoramaCameraBuilderStreetViewPanoramaLinkStreetViewPanoramaLocationStreetViewPanoramaOrientationBuilderTileTileOverlayTileOverlayOptionsTileProviderUrlTileProviderVisibleRegionPlaces APIOverviewAuthentication and AuthorizationPremium DataQuotas and ReportingContacting SupportTracks APIGetting StartedAuthenticationConceptsUsage LimitsEntitiesCollectionsCrumbsGeofencesSupportTerms of UseArticlesBlogCommunity SupportFAQAPI PickerMaps API HomeAll Documentation
+Frequently Asked Questions
+Developers
+›
+Google Maps API
+›
+Maps for Work
+›
+Showcase
+Support
+Blog
+GDG
+Live
+  dt {
+    font-weight: bold;
+    padding-bottom: 0.7em;
+    font-size: 110%;
+    font-family: 'Open Sans';
+  }
+This FAQ covers questions specific to
+  Google Maps API for Work.
+Please refer to the Google Maps API FAQ
+  for questions common to all Google Maps APIs.
+Getting Started
+Which products are included in Google Maps API for Work?
+How do I contact technical support for Google Maps API for Work?
+How do I reset login credentials for the Google
+    for Work support portal?
+What are the Terms of Service for the Google Maps API for Work?
+Usage Limits
+How is Google Maps API for Work usage tracked and
+    reported?
+What are the usage limits for the Google Maps
+    JavaScript API v3?
+What are the usage limits for the Google Earth
+    API?
+What are the usage limits for the Google Maps Mobile SDK for Work?
+What are the usage limits for the Google Maps
+    API Web Services?
+What are the usage limits for the Google Places
+    and Geolocation APIs?
+What are the usage limits for the Static
+    Maps API?
+What are the usage limits for the Street View
+    Image API?
+Using the Maps API over HTTPS
+How do I access the Google Maps APIs over HTTPS (SSL)
+    using a Google Maps API for Work client ID?
+How do I load the Google Maps JavaScript API
+    over HTTPS (SSL) when using the Common Loader base_domain
+    parameter?
+KML
+How do I render KML files that are hosted on
+    intranet sites on a map?
+URL Signing
+Can I sign URLs using JavaScript?
+Why am I receiving a HTTP 403 Forbidden
+    response to my Maps API web service requests?
+Styling
+Why aren't businesses showing up on my map?
+Getting Started
+  Which products are included in Google Maps API for Work?
+The following Google products are included in
+    Google Maps API for Work. Applications that use these products
+    are covered by the
+    
+Google Maps API for Work SLA, and are eligible for
+    technical support:
+Google Maps JavaScript API
+      V3
+Google Static Maps
+      API
+Google Street View Image
+      API
+Google Earth API
+Google Geocoding API
+Google Elevation API
+Google Directions API
+Google Distance Matrix
+      API
+Google Time Zone API
+Google Places API, if
+      specifically enabled for Google Maps API for Work support. The
+      Places library of the
+      Google Maps JavaScript v3 API must also be specifically enabled in order
+      to be covered.
+Google Geolocation
+      API, if specifically enabled for Google Maps API for Work support.
+Google Maps Mobile SDK for Work (Android
+      API v2 and iOS), if specifically enabled for
+      Google Maps API for Work support.
+The following APIs are not covered by Google Maps API for Work.
+    Applications that use these APIs must do so in compliance with the
+    published Terms of Service for these APIs, and are not covered by the
+    Google Maps API for Work SLA, or eligible for technical support at this
+    time:
+Google Web Search API
+Google Maps Android API v1 (deprecated)
+Panoramio API
+Google Maps Embed API
+  How do I contact technical support for Google Maps API for Work?
+Google Maps API for Work customers can open a new support case with Google
+    Support using the Google for Work Support Portal at:
+http://www.google.com/enterprise/portal
+A username and password is required to access the portal. Please
+    
+      fill out this form if you do not have an account.
+  How do I reset login credentials for the Google for Work Support Portal?
+    I forgot my password. This link is also available from the
+    Google for Work
+    Support Portal login page.
+  What are the Terms of Service for the Google Maps API for Work?
+    The Terms of Service for Google Maps API for Work are available at:
+    
+        https://www.google.com/enterprise/earthmaps/legal/us/maps_purchase_agreement.html
+Usage Limits
+How is Google Maps API for Work usage tracked and
+  reported?
+For Google Maps API for Work licenses that are limited
+    to a specific number of page views, a page view is defined as:
+A single load of the Google Maps JavaScript API into a page. The
+      JavaScript API is reloaded every time a page that uses the API is
+      reloaded. User interactions with the map (eg. panning, zooming, changing
+      map types) do not generate more page views. Note however that a page view
+      is generated if the API is loaded into the page even if the API is not
+      then used to display a map. We therefore recommend against including the
+      <script> tag that loads the API in page templates, and
+      recommend loading the API
+      asynchronously on pages where maps are only displayed in response to
+      optional user activity.
+A single request for a Google Street View Image API or Google Static
+      Maps API image.
+A single load of the Google Earth API into a page.
+Google Maps API for Work customers can track their page view usage on the the
+    Google for Work Support Portal at:
+    http://www.google.com/enterprise/portal
+Note that non-Work applications are limited by map loads,
+    which are slightly different than page views. Please refer to the
+    Maps API FAQ for more
+    information.
+The Google Maps Mobile SDK for Work uses map loads to track usage.
+    Please refer to the
+    Usage Limits
+    for more information.
+  What are the usage limits for the Google Maps JavaScript API v3?
+  What are the usage limits for the Google Earth API?
+Requests that constitute page views are
+  applied against the total number of page views purchased with your
+  Google Maps API for Work license. When this limit is reached, you will
+  need to renew your license promptly.
+  What are the usage limits for the Google Maps Mobile SDK for Work?
+Each map load is applied against the total number of map loads
+  purchased with your Google Maps Mobile SDK for Work license. When this
+  limit is reached, you will need to renew your license promptly.
+What are the usage limits for the Google Maps API Web
+  Services?
+Google Maps API for Work customers are provided with the following
+    usage limits for the Google
+      Maps API Web Services:
+  
+Web Service
+Limits
+Directions
+100,000 requests per 24 hour period
+      and a maximum of 23 waypoints per
+      request. Rate limit of 2 requests per second.
+Elevation
+100,000 requests per 24 hour period
+      and a maximum of 512 points per
+      request. Rate limit of 10 requests per
+      second.
+Geocoding
+100,000 requests per 24 hour period.
+      Rate limit of 10 requests per second.
+Distance Matrix
+100 000 elements per 24 hour
+      period, a maximum of 625 elements
+      per query and a maximum of 1 000
+      elements per 10 seconds.
+Time Zone
+ 100,000 requests per 24 hour period. Rate
+      limit of 10 requests per second.
+These limits apply to each Google Maps API for Work client ID and are
+    shared across all applications and IP addresses using a given client
+    ID.
+If you need higher usage limits, please contact your
+    Google Maps API for Work Account Manager for purchase information.
+What are the usage limits for the Google Places
+  API and the Geolocation API?
+If you've purchased the Google Places API or the Geolocation API as part
+    of your Google Maps API for Work contract, your limits will be listed
+    in the Quotas section of the
+    API console.
+    If you need a higher limit, please
+    contact Google through
+    the Google for Work Support Portal.
+  What are the usage limits for Geocoding requests made from the Maps
+  JavaScript API?
+Google Maps API for Work customers are provided with the following
+    usage limits for Geocoding requests made from the JavaScript API:
+Service
+API being used
+Limits
+Geocoding
+JavaScript v3
+Geocoding has a daily allocation and rate limit which is applied per
+          user session, regardless of how many users share a given IP
+          address.
+This service should not be used for batch geocoding operations; you
+          may wish to use the 
+            Geocoding API for such operations.
+What are the usage limits for the Google Maps
+  Image APIs?
+Google Maps API for Work customers are provided with the following
+    usage limits for the Google Maps Image APIs:
+Service
+Limits
+Static Maps API
+Requests are applied against the total number of page views
+          purchased with the Google Maps API for Work license.
+The maximum image size is 2048 by 2048 pixels. This is calculated as
+          size times scale, as explained below.
+Street View Image API
+Requests are applied against the total number of page views
+          purchased with the Google Maps API for Work license.
+The maximum image size is 2048 by 2048 pixels.
+Static Map API images can be requested up to 2048x2048 pixels. Because the
+    scale value in a static map request affects the number of
+    pixels returned, the maximum size value is different for
+    each scale level:
+Scale
+Max Size
+Returns
+1
+2048x2048
+2048x2048
+2
+1024x1024
+2048x2048
+4
+512x512
+2048x2048
+The Street View Image API does not support the scale
+    parameter.
+Using the Maps API over HTTPS
+  How do I access the Google Maps APIs over HTTPS (SSL) using a Google Maps API for Work client ID?
+To access the Google Maps APIs over HTTPS, you must first
+    authorize
+      the HTTPS URLs on which you wish to use the Maps API.
+    Once your client ID has been enabled for use on these sites,
+    you can substitute http for https when loading
+    the JavaScript or passing a URL. For more information, refer to the
+    documentation.
+  
+  How do I load the Google Maps JavaScript API over HTTPS (SSL) when using the
+  Common Loader base_domain parameter?
+It is not possible to load the Maps JavaScript API over SSL using the
+    common loader with the base_domain parameter set.
+The base_domain parameter does not affect your application's
+    performance — API requests are always handled by the optimal Maps
+    server for a particular user's location regardless of the domain from which
+    the API is loaded.
+base_domain does bias geocoding results towards the specified
+    region; to achieve the same effect without base_domain,
+    set
+      the geocoding service's region parameter.
+KML
+How do I render KML files that are hosted on intranet
+  sites on a map?
+The 
+KmlLayer class that generates KML overlays in the Google
+    Maps API uses a Google hosted service to retrieve and parse KML files for
+    rendering. Consequently it is not possible to display KML files that are
+    not hosted at a URL that is available publicly accessible, or that require
+    authentication to access.
+If you need to develop applications that use KML files hosted on intranet
+    sites we recommend that you either:
+Use the Google Earth API which supports
+      client side parsing and rendering of KML.
+Render the KML on the client side by using third-party JavaScript
+      libraries. As the KML file is analyzed by the browser, performance may be
+      lower than by using the KmlLayer class.
+URL Signing
+Can I sign URLs using JavaScript?
+We strongly recommend against signing URLs using JavaScript as this would
+    expose your cryptographic key to end users. Therefore signatures should
+    only be generated by server side components.
+Why am I receiving a HTTP 403 Forbidden response to my
+  Maps API web service requests?
+An HTTP 403 response indicates a permission issue, likely because the
+    signature could not be verified for this request. This could be because:
+  
+A signature has been specified but is incorrect for this request.
+The request specifies a Google Maps API for Work client id but
+      does not specify a signature, and the web service being called requires that all
+      requests made using a client id include a valid signature.
+A signature has been specified but the associated Google Maps API for Work
+      client ID has not been specified.
+Styling
+Why aren't businesses showing up on my map?
+When loading a Google Map using the v3 API and including a
+    client parameter, business listings on the map are turned off
+    by default. To turn them back on, you'll need to include some
+    styling code with your
+    map:
+var styles = [
+  {
+    featureType: 'poi.business',
+    stylers: [
+      { visibility: 'on' }
+    ]
+  }
+];
+map.setOptions({styles: styles});
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
+Last updated October 7, 2014.
+Explore
+Products
+Showcase
+Events
+Communities
+Connect
+Blog
+Google+ Community
+YouTube Channel
+Report an Issue
+Jobs
+Programs
+Groups
+Experts
+Startups
+Women Techmakers
+Top Products
+Ads
+Analytics
+Android
+Cast
+Chrome
+Cloud
+Glass
+Google Apps
+Google+
+Maps
+Wallet
+YouTube
+Terms of Use
+Privacy Policy
+                العربيّة
+              
+                български
+              
+                català
+              
+                简体中文
+              
+                繁體中文
+              
+                Hrvatski
+              
+                česky
+              
+                dansk
+              
+                Nederlands
+              
+                English
+              
+                فارسی
+              
+                suomi
+              
+                français
+              
+                Deutsch
+              
+                Ελληνικά
+              
+                עברית
+              
+                Hindi
+              
+                Magyar
+              
+                Bahasa Indonesia
+              
+                italiano
+              
+                日本語
+              
+                한국어
+              
+                latviešu
+              
+                Lithuanian
+              
+                norsk (bokmål)
+              
+                norsk (nynorsk)
+              
+                polski
+              
+                Português Brasileiro
+              
+                Português
+              
+                Română
+              
+                Русский
+              
+                српски
+              
+                slovenský
+              
+                Slovenščina
+              
+                español
+              
+                svenska
+              
+                Thai
+              
+                Türkçe
+              
+                Українська
+              
+                Vietnamese
+              
+Authentication required
+        You need to be signed in with Google+ to do that.
+      
+Sign in
+Cancel
+Signing you in...
+        
+        Google Developers needs your permission to do that.
+      
+Try again
+Cancel

@@ -1,0 +1,27 @@
+
+      Google Maps for Business
+    
+        Enterprise Maps and Earth Deprecation Terms
+      
+        Google will announce if it intends to discontinue or make backwards incompatible changes to
+        its APIs or services. Unless a different deprecation period is indicated by Google in
+        writing in the applicable APIâs or serviceâs agreement or policies, Google will use
+        commercially reasonable efforts to continue to operate the applicable APIs or services
+        without these changes until one year after the productâs deprecation announcement unless
+        (as Google determines in its reasonable good faith judgment):
+a. required by law or third party relationship (including if there is a change in
+        applicable law or relationship), or
+        
+b. doing so could create a security risk or substantial economic or material technical
+        burden.
+        
+Your APIs or service agreement, its applicable policies or the productâs documentation
+      may contain additional deprecation terms and conditions. In particular:
+      
+Google Maps
+          API for Business - included APIs
+Experimental Features or Functionality
+      These Deprecation Terms do not apply to versions, features, and functionality labeled as
+      "experimental." Experimental versions, features, and functionality may be deprecated at any
+      time.
+    
