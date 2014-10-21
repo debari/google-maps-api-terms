@@ -178,9 +178,10 @@ GeoBase - http://www.geobase.ca/
 4.11 Great Britain
           This product contains Ordnance Survey data Â© Crown copyright and database right 2011,
           Royal Mail data Â© Royal Mail copyright and database right 2011, and National Statistics
-          data Â© Crown copyright and database right 2011 
+          data Â© Crown copyright and database right 2011
           (http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf). All rights
-          reserved. Â© South West Coast Path Team
+          reserved. Â© South West Coast Path Team.  Contains information of Network Rail Infrastructure
+          Limited licensed under the following license.
         
 4.12 Greece
           (a) EuroGeographics; Copyright Geomatics Ltd.
