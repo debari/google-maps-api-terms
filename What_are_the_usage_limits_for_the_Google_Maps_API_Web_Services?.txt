@@ -436,14 +436,3 @@ Privacy Policy
               
                 Vietnamese
               
-Authentication required
-        You need to be signed in with Google+ to do that.
-      
-Sign in
-Cancel
-Signing you in...
-        
-        Google Developers needs your permission to do that.
-      
-Try again
-Cancel
