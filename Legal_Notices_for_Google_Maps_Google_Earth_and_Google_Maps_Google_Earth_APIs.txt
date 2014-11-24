@@ -435,44 +435,7 @@ GeoBase - http://www.geobase.ca/
         supplied by TeleListas and you have any questions about it, you should contact them
         directly.
       
-5.4 Google Local Business Listings in Turkey
-        When you search for local listings in Turkey, your search results may include content
-        (including business listings and related information) that has been supplied by Turkey
-        Yellow Pages (Yellow.com.tr). The intellectual property rights in this content are owned
-        by Turkey Yellow Pages or its licensors, and may only be used in accordance with these
-        Terms of Service and any applicable terms and conditions of Turkey Yellow Pages. If you
-        know that your business listing is supplied by Turkey Yellow Pages and you have any
-        questions about it, you should contact them directly.
-      
-5.5 Google Local Business Listings in Kenya
-        When you search for local listings in Kenya, your search results may include content
-        (including business listings and related information) that has been supplied by Yellow
-        Pages Kenya Ltd (www.yellow.co.ke). The intellectual property rights in this content are
-        owned by Yellow Pages Kenya or its licensors, and may only be used in accordance with
-        these Terms of Service and any applicable terms and conditions of Yellow Pages Kenya Ltd.
-        If you know that your business listing is supplied by Yellow Pages Kenya Ltd and you have
-        any questions about it, you should contact them directly.
-      
-5.6 Google Local Business Listings in Egypt
-        When you search for local listings in Egypt, your search results may include content
-        (including business listings and related information) that has been supplied by Egypt
-        Yellow Pages Limited (yellow.com.eg). The intellectual property rights in this content
-        are owned by Egypt Yellow Pages Limited or its licensors, and may only be used in
-        accordance with these Terms of Service and any applicable terms and conditions of Egypt
-        Yellow Pages Limited. If you know that your business listing is supplied by Egypt Yellow
-        Pages Limited and you have any questions about it, you should contact them directly.
-      
-5.7 Google Local Business Listings in Saudi Arabia
-        When you search for local listings in Saudi Arabia, your search results may include
-        content (including business listings and related information) that has been supplied by
-        Al Wahda Express Saudi Arabia (www.daleeli.com). The intellectual property rights in this
-        content are owned by Al Wahda Express Saudi Arabia or its licensors, and may only be used
-        in accordance with these Terms of Service and any applicable terms and conditions of Al
-        Wahda Express Saudi Arabia. If you know that your business listing is supplied by Al
-        Wahda Express Saudi Arabia and you have any questions about it, you should contact them
-        directly.
-      
-5.8 Google Local Business Listings in Bulgaria
+5.4 Google Local Business Listings in Bulgaria
         When you search for local listings in Bulgaria, your search results may include content
         (including business listings and related information) that has been supplied by New
         Europe Directories Bulgaria EOOD (www.goldenpages.bg). The intellectual property rights
@@ -482,7 +445,7 @@ GeoBase - http://www.geobase.ca/
         listing is supplied by New Europe Directories Bulgaria EOOD and you have any questions
         about it, you should contact them directly.
       
-5.9 Google Local Business Listings in Norway
+5.5 Google Local Business Listings in Norway
         When you search for local listings in Norway, your search results may include content
         (including business listings and related information) that has been supplied by Digitale
         Medier 1881 AS (www.1881.no). The intellectual property rights in this content are owned
@@ -491,7 +454,7 @@ GeoBase - http://www.geobase.ca/
         you know that your business listing is supplied by Digitale Medier 1881 AS and you have
         any questions about it, you should contact them directly.
       
-5.10 Google Local Business Listings in Italy
+5.6 Google Local Business Listings in Italy
         When you search for local listings in Italy, your search results may include content
         (including business listings and related information) that has been supplied by SEAT
         Pagine Gialle SPA (www.paginegialle.it). The intellectual property rights in this content
@@ -500,7 +463,7 @@ GeoBase - http://www.geobase.ca/
         SPA. If you know that your business listing is supplied by SEAT Pagine Gialle SPA and you
         have any questions about it, you should contact them directly.
       
-5.11 Google Local Business Listings in Republic of Ireland
+5.7 Google Local Business Listings in Republic of Ireland
        When you search for local listings in the Republic of Ireland, your search results may
        include content (including business listings and related information) that has been
        supplied by Central Index (www.centralindex.com) and YourLocal.ie, trading names of Touch
