@@ -285,12 +285,10 @@ KmlLayer class that generates KML overlays in the Google
     not hosted at a URL that is available publicly accessible, or that require
     authentication to access.
 If you need to develop applications that use KML files hosted on intranet
-    sites we recommend that you either:
-Use the Google Earth API which supports
-      client side parsing and rendering of KML.
-Render the KML on the client side by using third-party JavaScript
-      libraries. As the KML file is analyzed by the browser, performance may be
-      lower than by using the KmlLayer class.
+    sites we recommend that you render the KML on the client side by using
+    third-party JavaScript libraries. As the KML file is analyzed by the
+    browser, performance may be lower than by using the
+    KmlLayer class.
 URL Signing
 Can I sign URLs using JavaScript?
 We strongly recommend against signing URLs using JavaScript as this would
@@ -324,7 +322,7 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated November 16, 2014.
+Last updated December 12, 2014.
 Explore
 Products
 Showcase
