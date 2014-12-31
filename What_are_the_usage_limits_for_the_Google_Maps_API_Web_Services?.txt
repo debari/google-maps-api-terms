@@ -112,7 +112,7 @@ Google Maps Embed API
   How do I contact technical support for Google Maps API for Work?
 Google Maps API for Work customers can open a new support case with Google
     Support using the Google for Work Support Portal at:
-http://www.google.com/enterprise/portal
+https://www.google.com/enterprise/portal
 A username and password is required to access the portal. Please
     
       fill out this form if you do not have an account.
@@ -144,7 +144,7 @@ A single request for a Google Street View Image API or Google Static
 A single load of the Google Earth API into a page.
 Google Maps API for Work customers can track their page view usage on the the
     Google for Work Support Portal at:
-    http://www.google.com/enterprise/portal
+    https://www.google.com/enterprise/portal
 Note that non-Work applications are limited by map loads,
     which are slightly different than page views. Please refer to the
     Maps API FAQ for more
@@ -322,7 +322,7 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated December 12, 2014.
+Last updated December 31, 2014.
 Explore
 Products
 Showcase
