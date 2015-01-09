@@ -105,9 +105,10 @@ Legal Notices for Business Listings
         
 4 Country-Specific Notices.
 4.1 Argentina
+4.2 Argentina
           Map Data Â© 2013 Inav/Geosistemas
         
-4.2 Australia
+4.3 Australia
           Certain content used as part of the Services is derived from SUNA Traffic Channel and is
           provided to Google under a license agreement with Intelematics Australia Pty Ltd ACN 084
           882 584.
@@ -115,7 +116,7 @@ Legal Notices for Business Listings
           Certain content which is available as part of the Services is derived from data provided
           by Transport for NSW. Public Transport Customers requiring the most current information
           should check at www.131500.com.au
-4.3 Austria
+4.4 Austria
           (a) BEV - BA fuer Eich und Vermessungswesen (Geocodes) Â© Ãsterreichisches Adressregister,
           2009. You are not permitted, at any one time, to use Austrian Postal Data to provide,
           display or provide access to mass downloads or bulk feeds of numerical latitude and
@@ -123,12 +124,12 @@ Legal Notices for Business Listings
         
           (b) BEV - BA fuer Eich und Vermessungswesen (Map Data) Â© BEV, 2009
         
-4.4 Belgium
+4.5 Belgium
           (a) Institut Geographique National - IGN Belgium
         
           (b) Brussels UrbISÂ®Â© - Distribution & Copyright CIRB/CIBG
         
-4.5 Canada
+4.6 Canada
           Google maps of Canada includes data provided from the following:
         
 Source Data: Â© 2009 DMTI Spatial Inc.
@@ -146,26 +147,28 @@ GeoBase - http://www.geobase.ca/
           SociÃ©tÃ© canadienne des postes d'oÃ¹ proviennent ces donnÃ©es est datÃ© de septembre 2009 ou
           plus tard.
         
-4.6 China
+4.7 China
           Â© CenNavi
         
-4.7 Denmark
+4.8 Denmark
           (a) Â© COWI A/S
         
           (b) Â© DAVdata.dk
         
-4.8 Finland
+          (c) Â© The Danish Road Directorate / Vejdirektoratet
+        
+4.9 Finland
           (a) National Land Survey of Finland Â© NLS, 2011
         
           (b) The Finnish Road Administration /Digiroad 2011
         
-4.9 France and Monaco
+4.10 France and Monaco
           (a) Â© IGN France Â© 2009 IGN France BD TopoÂ® IGN, Â© 2007 IGN France BD OrthoÂ® IGN 50cm,
            Â© 2011 IGN France - Ortho HRÂ® IGN 20cm (Paris region)
         
           (b) Â© PrincipautÃ© de Monaco
         
-4.10 Germany
+4.11 Germany
           (a) Bundesamt fÃ¼r Kartographie und GeodÃ¤sie - Â© Vermessungsverwaltungen der BundeslÃ¤nder
           und Bundesamt fÃ¼r Kartographie und GeodÃ¤sie
         
@@ -175,7 +178,7 @@ GeoBase - http://www.geobase.ca/
           (c) Â© 2012 Aerowest; municipal of Hilden, City of Oberhausen, City of Konstanz,
           Wuppertal, Â© 2007 Stadt Karlsruhe VLW
         
-4.11 Great Britain
+4.12 Great Britain
           This product contains Ordnance Survey data Â© Crown copyright and database right 2011,
           Royal Mail data Â© Royal Mail copyright and database right 2011, and National Statistics
           data Â© Crown copyright and database right 2011
@@ -185,30 +188,30 @@ GeoBase - http://www.geobase.ca/
           Contains public sector information licensed under the
           Open Government Licence v2.0.
         
-4.12 Greece
+4.13 Greece
           (a) EuroGeographics; Copyright Geomatics Ltd.
         
           (b) Â© 2012 Epsilon International SA
         
-4.13 Hong Kong
+4.14 Hong Kong
           Google Maps of Hong Kong includes business listings and transit data provided by Mapking
           International Limited â www.mapking.comâ
         
-4.14 Hungary
+4.15 Hungary
           Â© GeoX â FÃMI â MoD Mapping Agency, 2012
         
-4.15 Italy (including Vatican City and San Marino)
+4.16 Italy (including Vatican City and San Marino)
           (a) Â© Geonext/DeAgostini
         
           (b) Â© 2005 ediMap di Marcello Robberto
         
-4.16 Ireland
+4.17 Ireland
           (a) Â© An Post GeoDirectory Limited 2012
         
           (b) This product includes mapping data licensed from Ordnance Survey Ireland. Â© Ordnance
           Survey Ireland year 2009. All rights reserved. Licence number AND09/09v1.0
         
-4.17 Israel
+4.18 Israel
           (a) Based on mapping data from Mapa - Mapping and Publishing Ltd ("Mapa"). Â© Mapa -
           Mapping and Publishing. The mapping data is protected by international copyright laws and
           international copyright conventions.
@@ -237,7 +240,7 @@ GeoBase - http://www.geobase.ca/
           liabilities, damages, injuries (including injuries resulting in death), costs and
           expenses (including legal fees and costs).
         
-4.18 Japan
+4.19 Japan
           (a) æ¥æ¬ã® Google ãããã®ãµã¼ãã¹ã«ã¯ãç¬¬ä¸èããæä¾ãããèä½æ¨©ã®å¯¾è±¡ã¨ãªããã¼ã¿ã«åºã¥ãã¦ Google ãå¤æ´ãããã¸ãã¹ ãªã¹ãã£ã³ã°
           ãã¼ã¿ãå«ã¾ãã¾ããå½è©²ãã¼ã¿ãè¨±å¯ãªãä½¿ç¨ããã¨ãGoogle
           ã¾ãã¯ãã®ä»ã®èãä¿æããèä½æ¨©ãä¾µå®³ãããã¨ã«ãªãå¯è½æ§ãããã¾ããã¾ãåç¨å©ç¨ã¯åºãç¦ãããã¦ãã¾ããã¦ã¼ã¶ã¼ããã¸ãã¹ ãªã¹ãã£ã³ã°
@@ -271,16 +274,16 @@ GeoBase - http://www.geobase.ca/
           duplication or processing of the data without permission is prohibited. Map Data Â© Zenrin
           2013
         
-4.19 Lebanon
+4.20 Lebanon
           Source: ORION-ME
         
-4.20 Luxembourg
+4.21 Luxembourg
           Â© Administration du Cadastre et de la Topography (ACT)
         
-4.21 Mexico
+4.22 Mexico
           Source: INEGI (INSTITUTO NACIONAL DE ESTADÃSTICA Y GEOGRAFÃA)
         
-4.22 Netherlands
+4.23 Netherlands
           Â© Andes B.V.
         
           When using public transit data for The Netherlands, the data may have been
@@ -293,38 +296,38 @@ GeoBase - http://www.geobase.ca/
         for interpreting the performance of public transport operators. 9292 explicitly
         reserves its rights.
       
-4.23 Northern Ireland
+4.24 Northern Ireland
         Â© Ordnance Survey of Northern Ireland
       
-4.24 Norway
+4.25 Norway
         ElvegÂ©Statens kartverk and Statens vegvesen, N50 KartdataÂ©Statens kartverk
       
-4.25 Poland
+4.26 Poland
         MultiNetâ¢ data of Poland may not be used to create commercial printed maps or map
         products.
       
-4.26 Portugal
+4.27 Portugal
         (a) IgeoE - Portugal
       
         (b) Â© 2012 SRES DRIGOT
       
         (c) Â© CTT-Correios de Portugal, SA
       
-4.27 Russia
+4.28 Russia
         GIS Innovatsia 2011, DatabaseÂ«TopoRF_1000000Â» (Ñ) ÐÐÐ¢Ð+, 2006
         2013 Rosreestr
       
-4.28 Singapore
+4.29 Singapore
         The Licensed Content used as part of the Services for traffic information is provided to
         Google under a license agreement with Quantum Inventions Pte Ltd.
       
         This product includes mapping data licensed from MapIt MSC Sdn Bhd
       
-4.29 South Korea
+4.30 South Korea
         Based upon electronic data Â© SK planet Co., Ltd. All rights reserved. Korean Association
         Survey and Mapping Review Completed No. 2012-018 (2012-05-09).
       
-4.30 Spain
+4.31 Spain
         (a) Vectorial cartographic information based on Base CartogrÃ¡fica Nacional from Instituto
         GeogrÃ¡fico Nacional de EspaÃ±a
       
@@ -334,7 +337,7 @@ GeoBase - http://www.geobase.ca/
       
         (d) Protected areas - EUROPARC EspaÃ±a
       
-4.31 Sweden
+4.32 Sweden
         (a) Â© 2009 Cartesia GIS AB
       
         (b) Â© LantmÃ¤teriet/Metria
@@ -345,7 +348,7 @@ GeoBase - http://www.geobase.ca/
       
         (e) Based upon electronic data Â© National Land Survey Sweden
       
-4.32 Switzerland
+4.33 Switzerland
         (a) Â© Swisstopo
       
         (b) Swiss Postal Data (March 2011) are Â© Die Schweizerische Post. You are not permitted,
@@ -354,19 +357,19 @@ GeoBase - http://www.geobase.ca/
       
         (c) Â© BSF Swissphoto
       
-4.33 South Africa
+4.34 South Africa
         Â© AfriGIS (Pty) Ltd
       
-4.34 Taiwan
+4.35 Taiwan
         Â© 2013 Kingwaytek Technology Co.,Ltd.
       
-4.35 Turkey
+4.36 Turkey
         Â© 2013 Basarsoft
       
-4.36 Ukraine
+4.37 Ukraine
         Â© Transnavicom - http://www.transnavi.com/
       
-4.37 United States. Google maps of the United States include data
+4.38 United States. Google maps of the United States include data
         provided from the following sources:
       
         (a) U.S. Fish and Wildlife Service - http://www.fws.gov/
@@ -396,7 +399,7 @@ GeoBase - http://www.geobase.ca/
         (l) U.S. Department of Transportation, Research and Innovative Technology Administration
         - http://www.rita.dot.gov/
       
-4.38 Worldwide
+4.39 Worldwide
         (a) Unicode Common Locale Data Repository Â© Unicode, Inc.
         (http://www.unicode.org/copyright.html). All rights reserved.
       
