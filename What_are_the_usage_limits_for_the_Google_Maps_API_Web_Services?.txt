@@ -200,8 +200,8 @@ What are the usage limits for the Google Places
   API and the Geolocation API?
 If you've purchased the Google Places API or the Geolocation API as part
     of your Google Maps API for Work contract, your limits will be listed
-    in the Quotas section of the
-    API console.
+    in the Quotas section of the 
+Google APIs Console.
     If you need a higher limit, please
     contact Google through
     the Google for Work Support Portal.
@@ -322,7 +322,7 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated December 31, 2014.
+Last updated January 15, 2015.
 Explore
 Products
 Showcase
