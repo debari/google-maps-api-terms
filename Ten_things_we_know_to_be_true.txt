@@ -1,9 +1,11 @@
 
       Ten things we know to be true â Company â Google
     
+iframe.c1 {display:none;visibility:hidden}
+    
 Company
 Skip to content
-  
+   
     Search
 About Google
 Company
@@ -211,8 +213,10 @@ Twitter directory
 Facebook directory
 YouTube directory
 Careers
-Life at Google
+Search all jobs
 Office locations
+Teams & Roles
+Life at Google
 Investor relations
 News and events
 Financial information
@@ -220,4 +224,5 @@ Corporate governance
 Contact us
 Google
 About Google
-Privacy & Terms
+Privacy
+Terms
