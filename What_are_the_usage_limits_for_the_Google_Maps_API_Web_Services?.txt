@@ -9,7 +9,7 @@ Google Maps API for Work
     Google Maps API for Work
   
 Write Feedback
-Maps API for WorkClient-side APIsOverviewAuthentication and AuthorizationLoading Client-side APIsQuotas and ReportingContacting SupportDemographics LayerDeprecatedWeb ServicesOverviewAuthentication and AuthorizationQuota and ReportingContacting SupportGeolocation APIMaps Image APIsOverviewAuthentication and AuthorizationQuotas and ReportingContacting SupportMobile SDKOverviewiOSOverviewAuthenticationConfigurationMaps Engine layerDeprecatedRelease NotesAPI ReferenceReferenceGMSAddressGMSCALayerGMSCameraPositionGMSCameraUpdateGMSCircleGMSCoordinateBoundsGMSGeocoderGMSGroundOverlayGMSIndoorBuildingGMSIndoorDisplayGMSEnterpriseMapViewDelegateNew!GMSIndoorDisplayDelegateGMSIndoorLevelGMSMapLayerGMSMapsEngineFeatureNew!GMSMapsEngineLayerNew!GMSMapViewGMSMapViewDelegateGMSMarkerGMSMarkerLayerGMSMutableCameraPositionGMSMutablePathGMSOrientationGMSOverlayGMSPanoramaGMSPanoramaCameraGMSPanoramaLayerGMSPanoramaLinkGMSPanoramaServiceGMSPanoramaViewGMSPanoramaViewDelegateGMSPathGMSPolygonGMSPolylineGMSProjectionGMSReverseGeocodeResponseGMSServicesGMSStrokeStyleGMSStyleSpanGMSSyncTileLayerGMSTileLayerGMSTileReceiverGMSUISettingsGMSURLTileLayerGMSVisibleRegionModulesGMSGeometryUtilsGMSMapPointAndroidOverviewAuthenticationConfigurationMaps Engine layerDeprecatedRelease NotesContacting SupportAndroid API Referencecom.google.android.m4bmapsCameraUpdateCameraUpdateFactoryGoogleMapCancelableCallbackInfoWindowAdapterOAuthTokenProviderOnCameraChangeListenerOnIndoorStateChangeListenerOnInfoWindowClickListenerOnMapClickListenerOnMapLoadedCallbackOnMapLongClickListenerOnMapsEngineFeatureClickListenerOnMarkerClickListenerOnMarkerDragListenerOnMyLocationButtonClickListenerOnMyLocationChangeListenerSnapshotReadyCallbackGoogleMapOptionsLocationSourceOnLocationChangedListenerMapFragmentMapViewMapsInitializerOnMapReadyCallbackOnStreetViewPanoramaReadyCallbackProjectionStreetViewPanoramaOnStreetViewPanoramaCameraChangeListenerOnStreetViewPanoramaChangeListenerOnStreetViewPanoramaClickListenerStreetViewPanoramaFragmentStreetViewPanoramaOptionsStreetViewPanoramaViewSupportMapFragmentSupportStreetViewPanoramaFragmentUiSettingsmaps.modelBitmapDescriptorBitmapDescriptorFactoryCameraPositionBuilderCircleCircleOptionsGroundOverlayGroundOverlayOptionsIndoorBuildingIndoorLevelLatLngLatLngBoundsBuilderMapsEngineFeatureMapsEngineLayerMapsEngineLayerInfoMapsEngineLayerOptionsMarkerMarkerOptionsPolygonPolygonOptionsPolylinePolylineOptionsRuntimeRemoteExceptionStreetViewPanoramaCameraBuilderStreetViewPanoramaLinkStreetViewPanoramaLocationStreetViewPanoramaOrientationBuilderTileTileOverlayTileOverlayOptionsTileProviderUrlTileProviderVisibleRegionPlaces APIOverviewAuthentication and AuthorizationPremium DataQuotas and ReportingContacting SupportTracks APIGetting StartedAuthenticationConceptsUsage LimitsEntitiesCollectionsCrumbsGeofencesSupportTerms of UseArticlesBlogCommunity SupportFAQAPI PickerMaps API HomeAll Documentation
+Maps API for WorkClient-side APIsOverviewAuthentication and AuthorizationLoading Client-side APIsQuotas and ReportingContacting SupportDemographics LayerDeprecatedWeb ServicesOverviewAuthentication and AuthorizationQuota and ReportingContacting SupportGeolocation APIMaps Image APIsOverviewAuthentication and AuthorizationQuotas and ReportingContacting SupportMobile SDKOverviewiOSOverviewAuthenticationConfigurationMaps Engine layerRelease NotesAPI ReferenceReferenceGMSAddressGMSCALayerGMSCameraPositionGMSCameraUpdateGMSCircleGMSCoordinateBoundsGMSGeocoderGMSGroundOverlayGMSIndoorBuildingGMSIndoorDisplayGMSEnterpriseMapViewDelegateNew!GMSIndoorDisplayDelegateGMSIndoorLevelGMSMapLayerGMSMapsEngineFeatureNew!GMSMapsEngineLayerNew!GMSMapViewGMSMapViewDelegateGMSMarkerGMSMarkerLayerGMSMutableCameraPositionGMSMutablePathGMSOrientationGMSOverlayGMSPanoramaGMSPanoramaCameraGMSPanoramaLayerGMSPanoramaLinkGMSPanoramaServiceGMSPanoramaViewGMSPanoramaViewDelegateGMSPathGMSPolygonGMSPolylineGMSProjectionGMSReverseGeocodeResponseGMSServicesGMSStrokeStyleGMSStyleSpanGMSSyncTileLayerGMSTileLayerGMSTileReceiverGMSUISettingsGMSURLTileLayerGMSVisibleRegionModulesGMSGeometryUtilsGMSMapPointAndroidOverviewAuthenticationConfigurationMaps Engine layerRelease NotesContacting SupportAndroid API Referencecom.google.android.m4bmapsCameraUpdateCameraUpdateFactoryGoogleMapCancelableCallbackInfoWindowAdapterOAuthTokenProviderOnCameraChangeListenerOnIndoorStateChangeListenerOnInfoWindowClickListenerOnMapClickListenerOnMapLoadedCallbackOnMapLongClickListenerOnMapsEngineFeatureClickListenerOnMarkerClickListenerOnMarkerDragListenerOnMyLocationButtonClickListenerOnMyLocationChangeListenerSnapshotReadyCallbackGoogleMapOptionsLocationSourceOnLocationChangedListenerMapFragmentMapViewMapsInitializerOnMapReadyCallbackOnStreetViewPanoramaReadyCallbackProjectionStreetViewPanoramaOnStreetViewPanoramaCameraChangeListenerOnStreetViewPanoramaChangeListenerOnStreetViewPanoramaClickListenerStreetViewPanoramaFragmentStreetViewPanoramaOptionsStreetViewPanoramaViewSupportMapFragmentSupportStreetViewPanoramaFragmentUiSettingsmaps.modelBitmapDescriptorBitmapDescriptorFactoryCameraPositionBuilderCircleCircleOptionsGroundOverlayGroundOverlayOptionsIndoorBuildingIndoorLevelLatLngLatLngBoundsBuilderMapsEngineFeatureMapsEngineLayerMapsEngineLayerInfoMapsEngineLayerOptionsMarkerMarkerOptionsPolygonPolygonOptionsPolylinePolylineOptionsRuntimeRemoteExceptionStreetViewPanoramaCameraBuilderStreetViewPanoramaLinkStreetViewPanoramaLocationStreetViewPanoramaOrientationBuilderTileTileOverlayTileOverlayOptionsTileProviderUrlTileProviderVisibleRegionPlaces APIOverviewAuthentication and AuthorizationPremium DataQuotas and ReportingContacting SupportTracks APIGetting StartedAuthenticationConceptsUsage LimitsEntitiesCollectionsCrumbsGeofencesSupportTerms of UseArticlesBlogCommunity SupportFAQAPI PickerMaps API HomeAll Documentation
 Frequently Asked Questions
 Developers
 ›
@@ -112,7 +112,7 @@ Google Maps Embed API
   How do I contact technical support for Google Maps API for Work?
 Google Maps API for Work customers can open a new support case with Google
     Support using the Google for Work Support Portal at:
-https://www.google.com/enterprise/portal
+http://www.google.com/enterprise/portal
 A username and password is required to access the portal. Please
     
       fill out this form if you do not have an account.
@@ -144,7 +144,7 @@ A single request for a Google Street View Image API or Google Static
 A single load of the Google Earth API into a page.
 Google Maps API for Work customers can track their page view usage on the the
     Google for Work Support Portal at:
-    https://www.google.com/enterprise/portal
+    http://www.google.com/enterprise/portal
 Note that non-Work applications are limited by map loads,
     which are slightly different than page views. Please refer to the
     Maps API FAQ for more
@@ -200,8 +200,8 @@ What are the usage limits for the Google Places
   API and the Geolocation API?
 If you've purchased the Google Places API or the Geolocation API as part
     of your Google Maps API for Work contract, your limits will be listed
-    in the Quotas section of the 
-Google APIs Console.
+    in the Quotas section of the
+    API console.
     If you need a higher limit, please
     contact Google through
     the Google for Work Support Portal.
@@ -285,10 +285,12 @@ KmlLayer class that generates KML overlays in the Google
     not hosted at a URL that is available publicly accessible, or that require
     authentication to access.
 If you need to develop applications that use KML files hosted on intranet
-    sites we recommend that you render the KML on the client side by using
-    third-party JavaScript libraries. As the KML file is analyzed by the
-    browser, performance may be lower than by using the
-    KmlLayer class.
+    sites we recommend that you either:
+Use the Google Earth API which supports
+      client side parsing and rendering of KML.
+Render the KML on the client side by using third-party JavaScript
+      libraries. As the KML file is analyzed by the browser, performance may be
+      lower than by using the KmlLayer class.
 URL Signing
 Can I sign URLs using JavaScript?
 We strongly recommend against signing URLs using JavaScript as this would
@@ -322,7 +324,7 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated January 15, 2015.
+Last updated February 23, 2015.
 Explore
 Products
 Showcase
