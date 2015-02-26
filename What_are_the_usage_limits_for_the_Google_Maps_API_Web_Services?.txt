@@ -346,10 +346,10 @@ Android
 Cast
 Chrome
 Cloud
-Glass
 Google Apps
 Google+
 Maps
+Search
 Wallet
 YouTube
 Terms of Use
