@@ -21,6 +21,8 @@ Google Directions API (https://developers.google.com/maps/documentation/directio
         
 Google Distance Matrix API (https://developers.google.com/maps/documentation/distancematrix/)
         
+Google Maps Roads API (https://developers.google.com/maps/documentation/roads/)
+        
 Google Time Zone API (https://developers.google.com/maps/documentation/timezone/)
         
 Google Maps and Earth Enterprise Deprecation Policy
