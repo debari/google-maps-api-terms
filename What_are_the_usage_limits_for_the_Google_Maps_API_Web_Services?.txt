@@ -11,17 +11,6 @@ Google Maps API for Work
 Write Feedback
 Maps API for WorkClient-side APIsOverviewAuthentication and AuthorizationLoading Client-side APIsQuotas and ReportingContacting SupportDemographics LayerDeprecatedWeb ServicesOverviewAuthentication and AuthorizationQuota and ReportingContacting SupportGeolocation APIMaps Image APIsOverviewAuthentication and AuthorizationQuotas and ReportingContacting SupportMobile SDKOverviewiOSOverviewAuthenticationConfigurationMaps Engine layerDeprecatedRelease NotesAPI ReferenceReferenceGMSAddressGMSCALayerGMSCameraPositionGMSCameraUpdateGMSCircleGMSCoordinateBoundsGMSGeocoderGMSGroundOverlayGMSIndoorBuildingGMSIndoorDisplayGMSEnterpriseMapViewDelegateNew!GMSIndoorDisplayDelegateGMSIndoorLevelGMSMapLayerGMSMapsEngineFeatureNew!GMSMapsEngineLayerNew!GMSMapViewGMSMapViewDelegateGMSMarkerGMSMarkerLayerGMSMutableCameraPositionGMSMutablePathGMSOrientationGMSOverlayGMSPanoramaGMSPanoramaCameraGMSPanoramaLayerGMSPanoramaLinkGMSPanoramaServiceGMSPanoramaViewGMSPanoramaViewDelegateGMSPathGMSPolygonGMSPolylineGMSProjectionGMSReverseGeocodeResponseGMSServicesGMSStrokeStyleGMSStyleSpanGMSSyncTileLayerGMSTileLayerGMSTileReceiverGMSUISettingsGMSURLTileLayerGMSVisibleRegionModulesGMSGeometryUtilsGMSMapPointAndroidOverviewAuthenticationConfigurationMaps Engine layerDeprecatedRelease NotesContacting SupportAndroid API Referencecom.google.android.m4bmapsCameraUpdateCameraUpdateFactoryGoogleMapCancelableCallbackInfoWindowAdapterOAuthTokenProviderOnCameraChangeListenerOnIndoorStateChangeListenerOnInfoWindowClickListenerOnMapClickListenerOnMapLoadedCallbackOnMapLongClickListenerOnMapsEngineFeatureClickListenerOnMarkerClickListenerOnMarkerDragListenerOnMyLocationButtonClickListenerOnMyLocationChangeListenerSnapshotReadyCallbackGoogleMapOptionsLocationSourceOnLocationChangedListenerMapFragmentMapViewMapsInitializerOnMapReadyCallbackOnStreetViewPanoramaReadyCallbackProjectionStreetViewPanoramaOnStreetViewPanoramaCameraChangeListenerOnStreetViewPanoramaChangeListenerOnStreetViewPanoramaClickListenerStreetViewPanoramaFragmentStreetViewPanoramaOptionsStreetViewPanoramaViewSupportMapFragmentSupportStreetViewPanoramaFragmentUiSettingsmaps.modelBitmapDescriptorBitmapDescriptorFactoryCameraPositionBuilderCircleCircleOptionsGroundOverlayGroundOverlayOptionsIndoorBuildingIndoorLevelLatLngLatLngBoundsBuilderMapsEngineFeatureMapsEngineLayerMapsEngineLayerInfoMapsEngineLayerOptionsMarkerMarkerOptionsPolygonPolygonOptionsPolylinePolylineOptionsRuntimeRemoteExceptionStreetViewPanoramaCameraBuilderStreetViewPanoramaLinkStreetViewPanoramaLocationStreetViewPanoramaOrientationBuilderTileTileOverlayTileOverlayOptionsTileProviderUrlTileProviderVisibleRegionPlaces APIOverviewAuthentication and AuthorizationPremium DataQuotas and ReportingContacting SupportTracks APIGetting StartedAuthenticationConceptsUsage LimitsEntitiesCollectionsCrumbsGeofencesSupportTerms of UseArticlesBlogCommunity SupportFAQAPI PickerMaps API HomeAll Documentation
 Frequently Asked Questions
-Developers
-›
-Google Maps API
-›
-Maps for Work
-›
-Showcase
-Support
-Blog
-GDG
-Live
   dt {
     font-weight: bold;
     padding-bottom: 0.7em;
@@ -191,6 +180,10 @@ Distance Matrix
 Time Zone
  100,000 requests per 24 hour period. Rate
       limit of 10 requests per second.
+Roads API
+ 100 000 requests per 24 hour period. Rate
+      limit of 10 requests per second. Each request
+      may contain up to 100 points.
 These limits apply to each Google Maps API for Work client ID and are
     shared across all applications and IP addresses using a given client
     ID.
@@ -201,7 +194,7 @@ What are the usage limits for the Google Places
 If you've purchased the Google Places API or the Geolocation API as part
     of your Google Maps API for Work contract, your limits will be listed
     in the Quotas section of the 
-Google APIs Console.
+Google Developers Console.
     If you need a higher limit, please
     contact Google through
     the Google for Work Support Portal.
@@ -322,7 +315,7 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated February 23, 2015.
+Last updated March 4, 2015.
 Explore
 Products
 Showcase
