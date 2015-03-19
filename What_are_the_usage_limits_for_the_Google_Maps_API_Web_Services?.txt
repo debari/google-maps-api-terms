@@ -79,11 +79,10 @@ Google Directions API
 Google Distance Matrix
       API
 Google Time Zone API
-Google Places API, if
-      specifically enabled for Google Maps API for Work support. The
+Google Places API and the
       Places library of the
-      Google Maps JavaScript v3 API must also be specifically enabled in order
-      to be covered.
+      Google Maps JavaScript v3 API, if
+      specifically enabled for Google Maps API for Work support.
 Google Geolocation
       API, if specifically enabled for Google Maps API for Work support.
 Google Maps Mobile SDK for Work (Android
@@ -315,7 +314,7 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated March 4, 2015.
+Last updated March 19, 2015.
 Explore
 Products
 Showcase
