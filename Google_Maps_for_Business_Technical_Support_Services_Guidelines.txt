@@ -272,8 +272,8 @@ Premium Support Response Times indicated in Section 3(E) above.
           enhance an existing feature of the Products and Services that is currently not available.
         
 "GES Site" means the Google Enterprise technical support services site,
-          currently located at http://www.google.com/enterprise/portal (or such
-          other URL that may be provided by Google).
+          currently located at http://www.google.com/work/portal (or such other URL
+          that may be provided by Google).
         
 "Hours of Operation" means either: (A) for Customers located in Europe,
           Middle East and Africa, 9:00 - 17:00 GMT (Greenwich Mean Time) on Business Days; (B) for
