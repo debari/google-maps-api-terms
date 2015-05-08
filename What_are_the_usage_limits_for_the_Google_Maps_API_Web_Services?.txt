@@ -3,13 +3,12 @@ Frequently Asked Questions - Google Maps API for Work — Google Developers
 Sign in
 Hide
 Products
-Google Maps API
 Google Maps API for Work
     
     Google Maps API for Work
   
 Send feedback
-Maps API for WorkClient-side APIsOverviewAuthentication and AuthorizationLoading Client-side APIsQuotas and ReportingContacting SupportWeb ServicesOverviewAuthentication and AuthorizationQuota and ReportingContacting SupportGeolocation APIMaps Image APIsOverviewAuthentication and AuthorizationQuotas and ReportingContacting SupportMobile SDKOverviewiOSOverviewAuthenticationConfigurationMaps Engine layerDeprecatedRelease NotesAPI ReferenceReferenceGMSAddressGMSCALayerGMSCameraPositionGMSCameraUpdateGMSCircleGMSCoordinateBoundsGMSGeocoderGMSGroundOverlayGMSIndoorBuildingGMSIndoorDisplayGMSEnterpriseMapViewDelegateNew!GMSIndoorDisplayDelegateGMSIndoorLevelGMSMapLayerGMSMapsEngineFeatureNew!GMSMapsEngineLayerNew!GMSMapViewGMSMapViewDelegateGMSMarkerGMSMarkerLayerGMSMutableCameraPositionGMSMutablePathGMSOrientationGMSOverlayGMSPanoramaGMSPanoramaCameraGMSPanoramaLayerGMSPanoramaLinkGMSPanoramaServiceGMSPanoramaViewGMSPanoramaViewDelegateGMSPathGMSPolygonGMSPolylineGMSProjectionGMSReverseGeocodeResponseGMSServicesGMSStrokeStyleGMSStyleSpanGMSSyncTileLayerGMSTileLayerGMSTileReceiverGMSUISettingsGMSURLTileLayerGMSVisibleRegionModulesGMSGeometryUtilsGMSMapPointAndroidOverviewAuthenticationConfigurationMaps Engine layerDeprecatedRelease NotesContacting SupportAndroid API Referencecom.google.android.m4bmapsCameraUpdateCameraUpdateFactoryGoogleMapCancelableCallbackInfoWindowAdapterOAuthTokenProviderOnCameraChangeListenerOnIndoorStateChangeListenerOnInfoWindowClickListenerOnMapClickListenerOnMapLoadedCallbackOnMapLongClickListenerOnMapsEngineFeatureClickListenerOnMarkerClickListenerOnMarkerDragListenerOnMyLocationButtonClickListenerOnMyLocationChangeListenerSnapshotReadyCallbackGoogleMapOptionsLocationSourceOnLocationChangedListenerMapFragmentMapViewMapsInitializerOnMapReadyCallbackOnStreetViewPanoramaReadyCallbackProjectionStreetViewPanoramaOnStreetViewPanoramaCameraChangeListenerOnStreetViewPanoramaChangeListenerOnStreetViewPanoramaClickListenerStreetViewPanoramaFragmentStreetViewPanoramaOptionsStreetViewPanoramaViewSupportMapFragmentSupportStreetViewPanoramaFragmentUiSettingsmaps.modelBitmapDescriptorBitmapDescriptorFactoryCameraPositionBuilderCircleCircleOptionsGroundOverlayGroundOverlayOptionsIndoorBuildingIndoorLevelLatLngLatLngBoundsBuilderMapsEngineFeatureMapsEngineLayerMapsEngineLayerInfoMapsEngineLayerOptionsMarkerMarkerOptionsPolygonPolygonOptionsPolylinePolylineOptionsRuntimeRemoteExceptionStreetViewPanoramaCameraBuilderStreetViewPanoramaLinkStreetViewPanoramaLocationStreetViewPanoramaOrientationBuilderTileTileOverlayTileOverlayOptionsTileProviderUrlTileProviderVisibleRegionPlaces APIOverviewAuthentication and AuthorizationPremium DataQuotas and ReportingContacting SupportRoads APIOverviewSnap to RoadSpeed LimitsTroubleshooting ErrorsRoads InspectorTracks APIDeprecatedGetting StartedAuthenticationConceptsUsage LimitsEntitiesCollectionsCrumbsGeofencesSupportTerms of UseArticlesBlogCommunity SupportFAQAPI PickerMaps API HomeAll Documentation
+GuidesClient-side APIsOverviewAuthentication and AuthorizationLoading Client-side APIsQuotas and ReportingContacting SupportWeb ServicesOverviewAuthentication and AuthorizationQuota and ReportingOptimize usage limitsContacting SupportGeolocation APIStatic Maps and Street View APIsOverviewAuthentication and AuthorizationQuotas and ReportingContacting SupportMobile SDKOverviewContacting SupportiOS: DownloadiOS: AuthenticationiOS: ConfigurationiOS: Maps Engine layerDeprecatediOS: Release NotesiOS: API ReferenceAndroid: DownloadAndroid: AuthenticationAndroid: ConfigurationAndroid: Maps Engine layerDeprecatedAndroid: Release NotesAndroid: API ReferencePlaces APIOverviewAuthentication and AuthorizationPremium DataQuotas and ReportingContacting SupportRoads APIOverviewSnap to RoadSpeed LimitsTroubleshooting ErrorsRoads InspectorSupportPaid SupportCommunity SupportFAQIssue trackerMaps for Work Terms of UsePre-launch ChecklistTroubleshooting Authorization
 Frequently Asked Questions
   dt {
     font-weight: bold;
@@ -316,6 +315,41 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
 Last updated April 28, 2015.
+            Stack Overflow
+          Ask a question under the google-maps tag.
+            GitHub
+          Fork our samples and try them yourself.
+            Blog
+          Read the latest updates, customer stories, and tips.
+            Issue tracker
+          Something wrong? Send us a bug report!Community Resources
+          
+                Community support
+              
+                General Terms of Service
+              
+                General FAQ
+              
+                Articles
+              Platforms
+          
+                Android
+              
+                iOS
+              
+                Web
+              
+                Web Services
+              Maps for Work Resources
+          
+                Paid support
+              
+                Maps for Work Terms of Use
+              
+                Maps for Work FAQ
+              
+                Articles
+              
 Explore
 Products
 Showcase
