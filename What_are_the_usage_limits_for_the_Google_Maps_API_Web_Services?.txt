@@ -1,23 +1,37 @@
 
-Frequently Asked Questions - Google Maps API for Work — Google Developers
-Sign in
-Hide
-Products
-Google Maps API for Work
+Frequently Asked Questions   |  
+      Google Maps API for Work   |  
+      Google Developers
+          
+          Sign in
+        
+          
+          Search
+        
+                Products
+              
+                Google Maps API for Work
+              
+                Support
+              
+                Frequently Asked Questions
+              
+      Google Maps API for Work
     
-    Google Maps API for Work
+          Home
+        
+          Guides
+        
+          Support
+        
+    
+    Send feedback
+    Hide
+Paid SupportCommunity SupportFAQIssue trackerMaps for Work Terms of UsePre-launch ChecklistTroubleshooting Authorization
+Paid SupportCommunity SupportFAQIssue trackerMaps for Work Terms of UsePre-launch ChecklistTroubleshooting Authorization
+Show Navigation
+    Frequently Asked Questions
   
-Send feedback about...
-            
-            This page
-            
-Documentation feedback
-            Google Maps API for Work
-            
-Product feedback
-Send feedback
-GuidesClient-side APIsOverviewAuthentication and AuthorizationLoading Client-side APIsQuotas and ReportingContacting SupportWeb ServicesOverviewAuthentication and AuthorizationQuota and ReportingOptimize usage limitsContacting SupportGeolocation APIStatic Maps and Street View APIsOverviewAuthentication and AuthorizationQuotas and ReportingContacting SupportMobile SDKOverviewContacting SupportiOS: DownloadiOS: AuthenticationiOS: ConfigurationiOS: Maps Engine layerDeprecatediOS: Release NotesiOS: API ReferenceAndroid: DownloadAndroid: AuthenticationAndroid: ConfigurationAndroid: Maps Engine layerDeprecatedAndroid: Release NotesAndroid: API ReferencePlaces APIOverviewAuthentication and AuthorizationPremium DataQuotas and ReportingContacting SupportRoads APIOverviewSnap to RoadSpeed LimitsTroubleshooting ErrorsRoads InspectorSupportPaid SupportCommunity SupportFAQIssue trackerMaps for Work Terms of UsePre-launch ChecklistTroubleshooting Authorization
-Frequently Asked Questions
   h4 {
       border-bottom: 1px solid #ebebeb;
     }
@@ -318,7 +332,9 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated May 28, 2015.
+      
+      Last updated May 28, 2015.
+    
             Stack Overflow
           Ask a question under the google-maps tag.
             GitHub
@@ -353,114 +369,95 @@ Last updated May 28, 2015.
                 Maps for Work FAQ
               
                 Articles
-              
-Explore
-Products
-Events
-Communities
-Connect
-Blog
-Google+ Community
-YouTube Channel
-Report an Issue
-Jobs
-Programs
-Groups
-Experts
-Startups
-Women Techmakers
-Top Products
-Ads
-Analytics
-Android
-Cast
-Chrome
-Cloud
-Google Apps
-Google+
-Maps
-Search
-Wallet
-YouTube
-Terms of Use
-Privacy Policy
-                العربيّة
-              
-                български
-              
-                català
-              
-                简体中文
-              
-                繁體中文
-              
-                Hrvatski
-              
-                česky
-              
-                dansk
-              
-                Nederlands
-              
-                English
-              
-                فارسی
-              
-                suomi
-              
-                français
-              
-                Deutsch
-              
-                Ελληνικά
-              
-                עברית
-              
-                Hindi
-              
-                Magyar
-              
-                Bahasa Indonesia
-              
-                italiano
-              
-                日本語
-              
-                한국어
-              
-                latviešu
-              
-                Lithuanian
-              
-                norsk (bokmål)
-              
-                norsk (nynorsk)
-              
-                polski
-              
-                Português Brasileiro
-              
-                Português
-              
-                Română
-              
-                Русский
-              
-                српски
-              
-                slovenský
-              
-                Slovenščina
-              
-                español
-              
-                svenska
-              
-                Thai
-              
-                Türkçe
-              
-                Українська
-              
-                Vietnamese
-              
+              ConnectGoogle I/OBlogFacebookGoogle+TwitterYouTubeProgramsWomen TechmakersGoogle Developer GroupsGoogle Developer ExpertsStartup LaunchpadCareersDeveloper RelationsSoftware EngineeringProduct ManagementTechnical WritingSee MoreExploreAndroidiOSWebGamesAll ProductsTerms
+        |  
+      
+      Privacy
+          العربيّة
+        
+          български
+        
+          català
+        
+          简体中文
+        
+          繁體中文
+        
+          Hrvatski
+        
+          česky
+        
+          dansk
+        
+          Nederlands
+        
+          English
+        
+          فارسی
+        
+          suomi
+        
+          français
+        
+          Deutsch
+        
+          Ελληνικά
+        
+          עברית
+        
+          Hindi
+        
+          Magyar
+        
+          Bahasa Indonesia
+        
+          italiano
+        
+          日本語
+        
+          한국어
+        
+          latviešu
+        
+          Lithuanian
+        
+          norsk (bokmål)
+        
+          norsk (nynorsk)
+        
+          polski
+        
+          Português Brasileiro
+        
+          Português
+        
+          Română
+        
+          Русский
+        
+          српски
+        
+          slovenský
+        
+          Slovenščina
+        
+          español
+        
+          svenska
+        
+          Thai
+        
+          Türkçe
+        
+          Українська
+        
+          Vietnamese
+        Send feedback about...
+          
+          This page
+        Documentation feedback
+        Google Maps API for Work
+        Product feedback
+        
+        Cancel
+      
