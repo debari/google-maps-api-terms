@@ -114,9 +114,8 @@ A username and password is required to access the portal. Please
     Google for Work
     Support Portal login page.
   What are the Terms of Service for the Google Maps API for Work?
-    The Terms of Service for Google Maps API for Work are available at:
-    
-        https://www.google.com/enterprise/earthmaps/legal/us/maps_purchase_agreement.html
+If you are a Google Maps API for Work customer, please refer to your agreement for
+    the terms that govern your use of the Google Maps APIs.
 Usage Limits
 How is Google Maps API for Work usage tracked and
   reported?
@@ -166,7 +165,7 @@ Web Service
 Limits
 Directions
 100 000 requests per 24 hour period
-      and a maximum of 100 waypoints per
+      and a maximum of 23 waypoints per
       request. Rate limit of 10 requests per second.
 Elevation
 100 000 requests per 24 hour period
@@ -319,7 +318,7 @@ var styles = [
 ];
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
-Last updated May 21, 2015.
+Last updated May 28, 2015.
             Stack Overflow
           Ask a question under the google-maps tag.
             GitHub
