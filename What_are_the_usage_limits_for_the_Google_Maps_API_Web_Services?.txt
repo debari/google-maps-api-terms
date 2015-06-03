@@ -10,6 +10,8 @@ Frequently Asked Questions   |  
         
                 Products
               
+                Google Maps API
+              
                 Google Maps API for Work
               
                 Support
