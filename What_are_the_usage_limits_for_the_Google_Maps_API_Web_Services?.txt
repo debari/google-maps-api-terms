@@ -10,7 +10,7 @@ Frequently Asked Questions   |  
         
                 Products
               
-                Google Maps API
+                Google Maps APIs
               
                 Google Maps API for Work
               
