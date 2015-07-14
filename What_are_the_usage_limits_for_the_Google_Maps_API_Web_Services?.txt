@@ -44,8 +44,7 @@ Please refer to the Google Maps API FAQ
 Getting Started
 Which products are included in Google Maps API for Work?
 How do I contact technical support for Google Maps API for Work?
-How do I reset login credentials for the Google
-      for Work support portal?
+How do I reset login credentials for the Google for Work Support Portal?
 What are the Terms of Service for the Google Maps API for Work?
 Usage Limits
 How is Google Maps API for Work usage tracked and
@@ -116,19 +115,17 @@ The following APIs are not covered by Google Maps API for Work.
     time:
 Google Web Search API
 Google Maps Android API v1 (deprecated)
-Panoramio API
 Google Maps Embed API
   How do I contact technical support for Google Maps API for Work?
 Google Maps API for Work customers can open a new support case with Google
     Support using the Google for Work Support Portal at:
-https://www.google.com/enterprise/portal
+https://google.secure.force.com/
 A username and password is required to access the portal. Please
     
       fill out this form if you do not have an account.
   How do I reset login credentials for the Google for Work Support Portal?
     I forgot my password. This link is also available from the
-    Google for Work
-    Support Portal login page.
+    Google for Work Support Portal login page.
   What are the Terms of Service for the Google Maps API for Work?
 If you are a Google Maps API for Work customer, please refer to your agreement for
     the terms that govern your use of the Google Maps APIs.
@@ -152,7 +149,7 @@ A single request for a Google Street View Image API or Google Static
 A single load of the Google Earth API into a page.
 Google Maps API for Work customers can track their page view usage on the the
     Google for Work Support Portal at:
-    https://www.google.com/enterprise/portal
+    https://google.secure.force.com/
 Note that non-Work applications are limited by map loads,
     which are slightly different than page views. Please refer to the
     Maps API FAQ for more
@@ -335,7 +332,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated June 9, 2015.
+      Last updated July 14, 2015.
     
             Stack Overflow
           Ask a question under the google-maps tag.
