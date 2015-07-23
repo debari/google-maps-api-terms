@@ -61,6 +61,10 @@ Introduction
               â
             
               â1
+              Google Maps Data (including Imagery)
+            
+              â
+            
           1. A minimum purchase is required to qualify for Standard Support Level for all Products
           and Services.
         
@@ -206,8 +210,8 @@ Description of Customerâs efforts to resolve the issue (see Section B above
 Response times shown in Business Hours/Days, which fall within the Hours of
           Operation.
           
-No phone support is provided for Google Maps Coordinate, Google Earth Pro, and Google
-          Maps Engine Pro.
+No phone support is provided for Google Maps Coordinate, Google Earth Pro, Google
+          Maps Engine Pro, and Google Maps Data (including Imagery).
           
         4. General Provisions
           A. Violation of Acceptable Use Policy (AUP). Technical support services
@@ -272,8 +276,8 @@ Premium Support Response Times indicated in Section 3(E) above.
           enhance an existing feature of the Products and Services that is currently not available.
         
 "GES Site" means the Google Enterprise technical support services site,
-          currently located at http://www.google.com/work/portal (or such other URL
-          that may be provided by Google).
+          currently located at www.google.com/work/portal (or such other URL that may
+          be provided by Google).
         
 "Hours of Operation" means either: (A) for Customers located in Europe,
           Middle East and Africa, 9:00 - 17:00 GMT (Greenwich Mean Time) on Business Days; (B) for
