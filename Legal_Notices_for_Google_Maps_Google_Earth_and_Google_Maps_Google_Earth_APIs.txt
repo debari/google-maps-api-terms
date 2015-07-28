@@ -1,6 +1,7 @@
 
       Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs â Google
     
+Skip to content
 Google Maps
 Help Center
 Geo Permissions
@@ -165,8 +166,8 @@ GeoBase - http://www.geobase.ca/
           (b) The Finnish Road Administration /Digiroad 2011
         
 4.10 France and Monaco
-          (a) Â© IGN France Â© 2009 IGN France BD TopoÂ® IGN, Â© 2007 IGN France BD OrthoÂ® IGN 50cm,
-           Â© 2011 IGN France - Ortho HRÂ® IGN 20cm (Paris region)
+          (a) Â© IGN France Â© 2009 IGN France BD TopoÂ® IGN, Â© 2007 IGN France BD OrthoÂ® IGN 50cm, Â©
+          2011 IGN France - Ortho HRÂ® IGN 20cm (Paris region)
         
           (b) Â© PrincipautÃ© de Monaco
         
@@ -184,11 +185,11 @@ GeoBase - http://www.geobase.ca/
           This product contains Ordnance Survey data Â© Crown copyright and database right 2011,
           Royal Mail data Â© Royal Mail copyright and database right 2011, and National Statistics
           data Â© Crown copyright and database right 2011
-          (http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf). All rights
-          reserved. Â© South West Coast Path Team.  Contains information of Network Rail Infrastructure
-          Limited licensed under the following license.
-          Contains public sector information licensed under the
-          Open Government Licence v2.0.
+          (http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf). All
+          rights reserved. Â© South West Coast Path Team. Contains information of Network Rail
+          Infrastructure Limited licensed under the following license. Contains public
+          sector information licensed under the Open Government
+          Licence v2.0.
         
 4.13 Greece
           (a) EuroGeographics; Copyright Geomatics Ltd.
@@ -265,7 +266,7 @@ GeoBase - http://www.geobase.ca/
         
           (g) ãã®å°å³ã®ä½æã«ããããå¹³å¡ç¤¾ã¨å¹³å¡ç¤¾å°å³åºçããã®ã©ã¤ã»ã³ã¹æä¾ãåãã¦ãã¾ãã
         
-          (h) äº¤æ¿ å¹³æ 25 å¹´ 110 å· JR ãã¼ã¿ã®åå®¹ã¯ãæ ªå¼ä¼ç¤¾äº¤éæ°èç¤¾çºè¡ã®ãJR æå»è¡¨ãå¹³æ 27 å¹´ 6 æå·ã«åºã¥
+          (h) äº¤æ¿ å¹³æ 25 å¹´ 110 å· JR ãã¼ã¿ã®åå®¹ã¯ãæ ªå¼ä¼ç¤¾äº¤éæ°èç¤¾çºè¡ã®ãJR æå»è¡¨ãå¹³æ 27 å¹´ 7 æå·ã«åºã¥
           ãã¦ãã¾ãããã®æå»ãã¼ã¿ãç¡æ­ã§è»¢è¼ã»è¤åããåã¯ç´åªä½ãé»ç£åªä½ãã®ä»ãããªãåªä½ã«å å·¥ãããã¨ãç¦ãã¾ãã
         
           (i)
@@ -288,227 +289,227 @@ GeoBase - http://www.geobase.ca/
 4.23 Netherlands
           Â© Andes B.V.
         
-          When using public transit data for The Netherlands, the data may have been
-          supplied by Reisinformatiegroep B.V. (9292). These data may not be used to:
-          (a) provide any product or service that deliberately negatively affects the
-        broad availability of open public transport information to the public
-        (e.g., deliberately misinforms end users); or (b) provide any product or service
-        that is unethical or tortious in respect of third parties, in particular public
-        transport operators (e.g., promotes fare dodging). These data are not suitable
-        for interpreting the performance of public transport operators. 9292 explicitly
-        reserves its rights.
-      
+          When using public transit data for The Netherlands, the data may have been supplied by
+          Reisinformatiegroep B.V. (9292). These data may not be used to: (a) provide any product
+          or service that deliberately negatively affects the broad availability of open public
+          transport information to the public (e.g., deliberately misinforms end users); or (b)
+          provide any product or service that is unethical or tortious in respect of third parties,
+          in particular public transport operators (e.g., promotes fare dodging). These data are
+          not suitable for interpreting the performance of public transport operators. 9292
+          explicitly reserves its rights.
+        
 4.24 Northern Ireland
-        Â© Ordnance Survey of Northern Ireland
-      
+          Â© Ordnance Survey of Northern Ireland
+        
 4.25 Norway
-        ElvegÂ©Statens kartverk and Statens vegvesen, N50 KartdataÂ©Statens kartverk
-      
+          ElvegÂ©Statens kartverk and Statens vegvesen, N50 KartdataÂ©Statens kartverk
+        
 4.26 Poland
-        MultiNetâ¢ data of Poland may not be used to create commercial printed maps or map
-        products.
-      
+          MultiNetâ¢ data of Poland may not be used to create commercial printed maps or map
+          products.
+        
 4.27 Portugal
-        (a) IgeoE - Portugal
-      
-        (b) Â© 2012 SRES DRIGOT
-      
-        (c) Â© CTT-Correios de Portugal, SA
-      
+          (a) IgeoE - Portugal
+        
+          (b) Â© 2012 SRES DRIGOT
+        
+          (c) Â© CTT-Correios de Portugal, SA
+        
 4.28 Russia
-        GIS Innovatsia 2011, DatabaseÂ«TopoRF_1000000Â» (Ñ) ÐÐÐ¢Ð+, 2006
-        2013 Rosreestr
-      
+          GIS Innovatsia 2011, DatabaseÂ«TopoRF_1000000Â» (Ñ) ÐÐÐ¢Ð+, 2006 2013 Rosreestr
+        
 4.29 Singapore
-        The Licensed Content used as part of the Services for traffic information is provided to
-        Google under a license agreement with Quantum Inventions Pte Ltd.
-      
-        This product includes mapping data licensed from MapIt MSC Sdn Bhd
-      
+          The Licensed Content used as part of the Services for traffic information is provided to
+          Google under a license agreement with Quantum Inventions Pte Ltd.
+        
+          This product includes mapping data licensed from MapIt MSC Sdn Bhd
+        
 4.30 South Korea
-        Based upon electronic data Â© SK planet Co., Ltd. All rights reserved. Korean Association
-        Survey and Mapping Review Completed No. 2012-018 (2012-05-09).
-      
+          Based upon electronic data Â© SK planet Co., Ltd. All rights reserved. Korean Association
+          Survey and Mapping Review Completed No. 2012-018 (2012-05-09).
+        
 4.31 Spain
-        (a) Vectorial cartographic information based on Base CartogrÃ¡fica Nacional from Instituto
-        GeogrÃ¡fico Nacional de EspaÃ±a
-      
-        (b) Ajuntament de Roses
-      
-        (c) Ajuntament de Sant Cugat del VallÃ¨s
-      
-        (d) Protected areas - EUROPARC EspaÃ±a
-      
+          (a) Vectorial cartographic information based on Base CartogrÃ¡fica Nacional from Instituto
+          GeogrÃ¡fico Nacional de EspaÃ±a
+        
+          (b) Ajuntament de Roses
+        
+          (c) Ajuntament de Sant Cugat del VallÃ¨s
+        
+          (d) Protected areas - EUROPARC EspaÃ±a
+        
 4.32 Sweden
-        (a) Â© 2009 Cartesia GIS AB
-      
-        (b) Â© LantmÃ¤teriet/Metria
-      
-        (c) Â© Swedish Environmental Protection Agency
-      
-        (d) Â© 2009 VÃ¤gverket
-      
-        (e) Based upon electronic data Â© National Land Survey Sweden
-      
+          (a) Â© 2009 Cartesia GIS AB
+        
+          (b) Â© LantmÃ¤teriet/Metria
+        
+          (c) Â© Swedish Environmental Protection Agency
+        
+          (d) Â© 2009 VÃ¤gverket
+        
+          (e) Based upon electronic data Â© National Land Survey Sweden
+        
 4.33 Switzerland
-        (a) Â© Swisstopo
-      
-        (b) Swiss Postal Data (March 2011) are Â© Die Schweizerische Post. You are not permitted,
-        at any one time, to use Swiss Postal Data to provide, display or provide access to mass
-        downloads or bulk feeds of numerical latitude and longitude coordinates.
-      
-        (c) Â© BSF Swissphoto
-      
+          (a) Â© Swisstopo
+        
+          (b) Swiss Postal Data (March 2011) are Â© Die Schweizerische Post. You are not permitted,
+          at any one time, to use Swiss Postal Data to provide, display or provide access to mass
+          downloads or bulk feeds of numerical latitude and longitude coordinates.
+        
+          (c) Â© BSF Swissphoto
+        
 4.34 South Africa
-        Â© AfriGIS (Pty) Ltd
-      
+          Â© AfriGIS (Pty) Ltd
+        
 4.35 Taiwan
-        Â© 2013 Kingwaytek Technology Co.,Ltd.
-      
+          Â© 2013 Kingwaytek Technology Co.,Ltd.
+        
 4.36 Turkey
-        Â© 2013 Basarsoft
-      
+          Â© 2013 Basarsoft
+        
 4.37 Ukraine
-        Â© Transnavicom - http://www.transnavi.com/
-      
+          Â© Transnavicom - http://www.transnavi.com/
+        
 4.38 United States. Google maps of the United States include data
-        provided from the following sources:
-      
-        (a) U.S. Fish and Wildlife Service - http://www.fws.gov/
-      
-        (b) U.S. Census Bureau - http://www.census.gov/
-      
-        (c) USDA Forest Service - http://www.fs.fed.us/
-      
-        (d) U.S. Geological Survey, Gap Analysis Program (GAP) -
-        http://gapanalysis.nbii.gov/PADUS
-      
-        (e) U.S. Geological Survey, U.S. Geographic Names Information System (GNIS) -
-        http://geonames.usgs.gov/
-      
-        (f) U.S. Geological Survey, National Hydrography Dataset (NHD) - http://nhd.usgs.gov/
-      
-        (g) U.S. Geological Survey, Topographic Maps - http://topomaps.usgs.gov/
-      
-        (h) U.S. Geological Survey - http://www.usgs.gov/
-      
-        (i) U.S. Coast Guard - http://www.uscg.mil/
-      
-        (j) University of New Hampshire - http://ccom.unh.edu/
-      
-        (k) U.S. National Parks Service - http://www.nps.gov
-      
-        (l) U.S. Department of Transportation, Research and Innovative Technology Administration
-        - http://www.rita.dot.gov/
-      
+          provided from the following sources:
+        
+          (a) U.S. Fish and Wildlife Service - http://www.fws.gov/
+        
+          (b) U.S. Census Bureau - http://www.census.gov/
+        
+          (c) USDA Forest Service - http://www.fs.fed.us/
+        
+          (d) U.S. Geological Survey, Gap Analysis Program (GAP) -
+          http://gapanalysis.nbii.gov/PADUS
+        
+          (e) U.S. Geological Survey, U.S. Geographic Names Information System (GNIS) -
+          http://geonames.usgs.gov/
+        
+          (f) U.S. Geological Survey, National Hydrography Dataset (NHD) - http://nhd.usgs.gov/
+        
+          (g) U.S. Geological Survey, Topographic Maps - http://topomaps.usgs.gov/
+        
+          (h) U.S. Geological Survey - http://www.usgs.gov/
+        
+          (i) U.S. Coast Guard - http://www.uscg.mil/
+        
+          (j) University of New Hampshire - http://ccom.unh.edu/
+        
+          (k) U.S. National Parks Service - http://www.nps.gov
+        
+          (l) U.S. Department of Transportation, Research and Innovative Technology Administration
+          - http://www.rita.dot.gov/
+        
 4.39 Worldwide
-        (a) Unicode Common Locale Data Repository Â© Unicode, Inc.
-        (http://www.unicode.org/copyright.html). All rights reserved.
-      
-        (b) Â© 2010 Europa Technologies
-      
+          (a) Unicode Common Locale Data Repository Â© Unicode, Inc.
+          (http://www.unicode.org/copyright.html). All rights reserved.
+        
+          (b) Â© 2010 Europa Technologies
+        
 5 Business Listings Data.
 5.1 Google Local Business Listings in France, Germany, Netherlands, Belgium,
-        Denmark, Israel, Luxemborg and Monaco
-        When you search for local listings in France, Germany, Netherlands, Belgium, Denmark,
-        Israel, Luxembourg and Monaco, your search results may include content (including business
-        listings and related information) which has been supplied by Kapitol S.A. (trading as
-        Infobel) (the "Infobel Content"). The intellectual property rights in the Infobel Content
-        are owned by Kapitol S.A. or its licensors. The Infobel Content may only be used in accordance
-        with these Terms of Service and the applicable terms and conditions of Kapitol S.A. If you know
-        that your business listing is supplied by Kapitol S.A., and you have any questions about it
-        you should contact them directly.
-      
+          Denmark, Israel, Luxemborg and Monaco
+          When you search for local listings in France, Germany, Netherlands, Belgium, Denmark,
+          Israel, Luxembourg and Monaco, your search results may include content (including
+          business listings and related information) which has been supplied by Kapitol S.A.
+          (trading as Infobel) (the "Infobel Content"). The intellectual property rights in the
+          Infobel Content are owned by Kapitol S.A. or its licensors. The Infobel Content may only
+          be used in accordance with these Terms of Service and the applicable terms and conditions
+          of Kapitol S.A. If you know that your business listing is supplied by Kapitol S.A., and
+          you have any questions about it you should contact them directly.
+        
 5.2 Google Local Business Listings in the United States
-        When you search for local listings, Google displays business listings which may be
-        supplied by Acxiom Corporation and/or infoUSA Inc. ("Axciom" and/or "infoUSA"). This
-        information is proprietary to those corporations and is protected under U.S. copyright
-        law and international treaty provisions. This information is licensed for your personal
-        or professional use and may not be resold or provided to others. Except as permitted
-        through the Products, you may not distribute, sell, rent, sublicense, or lease such
-        information, in whole or in part to any third party; and you will not make such
-        information available in whole or in part to any other user in any networked or
-        time-sharing environment, or transfer the information in whole or in part to any computer
-        other than the PC used to access this information.
-      
+          When you search for local listings, Google displays business listings which may be
+          supplied by Acxiom Corporation and/or infoUSA Inc. ("Axciom" and/or "infoUSA"). This
+          information is proprietary to those corporations and is protected under U.S. copyright
+          law and international treaty provisions. This information is licensed for your personal
+          or professional use and may not be resold or provided to others. Except as permitted
+          through the Products, you may not distribute, sell, rent, sublicense, or lease such
+          information, in whole or in part to any third party; and you will not make such
+          information available in whole or in part to any other user in any networked or
+          time-sharing environment, or transfer the information in whole or in part to any computer
+          other than the PC used to access this information.
+        
 5.3 Google Local Business Listings in Brazil
-        When you search for local listings in Brazil, your search results may include content
-        (including business listings and related information) that has been supplied by
-        TeleListas S/A. The intellectual property rights in this content are owned by TeleListas
-        or its licensors, and may only be used in accordance with these Terms of Service and any
-        applicable terms and conditions of TeleListas. If you know that your business listing is
-        supplied by TeleListas and you have any questions about it, you should contact them
-        directly.
-      
+          When you search for local listings in Brazil, your search results may include content
+          (including business listings and related information) that has been supplied by
+          TeleListas S/A. The intellectual property rights in this content are owned by TeleListas
+          or its licensors, and may only be used in accordance with these Terms of Service and any
+          applicable terms and conditions of TeleListas. If you know that your business listing is
+          supplied by TeleListas and you have any questions about it, you should contact them
+          directly.
+        
 5.4 Google Local Business Listings in Bulgaria
-        When you search for local listings in Bulgaria, your search results may include content
-        (including business listings and related information) that has been supplied by New
-        Europe Directories Bulgaria EOOD (www.goldenpages.bg). The intellectual property rights
-        in this content are owned by New Europe Directories Bulgaria EOOD or its licensors, and
-        may only be used in accordance with these Terms of Service and any applicable terms and
-        conditions of New Europe Directories Bulgaria EOOD. If you know that your business
-        listing is supplied by New Europe Directories Bulgaria EOOD and you have any questions
-        about it, you should contact them directly.
-      
+          When you search for local listings in Bulgaria, your search results may include content
+          (including business listings and related information) that has been supplied by New
+          Europe Directories Bulgaria EOOD (www.goldenpages.bg). The intellectual property rights
+          in this content are owned by New Europe Directories Bulgaria EOOD or its licensors, and
+          may only be used in accordance with these Terms of Service and any applicable terms and
+          conditions of New Europe Directories Bulgaria EOOD. If you know that your business
+          listing is supplied by New Europe Directories Bulgaria EOOD and you have any questions
+          about it, you should contact them directly.
+        
 5.5 Google Local Business Listings in Norway
-        When you search for local listings in Norway, your search results may include content
-        (including business listings and related information) that has been supplied by Digitale
-        Medier 1881 AS (www.1881.no). The intellectual property rights in this content are owned
-        by Digitale Medier 1881 AS or its licensors, and may only be used in accordance with these
-        Terms of Service and any applicable terms and conditions of Digitale Medier 1881 AS. If
-        you know that your business listing is supplied by Digitale Medier 1881 AS and you have
-        any questions about it, you should contact them directly.
-      
+          When you search for local listings in Norway, your search results may include content
+          (including business listings and related information) that has been supplied by Digitale
+          Medier 1881 AS (www.1881.no). The intellectual property rights in this content are owned
+          by Digitale Medier 1881 AS or its licensors, and may only be used in accordance with
+          these Terms of Service and any applicable terms and conditions of Digitale Medier 1881
+          AS. If you know that your business listing is supplied by Digitale Medier 1881 AS and you
+          have any questions about it, you should contact them directly.
+        
 5.6 Google Local Business Listings in Italy
-        When you search for local listings in Italy, your search results may include content
-        (including business listings and related information) that has been supplied by SEAT
-        Pagine Gialle SPA (www.paginegialle.it). The intellectual property rights in this content
-        are owned by SEAT Pagine Gialle SPA or its licensors, and may only be used in accordance
-        with these Terms of Service and any applicable terms and conditions of SEAT Pagine Gialle
-        SPA. If you know that your business listing is supplied by SEAT Pagine Gialle SPA and you
-        have any questions about it, you should contact them directly.
-      
+          When you search for local listings in Italy, your search results may include content
+          (including business listings and related information) that has been supplied by SEAT
+          Pagine Gialle SPA (www.paginegialle.it). The intellectual property rights in this content
+          are owned by SEAT Pagine Gialle SPA or its licensors, and may only be used in accordance
+          with these Terms of Service and any applicable terms and conditions of SEAT Pagine Gialle
+          SPA. If you know that your business listing is supplied by SEAT Pagine Gialle SPA and you
+          have any questions about it, you should contact them directly.
+        
 5.7 Google Local Business Listings in Republic of Ireland
-       When you search for local listings in the Republic of Ireland, your search results may
-       include content (including business listings and related information) that has been
-       supplied by Central Index (www.centralindex.com) and YourLocal.ie, trading names of Touch
-       Local Ltd.  The intellectual property rights in this content are owned by Touch Local Ltd
-       or its licensors, and may only be used in accordance with these Terms of Service and any
-       applicable terms and conditions of Touch Local Ltd. If you know that your business listing
-       is supplied by Touch Local Ltd. and you have any questions about it, you should contact
-       them directly.
-      
+          When you search for local listings in the Republic of Ireland, your search results may
+          include content (including business listings and related information) that has been
+          supplied by Central Index (www.centralindex.com) and YourLocal.ie, trading names of Touch
+          Local Ltd. The intellectual property rights in this content are owned by Touch Local Ltd
+          or its licensors, and may only be used in accordance with these Terms of Service and any
+          applicable terms and conditions of Touch Local Ltd. If you know that your business
+          listing is supplied by Touch Local Ltd. and you have any questions about it, you should
+          contact them directly.
+        
 6 Software.
 6.1 Interactive Data Visualization, Inc.
-        Google Earth utilizes SpeedTreeÂ®RT technology (Â©2011 Interactive Data Visualization,
-        Inc.). SpeedTreeÂ® is a registered trademark of Interactive Data Visualization, Inc. All
-        rights reserved.
-      
+          Google Earth utilizes SpeedTreeÂ®RT technology (Â©2011 Interactive Data Visualization,
+          Inc.). SpeedTreeÂ® is a registered trademark of Interactive Data Visualization, Inc. All
+          rights reserved.
+        
 6.2 NewSouth Innovations
-        Google Earth uses Kakadu software as an integrated component. No usage rights, expressed
-        or implied, are provided for said product independent of Google Earth. Kakadu is a
-        trademark of NewSouth Innovations Ltd.
-      
+          Google Earth uses Kakadu software as an integrated component. No usage rights, expressed
+          or implied, are provided for said product independent of Google Earth. Kakadu is a
+          trademark of NewSouth Innovations Ltd.
+        
 7 Miscellaneous
-        3D Cities SA
-      
-        AutoNavi (Mapabc)
-      
-        Cybercity
-      
-        Disney
-      
-        Mapabc
-      
-        Nanaimo
-      
-        Nashville Davidson County
-      
-        Sanborn
-      
-        Screampoint International
+          3D Cities SA
+        
+          AutoNavi (Mapabc)
+        
+          Cybercity
+        
+          Disney
+        
+          Mapabc
+        
+          Nanaimo
+        
+          Nashville Davidson County
+        
+          Sanborn
+        
+          Screampoint International
+        
           November 26, 2013
         
 Google
 About Google
-Privacy & Terms
+Privacy
+Terms
