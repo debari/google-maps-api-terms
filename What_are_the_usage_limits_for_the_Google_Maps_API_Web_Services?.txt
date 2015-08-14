@@ -1,6 +1,6 @@
 
-Frequently Asked Questions   |  
-      Google Maps API for Work   |  
+Frequently Asked Questions  | 
+      Google Maps API for Work  | 
       Google Developers
           
           Sign in
