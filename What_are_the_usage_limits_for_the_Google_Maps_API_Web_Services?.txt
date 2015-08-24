@@ -332,7 +332,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated August 12, 2015.
+      Last updated August 24, 2015.
     
             Stack Overflow
           Ask a question under the google-maps tag.
