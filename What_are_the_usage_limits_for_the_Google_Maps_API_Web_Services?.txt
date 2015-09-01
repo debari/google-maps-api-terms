@@ -12,7 +12,7 @@ Frequently Asked Questions  | 
               
                 Google Maps APIs
               
-                Google Maps API for Work
+                For Work
               
                 Support
               
@@ -47,21 +47,24 @@ How do I contact technical support for Google Maps API for Work?
 How do I reset login credentials for the Google for Work Support Portal?
 What are the Terms of Service for the Google Maps API for Work?
 Usage Limits
-How is Google Maps API for Work usage tracked and
-    reported?
-What are the usage limits for the Google Maps
-    JavaScript API v3?
-What are the usage limits for the Google Earth
-    API?
-What are the usage limits for the Google Maps Mobile SDK for Work?
+How is Google Maps API for Work usage tracked
+    and reported?
+What are the usage limits for the
+    Google Maps JavaScript API?
+What are the usage limits for the
+    Google Earth API?
+What are the usage limits for the
+    Google Maps Mobile SDK for Work?
 What are the usage limits for the Google Maps
     API Web Services?
-What are the usage limits for the Google Places
-    and Geolocation APIs?
-What are the usage limits for the Static
-    Maps API?
-What are the usage limits for the Street View
-    Image API?
+What are the usage limits for the
+    Google Places API and Google Maps Geolocation APIs?
+What are the usage limits for Geocoding
+    requests made from the {{product_maps_javascript_api}?
+What are the usage limits for the
+    Google Static Maps API?
+What are the usage limits for the
+    Google Street View Image API?
 Using the Maps API over HTTPS
 How do I access the Google Maps APIs over HTTPS (SSL)
     using a Google Maps API for Work client ID?
@@ -83,30 +86,25 @@ The following Google products are included in
     Google Maps API for Work. Applications that use these products
     are covered by the
     
-Google Maps API for Work SLA, and are eligible for
+      Google Maps API for Work SLA, and are eligible for
     technical support:
 Google Maps JavaScript API
-      V3
-Google Static Maps
-      API
-Google Street View Image
-      API
+Google Static Maps API
+Google Street View Image API
 Google Earth API
-Google Geocoding API
-Google Elevation API
-Google Directions API
-Google Distance Matrix
-      API
-Google Time Zone API
-Google Roads API
+Google Maps Geocoding API
+Google Maps Elevation API
+Google Maps Directions API
+Google Maps Distance Matrix API
+Google Maps Time Zone API
+Google Maps Roads API
 Google Places API and the
       Places library of the
-      Google Maps JavaScript v3 API, if
+      Google Maps JavaScript API, if
       specifically enabled for Google Maps API for Work support.
-Google Geolocation
-      API, if specifically enabled for Google Maps API for Work support.
-Google Maps Mobile SDK for Work (Android
-      API v2 and iOS), if specifically enabled for
+Google Maps Geolocation API
+      , if specifically enabled for Google Maps API for Work support.
+Google Maps Mobile SDK for Work (Google Maps Android API and iOS), if specifically enabled for
       Google Maps API for Work support.
 The following APIs are not covered by Google Maps API for Work.
     Applications that use these APIs must do so in compliance with the
@@ -144,8 +142,8 @@ A single load of the Google Maps JavaScript API into a page. The
       recommend loading the API
       asynchronously on pages where maps are only displayed in response to
       optional user activity.
-A single request for a Google Street View Image API or Google Static
-      Maps API image.
+A single request for a Google Street View Image API or
+      Google Static Maps API image.
 A single load of the Google Earth API into a page.
 Google Maps API for Work customers can track their page view usage on the the
     Google for Work Support Portal at:
@@ -158,7 +156,7 @@ The Google Maps Mobile SDK for Work uses map loads to track usage.
     Please refer to the
     Usage Limits
     for more information.
-  What are the usage limits for the Google Maps JavaScript API v3?
+  What are the usage limits for the Google Maps JavaScript API?
   What are the usage limits for the Google Earth API?
 Requests that constitute page views are
   applied against the total number of page views purchased with your
@@ -177,28 +175,28 @@ Google Maps API for Work customers are provided with the following
 Web Service
 Limits
 Directions
-Pricing based on volume required requests per 24 hour period
-      and a maximum of 23 waypoints per
+Quota based on amount purchased annually. Maximum of
+      23 waypoints per
       request. Rate limit of 10 requests per second.
 Elevation
-100 000 requests per 24 hour period
-      and a maximum of 512 points per
+Quota based on amount purchased annually. Maximum of
+      512 points per
       request. Rate limit of 10 requests per
       second.
 Geocoding
-100 000 requests per 24 hour period.
+Quota based on amount purchased annually.
       Rate limit of 10 requests per second.
 Distance Matrix
-100 000 elements per 24 hour
-      period, a maximum of 625 elements
-      per query and a maximum of 1000
+Quota based on amount purchased annually. Maximum of
+      625 elements
+      per query and a maximum of 1,000
       elements per 10 seconds.
 Time Zone
- 100 000 requests per 24 hour period. Rate
-      limit of 10 requests per second.
-Roads API
- 100 000 requests per 24 hour period. Rate
-      limit of 10 requests per second. Each request
+ Quota based on amount purchased annually. Rate limit of
+      10 requests per second.
+Roads
+ Quota based on amount purchased annually. Rate limit of
+      10 requests per second. Each request
       may contain up to 100 points.
 These limits apply to each Google Maps API for Work client ID or developer
     project and are shared across all applications and IP addresses using a given client
@@ -206,45 +204,44 @@ These limits apply to each Google Maps API for Work client ID or developer
 If you need higher usage limits, please contact your
     Google Maps API for Work Account Manager for purchase information.
 What are the usage limits for the Google Places
-  API and the Geolocation API?
-If you've purchased the Google Places API or the Geolocation API as part
+  API and the Google Maps Geolocation API?
+If you've purchased the Google Places API or the Google Maps Geolocation API as part
     of your Google Maps API for Work contract, your limits will be listed
     in the Quotas section of the 
 Google Developers Console.
     If you need a higher limit, please
     contact Google through
     the Google for Work Support Portal.
-  What are the usage limits for Geocoding requests made from the Maps
-  JavaScript API?
+  What are the usage limits for Geocoding requests made from the Google Static Maps API?
 Google Maps API for Work customers are provided with the following
     usage limits for Geocoding requests made from the JavaScript API:
 Service
 API being used
 Limits
 Geocoding
-JavaScript v3
+Google Maps JavaScript API
 Geocoding has a daily allocation and rate limit which is applied per
           user session, regardless of how many users share a given IP
           address.
 This service should not be used for batch geocoding operations; you
           may wish to use the 
-            Geocoding API for such operations.
+            Google Maps Geocoding API for such operations.
 What are the usage limits for the Google Maps
   Image APIs?
 Google Maps API for Work customers are provided with the following
     usage limits for the Google Maps Image APIs:
 Service
 Limits
-Static Maps API
+Google Static Maps API
 Requests are applied against the total number of page views
           purchased with the Google Maps API for Work license.
 The maximum image size is 2048 by 2048 pixels. This is calculated as
           size times scale, as explained below.
-Street View Image API
+Google Street View Image API
 Requests are applied against the total number of page views
           purchased with the Google Maps API for Work license.
 The maximum image size is 2048 by 2048 pixels.
-Static Map API images can be requested up to 2048x2048 pixels. Because the
+Google Static Maps API images can be requested up to 2048x2048 pixels. Because the
     scale value in a static map request affects the number of
     pixels returned, the maximum size value is different for
     each scale level:
@@ -260,7 +257,7 @@ Returns
 4
 512x512
 2048x2048
-The Street View Image API does not support the scale
+The Google Street View Image API does not support the scale
     parameter.
 Using the Maps API over HTTPS
   How do I access the Google Maps APIs over HTTPS (SSL) using a Google Maps API for Work client ID?
@@ -316,8 +313,8 @@ A signature has been specified but the associated Google Maps API for Work
       client ID has not been specified.
 Styling
 Why aren't businesses showing up on my map?
-When loading a Google Map using the v3 API and including a
-    client parameter, business listings on the map are turned off
+When loading a map using the Google Maps JavaScript API and
+    including a client parameter, business listings on the map are turned off
     by default. To turn them back on, you'll need to include some
     styling code with your
     map:
@@ -332,7 +329,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated August 24, 2015.
+      Last updated September 1, 2015.
     
             Stack Overflow
           Ask a question under the google-maps tag.
