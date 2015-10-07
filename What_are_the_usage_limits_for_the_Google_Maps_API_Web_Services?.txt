@@ -175,27 +175,27 @@ Google Maps API for Work customers are provided with the following
 Web Service
 Limits
 Directions
-Quota based on amount purchased annually. Maximum of
+Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase. Maximum of
       23 waypoints per
       request. Rate limit of 10 requests per second.
 Elevation
-Quota based on amount purchased annually. Maximum of
+Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase. Maximum of
       512 points per
       request. Rate limit of 10 requests per
       second.
 Geocoding
-Quota based on amount purchased annually.
+Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase.
       Rate limit of 10 requests per second.
 Distance Matrix
-Quota based on amount purchased annually. Maximum of
+Daily quota starting at 100,000 elements per 24 hours, based on annual contractual purchase. Maximum of
       625 elements
       per query and a maximum of 1,000
       elements per 10 seconds.
 Time Zone
- Quota based on amount purchased annually. Rate limit of
+ Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase . Rate limit of
       10 requests per second.
 Roads
- Quota based on amount purchased annually. Rate limit of
+ Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase. Rate limit of
       10 requests per second. Each request
       may contain up to 100 points.
 These limits apply to each Google Maps API for Work client ID or developer
@@ -212,7 +212,7 @@ Google Developers Console.
     If you need a higher limit, please
     contact Google through
     the Google for Work Support Portal.
-  What are the usage limits for Geocoding requests made from the Google Static Maps API?
+  What are the usage limits for Geocoding requests made from the Google Maps JavaScript API?
 Google Maps API for Work customers are provided with the following
     usage limits for Geocoding requests made from the JavaScript API:
 Service
@@ -329,7 +329,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated October 2, 2015.
+      Last updated October 7, 2015.
     
             Stack Overflow
           Ask a question under the google-maps tag.
