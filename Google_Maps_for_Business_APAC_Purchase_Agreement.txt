@@ -1,9 +1,9 @@
 
-      Google Maps for Business
+      Google Maps for Business - APAC Purchase Agreement
     
-        Google Maps for Business - APAC Purchase Agreement
+        Google Maps API for Business - APAC Purchase Agreement
       
-This agreement for the purchase of Google Maps API Premier (the
+This agreement for the purchase of Google Maps API for Business (the
       "Agreement") is made and entered into by and between Google Asia Pacific Pte. Ltd.
       (Co. Reg. No. 200817984R) ("Google") and the customer identified on the Ordering
       Document ("Customer"). This Agreement and the corresponding Ordering Document governs
@@ -96,6 +96,15 @@ This agreement for the purchase of Google Maps API Premier (the
             l. use content derived from the Service without a corresponding Google Map (ex.
             Geocodes obtained through the Service may not be used except with a Google Map).
           
+            m. with respect to APIs that identify specific End User location information (âEUL
+            APIsâ), and any contradictory Agreement terms notwithstanding, Customer will not obtain
+            or cache an End Userâs location without the End Userâs prior consent. Customer will
+            notify End User in advance of the End-User data Customer intends to collect and if
+            Customer intends to use EUL APIs with any other data providerâs data. End Userâs
+            consent to data collection under this section must be revocable at any time. Customer
+            further agrees not to provide any personally identifiable information or device
+            identifiers along with any Customer Content.
+          
 4.2 Customer IDs. Customer IDs are required, must be used
         according to the Documentation, and will be forwarded to Customer electronically. Google
         may not respond to requests with an invalid Customer ID. Customer's failure to use a
@@ -175,23 +184,9 @@ a. Compliance. Customer agrees to comply with the Maps
         without liability to Google. If the Ordering Document does not identify a support level,
         then Google will provide Standard Support. Google may change the TSS from time to time, but
         not if the changes materially adversely impact Customer.
-        8.2 Deprecation.
-a. Deprecation. Google will issue an announcement if the
-          current version of the API will become the Deprecated Version of the API. If Google does
-          so, Google will use commercially reasonable efforts to continue to operate the Deprecated
-          Version of the API for the Deprecation Period, and to respond to problems with the
-          Deprecated Version of the API deemed by Google in its discretion to be critical. Google
-          will not add new features to the Deprecated Version of the API during the Deprecation
-          Period.
-          b. Experimental Features or Functionality. Prior to
-          converting the current version of the API to the Deprecated Version of the API, Google
-          may, in its reasonable discretion, label certain features or functionality of the API as
-          âexperimental.â This section 8.2 will not apply to any features or functionality labeled
-          as "experimental" or any version of the API labeled as âLabs.â Further, Google reserves
-          the right in its discretion to cease providing all or any part of the Deprecated Version
-          of the API immediately if providing the Deprecated Version of API could create a security
-          risk or material technical burden as determined by Google in its reasonable good faith
-          judgment.
+        
+          8.2 Deprecation. Googleâs Services deprecation terms are available at
+          http://www.google.com/work/earthmaps/legal/us/deprecation.html.
         
 9. Payment.
 9.1 Purchase Process. Google will provide Customer an
@@ -360,8 +355,8 @@ a. Termination for Google's Breach. If the Agreement is
         THIS AGREEMENT FOR MORE THAN THE AMOUNT PAID BY CUSTOMER TO GOOGLE DURING THE TWELVE MONTHS
         PRIOR TO THE EVENT GIVING RISE TO LIABILITY.
         16.3 Exceptions to Limitations. These limitations of
-        liability do not apply to breaches of confidentiality obligations, violations of a party's
-        Intellectual Property Rights by the other party, or indemnification obligations.
+        liability do not apply to breaches of confidentiality obligations or violations of a
+        party's Intellectual Property Rights by the other party.
       
 17. Indemnification.
 17.1 By Google. Google will indemnify, defend, and hold
@@ -387,7 +382,8 @@ a. Termination for Google's Breach. If the Agreement is
         settlement costs and reasonable attorneys' fees) arising out of (a) a third party claim
         made against Google for infringement of the third party rights listed in Section 17.1 based
         on conduct by Customer as described in Section 17.2; or (b) Customer's breach of Section 7
-        (Export Compliance).
+        (Export Compliance); or (c) Customerâs use of the Software or Services in breach of an End
+        Userâs privacy.
         17.4 Possible Infringement.
 a.Repair, Replace, or Modify. If Google reasonably believes
           the Services infringes a third party's Intellectual Property Rights, then Google will:
@@ -564,7 +560,7 @@ a. Design. Integrator will respond to a Google
       
 22. Definitions.
 "Acceptable Use Policy" or "AUP" means the means the
-        acceptable use policy for the Services available at http://www.google.com/enterprise/earthmaps/legal/us/maps_AUP.html
+        acceptable use policy for the Services available at http://www.google.com/work/earthmaps/legal/us/maps_AUP.html
         (or other URL as may be provided by Google).
         "Ads" means advertisements served by Google through the
         Services.
@@ -627,7 +623,7 @@ a. Design. Integrator will respond to a Google
         streets, at which a point of interest or address, is located, and additionally may include
         a raster image depicting this location on a map.
         "Google Questionaire" means questions listed at the following
-        URL: http://www.google.com/enterprise/earthmaps/legal/us/maps_design_questionaire.html
+        URL: http://www.google.com/work/earthmaps/legal/us/maps_design_questionaire.html
         (or other URL as may be provided by Google).
         "High Risk Activities" means uses like the operation of
         emergency services, nuclear facilities, air traffic control or life support systems, where
@@ -672,7 +668,7 @@ a. Design. Integrator will respond to a Google
         following URL: http://www.google.com/privacy/privacy-policy.html
         (or other URL as may be provided by Google).
         "Prohibited Territory" means the countries listed at the
-        following URL: http://www.google.com/enterprise/earthmaps/legal/us/maps_integrator_territory.html
+        following URL: http://www.google.com/work/earthmaps/legal/us/maps_prohibited_territory.html
         (or other URL as may be provided by Google).
         "Purchase Order" means a Customer issued purchase order.
         "Queries Per Second" or "QPS" means queries per second
@@ -682,12 +678,12 @@ a. Design. Integrator will respond to a Google
         time or distance, or both, for the entire, or any portion of, the route.
         "Sensor" means the use of any technology to automatically
         determine an End User's location.
-        "Services" means the Google Maps API Premier service and the
-        APIs described here: http://www.google.com/enterprise/earthmaps/legal/us/maps_included_APIs.html
+        "Services" means the Google Maps API for Business service and
+        the APIs described here: http://www.google.com/work/earthmaps/legal/us/maps_included_APIs.html
         (or other URL as may be provided by Google). APIs may be included at no-additional cost,
         upgradeable or deprecated.
         "Service Level Agreement" or "SLA" means the Google
-        Maps Service Level Agreement available at the following URL: http://www.google.com/enterprise/earthmaps/legal/us/maps_sla.html
+        Maps Service Level Agreement available at the following URL: http://www.google.com/work/earthmaps/legal/us/maps_sla.html
         (or other URL as may be provided by Google).
         "Shipment Date" means the date upon which Google provides
         Customer the Client ID for the Services.
@@ -700,7 +696,7 @@ a. Design. Integrator will respond to a Google
         the Effective Date and continue until the earlier of: (i) the end of the last License Term
         or (ii) the Agreement is terminated as set forth herein.
         "Territory" means that (i) the primary place of business of
-        the Customer must be located in one of the countries listed at the following URL: http://www.google.com/enterprise/earthmaps/legal/us/maps_territory_apac.html
+        the Customer must be located in one of the countries listed at the following URL: http://www.google.com/work/earthmaps/legal/us/maps_territory_apac.html
         (or other URL as may be provided by Google) and (ii) the Customer may not actively target
         End Users or Track Assets outside of the Territory.
         "Third Party Ads" means any advertisements that originate
@@ -721,13 +717,13 @@ a. Design. Integrator will respond to a Google
         Google, in accordance with Google's TSSG, for the Services, and for the time period, set
         forth in the Ordering Document.
         "TSSG" means Googleâs then current Technical Support Services
-        Guidelines, which may be may be accessed at the following URL: http://www.google.com/enterprise/earthmaps/legal/us/maps_tssg.html
+        Guidelines, which may be may be accessed at the following URL: http://www.google.com/work/earthmaps/legal/us/maps_tssg.html
         (or other URL as may be provided by Google).
         "Updates" is defined in the TSSG.
         "URL Terms" means the following URL terms: AUP, SLA,
         Territory, and TSSG.
         "Usage Limits" means the limits for use of the Services,
-        which may be accessed at the following URL: http://support.google.com/enterprise/doc/gme/terms/maps_usage_limits.html
+        which may be accessed at the following URL: http://support.google.com/work/doc/gme/terms/maps_usage_limits.html
         (or other such URL as may be provided by Google). Customer may purchase upgrades to these
         usage limits.
         "Version" means any major update to the Service (i.e. version

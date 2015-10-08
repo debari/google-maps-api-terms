@@ -1,5 +1,5 @@
 
-      Google Maps for Business
+      Enterprise Maps and Earth Deprecation Terms
     
         Enterprise Maps and Earth Deprecation Terms
       
@@ -18,8 +18,8 @@ b. doing so could create a security risk or substantial economic or material tec
 Your APIs or service agreement, its applicable policies or the productâs documentation
       may contain additional deprecation terms and conditions. In particular:
       
-Google Maps
-          API for Business - included APIs
+Google
+          Maps API for Business - included APIs
 Experimental Features or Functionality
       These Deprecation Terms do not apply to versions, features, and functionality labeled as
       "experimental." Experimental versions, features, and functionality may be deprecated at any

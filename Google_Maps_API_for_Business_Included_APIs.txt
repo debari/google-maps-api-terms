@@ -1,5 +1,5 @@
 
-      Google Maps for Business
+      Google Maps API for Work - Included APIs
     
         Google Maps API for Business - Included APIs
       
@@ -21,12 +21,10 @@ Google Directions API (https://developers.google.com/maps/documentation/directio
         
 Google Distance Matrix API (https://developers.google.com/maps/documentation/distancematrix/)
         
-Google Maps Roads API (https://developers.google.com/maps/documentation/roads/)
-        
 Google Time Zone API (https://developers.google.com/maps/documentation/timezone/)
         
 Google Maps and Earth Enterprise Deprecation Policy
-            The Google Maps and Earth Deprecation Terms (âPolicyâ) can be found here (http://www.google.com/enterprise/earthmaps/legal/us/deprecation.html).
+            The Google Maps and Earth Deprecation Terms (âPolicyâ) can be found here (http://www.google.com/work/earthmaps/legal/us/deprecation.html).
             The following applies to the APIs listed above and supplements the Policy terms: Google
             will use commercially reasonable efforts to continue to operate the Service or the
             applicable APIs without these changes until the later of: (i) one year after the

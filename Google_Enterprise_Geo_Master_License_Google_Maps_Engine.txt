@@ -1,7 +1,7 @@
 
-      Google Maps for Business
+      Google Enterprise Geo Master License-Google Maps Engine
     
-li.c1 {list-style: none; display: inline}
+    li.c1 {list-style: none; display: inline}
     
         Google Enterprise Geo Master License-Google Maps Engine
       
@@ -580,7 +580,7 @@ c. Delivery. The Products and Services will not be made available
           
             "Prohibited Territory": means the list of countries where Customer may not use or
             actively target Product, Software or Service received under the Agreement and this
-            Addendum that is located at the following URL: www.google.com/enterprise/earthmaps/legal/us/maps_prohibited_territory.html
+            Addendum that is located at the following URL: www.google.com/work/earthmaps/legal/us/maps_prohibited_territory.html
             (or such other URL as may be provided or updated by Google).
           
             "Purchase Order" means a Customer issued purchase order.
@@ -839,12 +839,12 @@ d. "Subscription Territory" means the countries listed at the
           9. Deprecation.
         
           The Products and Services are subject to Googleâs Service deprecation terms which are
-          available at: www.google.com/enterprise/earthmaps/legal/us/deprecation.html.
+          available at: www.google.com/work/earthmaps/legal/us/deprecation.html.
         
           10. Definitions
         
             "Acceptable Use Policy" or "AUP" means the means the acceptable use policy for the
-            Services available at the following URL: www.google.com/enterprise/earthmaps/legal/universal_aup.html
+            Services available at the following URL: www.google.com/work/earthmaps/legal/universal_aup.html
             or other such URL as Google may provide.
           
             "Administrator(s)" mean those Customer users under this Addendum with full Product and
@@ -862,14 +862,14 @@ d. "Subscription Territory" means the countries listed at the
             "Seat" means an individual Service use license assigned to an End User.
           
             "Service Level Agreement" means, for the purposes of this Addendum, the Google Maps
-            Engine Service Level Agreement available at the following URL: www.google.com/enterprise/earthmaps/legal/us/gme_sla.html
+            Engine Service Level Agreement available at the following URL: www.google.com/work/earthmaps/legal/us/gme_sla.html
             (or other such URL as provided or updated Google.)
           
             âServing Quotaâ means the limits for use of the Products and Services, which will be as
             listed on the Ordering Document or as provided to Customer with the Documentation.
           
             "TSSG" means Googleâs then current Technical Support Services Guidelines, which may be
-            may be accessed at the following URL: www.google.com/enterprise/earthmaps/legal/us/gme_tssg.html
+            may be accessed at the following URL: www.google.com/work/earthmaps/legal/us/gme_tssg.html
             (or other URL as may be provided or updated by Google).
           
             "URL Terms" for the purposes of this Addendum means the following URL terms: AUP, SLA,
@@ -1077,7 +1077,7 @@ Google Coordinate Terms of Service Addendum
         
           8. Definitions.
 âAcceptable Use Policyâ or âAUPâ means the means the
-            acceptable use policy for the Services available at the following URL: http://www.google.com/enterprise/earthmaps/legal/us/coordinate_aup.html
+            acceptable use policy for the Services available at the following URL: http://www.google.com/work/earthmaps/legal/us/coordinate_aup.html
             or other such URL as Google may provide.
           
 âCustomer Dataâ means the data Customer loads, or which is loaded on
@@ -1104,7 +1104,7 @@ Google Coordinate Terms of Service Addendum
           
 âProhibited Territoryâ: means the list of countries where Customer may
             not use or actively target Product, Software or Service received under the Agreement
-            and this Addendum. http://www.google.com/enterprise/earthmaps/legal/us/coordinate_prohibited_territory.html
+            and this Addendum. http://www.google.com/work/earthmaps/legal/us/coordinate_prohibited_territory.html
             (or such other URL as may be updated by Google) or other such URL as Google may
             provide.
           
@@ -1115,7 +1115,7 @@ Google Coordinate Terms of Service Addendum
             location history.
           
 âService Level Agreementâ means TBD available at the following URL:
-            http://www.google.com/enterprise/earthmaps/legal/us/coordinate_sla.html
+            http://www.google.com/work/earthmaps/legal/us/coordinate_sla.html
             or other such URL as Google may provide.
           
 âSoftwareâ means the object code software provided Customer under the
@@ -1129,7 +1129,7 @@ Google Coordinate Terms of Service Addendum
           
 âTerritoryâ means the list of countries where Customer use the
             Product, Software or Service received under the Agreement and this Addendum available
-            at the following URL http://www.google.com/enterprise/earthmaps/legal/us/maps_territory.html
+            at the following URL http://www.google.com/work/earthmaps/legal/us/maps_territory.html
             or other such URL as Google may provide.
           
 âURL Termsâ for the purposes of this Addendum means the following
@@ -1142,6 +1142,6 @@ Google Coordinate Terms of Service Addendum
             the Services.
           
 âTSSGâ means Googleâs then current Technical Support Services
-            Guidelines, which may be may be accessed at the following URL: http://www.google.com/enterprise/earthmaps/legal/us/coordinate_tssg.html
+            Guidelines, which may be may be accessed at the following URL: http://www.google.com/work/earthmaps/legal/us/coordinate_tssg.html
             (or other URL as may be provided by Google).
           
