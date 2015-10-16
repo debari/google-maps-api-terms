@@ -14,14 +14,15 @@ Legal Notices for Business Listings
         
           The following are various legal notices that Google is obligated to provide by law and/or
           by contract (the "Legal Notices"). The Legal Notices are incorporated by reference into
-          the Google Maps/Google Earth
-          Terms of Service and the Google
-          Maps/Google Earth APIs Terms of Service. By using Google Maps, Google Earth, or the
-          Google Maps/Google Earth APIs (collectively, the "Products"), you are
-          agreeing to be bound by these Legal Notices. Unless otherwise specified, capitalized
-          terms used in these Legal Notices have the meanings described in the Google Terms of Service, the Google Maps/Google Earth Terms of
-          Service, and the Google
-          Maps/Google Earth APIs Terms of Service.
+          the Google Maps/Google Earth Terms of Service and the
+          Google Maps/Google Earth APIs
+          Terms of Service. By using Google Maps, Google Earth, or the Google Maps/Google Earth
+          APIs (collectively, the "Products"), you are agreeing to be bound by
+          these Legal Notices. Unless otherwise specified, capitalized terms used in these Legal
+          Notices have the meanings described in the Google Terms of
+          Service, the Google Maps/Google Earth Terms of Service,
+          and the Google Maps/Google Earth
+          APIs Terms of Service.
         
 1 Standards. Google Maps and Google Earth rely on widely-recognized
           international standards for naming and mapping conventions. For example, for country and
@@ -187,9 +188,9 @@ GeoBase - http://www.geobase.ca/
           data Â© Crown copyright and database right 2011
           (http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf). All
           rights reserved. Â© South West Coast Path Team. Contains information of Network Rail
-          Infrastructure Limited licensed under the following license. Contains public
-          sector information licensed under the Open Government
-          Licence v2.0.
+          Infrastructure Limited licensed under the following license. Contains
+          public sector information licensed under the Open
+          Government Licence v2.0.
         
 4.13 Greece
           (a) EuroGeographics; Copyright Geomatics Ltd.
