@@ -1,67 +1,71 @@
 
-      Google Maps for Work - Service Level Agreement
+      Google Maps for Business - Service Level Agreement (âMaps API SLAâ)
     
-        Google Maps for Business - Service Level Agreement (âMaps API SLAâ)
+        Google Maps for WorkâService Level Agreement (âMaps API SLAâ)
       
-Service Level Agreement. Google will use reasonable commercial efforts to
-        provide Maps API web and mobile interfaces that are operating and available to Customers
-        99.9% of the time in any calendar month. In the event Customer experiences any of the
-        Service performance issues defined below due to the unavailability of Services, Customer
-        will be eligible to receive Service Credits
-      
+Service Level Agreement. Google will use reasonable commercial efforts
+            to provide Maps API web and mobile interfaces that are operating and available to
+            Customers 99.9% of the time in any calendar month. In the event Customer experiences
+            any of the Service performance issues defined below due to the unavailability of
+            Services, Customer will be eligible to receive Service Credits.
+          
 Customer Service Credit Request. In order to receive Service Credits,
-        Customer must notify Google within thirty (30) days from the time Customer belives it is
-        eligible to receive a Service Credit. Failure to comply with this requirement will forfeit
-        Customer's right to receive a Service Credit.
-      
-Maximum Service Credit. The aggregate maximum number of Service Credits to
-        be issued by Google to Customer for any and all Downtime Periods that occur in a single
-        calendar month will not exceed fifteen days of Service added to the end of Customerâs term
-        for the Service. Service Credits may not be exchanged for, or converted to, monetary
-        compensation.
-      
-Maps API SLA Exclusions. The Maps API SLA does not apply to any Service(s)
-        that expressly exclude this Maps API SLA (as stated in the documentation for such services)
-        and any performance issues: (i) caused by factors outside of Google's reasonable control;
-        (ii) that resulted from any actions or inactions of Customer or any third parties; or (iii)
-        that resulted from Customer's equipment and/or third party equipment (not within the
-        primary control of Google). This Maps API SLA states Customer's sole and exclusive remedy
-        for any failure by Google to meet this Maps API SLA.
-      
+            Customer must notify Google within thirty (30) days from the time Customer believes it
+            is eligible to receive a Service Credit. Failure to comply with this requirement will
+            forfeit Customer's right to receive a Service Credit.
+          
+Maximum Service Credit. The aggregate maximum number of Service
+            Credits to be issued by Google to Customer for any and all Downtime Periods that occur
+            in a single calendar month will not exceed fifteen days of Service added to the end of
+            Customerâs term for the Service. Service Credits may not be exchanged for, or converted
+            to, monetary compensation.
+          
+Maps API SLA Exclusions. The Maps API SLA does not apply to any
+            Service(s) that expressly exclude this Maps API SLA (as stated in the documentation for
+            such services) and any performance issues: (i) caused by factors outside of Google's
+            reasonable control; (ii) that resulted from any actions or inactions of Customer or any
+            third parties; or (iii) that resulted from Customer's equipment and/or third party
+            equipment (not within the primary control of Google). This Maps API SLA states
+            Customer's sole and exclusive remedy for any failure by Google to meet this Maps API
+            SLA.
+          
 Definitions. The following definitions apply to this Maps API SLA.
-      
-âApplicationâ means one of the mobile applications authorized to use a
-        Google Maps Mobile SDK for Business API key
-        
-"Downtime" means, for a Domain or Application, if average latency is
-        greater than three seconds. Downtime is measured based on server side error rate.
-        
-"Downtime Period" means, for a Domain, a period of ten consecutive
-        minutes of Downtime. Intermittent Downtime for a period of less than ten minutes will not
-        be counted towards any Downtime Periods.
-        
+            
+"Application" means one of the mobile applications authorized to
+              use a static build of the Google Maps Android API or the Google Maps SDK for iOS.
+              
+"Downtime" means, for a Domain or Application, if average
+              latency is greater than three seconds. Downtime is measured based on server side
+              error rate.
+              
+"Downtime Period" means, for a Domain, a period of ten
+              consecutive minutes of Downtime. Intermittent Downtime for a period of less than ten
+              minutes will not be counted towards any Downtime Periods.
+              
 "Monthly Uptime Percentage" means total number of minutes in a
-        calendar month minus the number of minutes of Downtime suffered from all Downtime Periods
-        in a calendar month, divided by the total number of minutes in a calendar month.
-        
-"Scheduled Downtime" means those times where Google notifies Customers
-        of periods of Downtime seven days prior to the commencement of such Downtime. There will be
-        no more than twelve hours of Scheduled Downtime per calendar year. Scheduled Downtime is
-        not considered Downtime for purposes of this Maps API for Business SLA, and will not be
-        counted towards any Downtime Periods.
-        
+              calendar month minus the number of minutes of Downtime suffered from all Downtime
+              Periods in a calendar month, divided by the total number of minutes in a calendar
+              month.
+              
+"Scheduled Downtime" means those times where Google notifies
+              Customers of periods of Downtime seven days prior to the commencement of such
+              Downtime. There will be no more than twelve hours of Scheduled Downtime per calendar
+              year. Scheduled Downtime is not considered Downtime for purposes of this Maps API
+              SLA, and will not be counted towards any Downtime Periods.
+              
 "Domain" means one of the sites or URLs authorized to use an
-        individual Maps API for Business client id, for example www.google.com.
-        
+              individual Maps API for Business client id, for example www.google.com.
+              
 "Service" means the Google Maps API road and satellite imagery
-        provided by Google to Customer under the Google Maps API for Business Agreement. Geocoding
-        features of the Maps API are not covered herein.
-        
-"Service Credit" means: (a) three days of Service added to the end of
-        Customerâs term for the Service, at no charge to Customer, if the Monthly Uptime Percentage
-        for any calendar month is between 99.0% and 99.9%; or (b) seven days of Service added to
-        the end of Customerâs term for the Service, at no charge to Customer, if the Monthly Uptime
-        Percentage for any calendar month is between 99.0% and 95.0 %; or (c) fifteen days of
-        Service added to the end of Customerâs term for the Service, at no charge to Customer, if
-        the Monthly Uptime Percentage for any calendar month is less than 95.0%.
-        
+              provided by Google to Customer under the Google Maps APIs Premium Plan Agreement.
+              Geocoding features of the Maps API are not covered herein.
+              
+"Service Credit" means: (a) three days of Service added to the
+              end of Customerâs term for the Service, at no charge to Customer, if the Monthly
+              Uptime Percentage for any calendar month is between 99.0% and 99.9%; or (b) seven
+              days of Service added to the end of Customerâs term for the Service, at no charge to
+              Customer, if the Monthly Uptime Percentage for any calendar month is between 99.0%
+              and 95.0 %; or (c) fifteen days of Service added to the end of Customerâs term for
+              the Service, at no charge to Customer, if the Monthly Uptime Percentage for any
+              calendar month is less than 95.0%.
+              
