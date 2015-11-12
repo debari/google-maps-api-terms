@@ -331,40 +331,73 @@ Except as otherwise noted, the content of this page is licensed under the Creati
       
       Last updated November 10, 2015.
     
-            Stack Overflow
+            
+            
+              Stack Overflow 
+            
           Ask a question under the google-maps tag.
-            GitHub
+            
+            
+              GitHub 
+            
           Fork our samples and try them yourself.
-            Blog
+            
+            
+              Blog 
+            
           Read the latest updates, customer stories, and tips.
-            Issue tracker
-          Something wrong? Send us a bug report!Community Resources
-          
-                Community support
+            
+            
+              Issue tracker 
+            
+          Something wrong? Send us a bug report!schoolCommunity Resources
+                
+                  Community support 
+                
               
-                General Terms of Service
+                
+                  General Terms of Service 
+                
               
-                General FAQ
+                
+                  General FAQ 
+                
               
-                Articles
-              Platforms
-          
-                Android
+                
+                  Articles 
+                
+              codePlatforms
+                
+                  Android 
+                
               
-                iOS
+                
+                  iOS 
+                
               
-                Web
+                
+                  Web 
+                
               
-                Web Services
-              Maps for Work Resources
-          
-                Paid support
+                
+                  Web Services 
+                
+              infoMaps for Work Resources
+                
+                  Paid support 
+                
               
-                Maps for Work Terms of Use
+                
+                  Maps for Work Terms of Use 
+                
               
-                Maps for Work FAQ
+                
+                  Maps for Work FAQ 
+                
               
-                Articles
+                
+                  Articles 
+                
               ConnectBlogFacebookGoogle+MediumTwitterYouTubeProgramsWomen TechmakersGoogle Developer GroupsGoogle Developer ExpertsStartup LaunchpadParticipate in UX StudiesDeveloper ConsolesGoogle Developers ConsoleGoogle Play ConsoleCast SDK ConsoleChrome Web Store DashboardExploreAndroidiOSWebGamesAll ProductsCareersTerms
         |  
       
