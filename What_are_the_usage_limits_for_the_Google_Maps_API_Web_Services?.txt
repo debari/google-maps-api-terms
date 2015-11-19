@@ -5,9 +5,6 @@ Frequently Asked Questions  | 
           
           Sign in
         
-          
-          Search
-        
                 Products
               
                 Google Maps APIs
