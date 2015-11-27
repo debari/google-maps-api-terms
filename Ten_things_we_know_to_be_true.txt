@@ -12,7 +12,6 @@ Company overview
 Who we are
 Our culture
 Locations
-Management team
 What we believe
           
 What we do
@@ -213,7 +212,8 @@ Life at Google
 Investor relations
 News and events
 Financial information
-Corporate governance
+Corporate
+                  governance
 Contact us
 Google
 About Google
