@@ -2,9 +2,9 @@
 Frequently Asked Questions  | 
       Google Maps API for Work  | 
       Google Developers
+            
+            Sign in
           
-          Sign in
-        
                 Products
               
                 Google Maps APIs
