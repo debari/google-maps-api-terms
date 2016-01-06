@@ -1,6 +1,6 @@
 
 Frequently Asked Questions  | 
-      Google Maps API for Work  | 
+      Google Maps APIs Premium Plan  | 
       Google Developers
             
             Sign in
@@ -9,13 +9,13 @@ Frequently Asked Questions  | 
               
                 Google Maps APIs
               
-                For Work
+                Google Maps APIs Premium Plan
               
                 Support
               
                 Frequently Asked Questions
               
-      Google Maps API for Work
+      Google Maps APIs Premium Plan
     
           Home
         
@@ -23,250 +23,282 @@ Frequently Asked Questions  | 
         
           Support
         
+          Previous Licenses
         
-        Send feedback
-        
-Paid SupportCommunity SupportFAQIssue trackerMaps for Work Terms of UsePre-launch ChecklistTroubleshooting Authorization
-Paid SupportCommunity SupportFAQIssue trackerMaps for Work Terms of UsePre-launch ChecklistTroubleshooting Authorization
+Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
+Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
     Frequently Asked Questions
   
-  h4 {
-      border-bottom: 1px solid #ebebeb;
-    }
 This FAQ covers questions specific to
-  Google Maps API for Work.
-Please refer to the Google Maps API FAQ
+  Google Maps APIs Premium Plan.
+Please refer to the Google Maps APIs FAQ
   for questions common to all Google Maps APIs.
-Getting Started
-Which products are included in Google Maps API for Work?
-How do I contact technical support for Google Maps API for Work?
-How do I reset login credentials for the Google for Work Support Portal?
-What are the Terms of Service for the Google Maps API for Work?
-Usage Limits
-How is Google Maps API for Work usage tracked
-    and reported?
-What are the usage limits for the
-    Google Maps JavaScript API?
-What are the usage limits for the
-    Google Earth API?
-What are the usage limits for the
-    Google Maps Mobile SDK for Work?
-What are the usage limits for the Google Maps
-    API Web Services?
-What are the usage limits for the
-    Google Places API and Google Maps Geolocation APIs?
-What are the usage limits for Geocoding
-    requests made from the Google Maps JavaScript API?
-What are the usage limits for the
-    Google Static Maps API?
-What are the usage limits for the
-    Google Street View Image API?
-Using the Maps API over HTTPS
-How do I access the Google Maps APIs over HTTPS (SSL)
-    using a Google Maps API for Work client ID?
-How do I load the Google Maps JavaScript API
-    over HTTPS (SSL) when using the Common Loader base_domain
-    parameter?
+Getting started
+What is the Google Maps APIs Premium Plan?
+Which APIs are included in
+      Google Maps APIs Premium Plan?
+How do I contact technical support for
+      Google Maps APIs Premium Plan?
+How do I reset login credentials for the
+      Google for Work Support Portal?
+What are the Terms of Service for the
+      Google Maps APIs Premium Plan?
+Previous Google Maps API for Work licenses and renewals
+Where can I find information about previous Google Maps
+      API for Work licenses?
+What are the changes with the new
+      Premium Plan?
+Purchasing the Google Maps APIs Premium Plan
+Why should I purchase the
+      Google Maps APIs Premium Plan?
+How do I purchase the
+      Google Maps APIs Premium Plan?
+Do I need a Google Account with the
+      Google Maps APIs Premium Plan?
+Usage limits
+How is Google Maps APIs Premium Plan usage
+    calculated?
+How can I track my app's
+    Google Maps APIs Premium Plan usage?
+How can I estimate my application's usage of
+    Maps APIs Credits?
+What happens if I use all of my Maps APIs
+    Credits?
+Why are Google Places API Details
+    requests charged 2 Maps APIs Credits while Place Autocomplete requests are
+    charged only 0.1 credits?
+Developing your application
+Will I be issued both a Google Developers Console
+    project ID and a client ID?
+Will the Google Developers Console project I'm provided
+    have all available APIs enabled?
+How do I access Zagat features with the
+    Google Maps APIs Premium Plan?
+How do I access premium mobile features with
+    the Google Maps APIs Premium Plan?
+Is the dynamic library available for Android
+    with the
+  Google Maps APIs Premium Plan?
+How do I access the Google Maps JavaScript API using a
+  Google Maps APIs Premium Plan client ID, from a page that's loaded over HTTPS
+    (SSL)?
+How do I load the
+    Google Maps JavaScript API over HTTPS (SSL) when using the Common Loader
+    base_domain parameter?
 KML
 How do I render KML files that are hosted on
     intranet sites on a map?
-URL Signing
+URL signing
 Can I sign URLs using JavaScript?
 Why am I receiving a HTTP 403 Forbidden
     response to my Maps API web service requests?
 Styling
 Why aren't businesses showing up on my map?
-Getting Started
-  Which products are included in Google Maps API for Work?
+Getting started
+What is the Google Maps APIs Premium Plan?
+The  Google Maps APIs Premium Plan (the
+  Premium Plan) gives you access to our
+  entire suite of APIs with just one order, ensuring you have all the tools you
+  need to implement customizable, mobile-ready, scalable maps for your apps and
+  sites.
+  Which APIs are included in Google Maps APIs Premium Plan?
 The following Google products are included in
-    Google Maps API for Work. Applications that use these products
+    Google Maps APIs Premium Plan. Applications that use these products
     are covered by the
     
-      Google Maps API for Work SLA, and are eligible for
+      Google Maps APIs Premium Plan SLA, and are eligible for
     technical support:
 Google Maps JavaScript API
 Google Static Maps API
 Google Street View Image API
-Google Earth API
+Google Earth API (deprecated)
 Google Maps Geocoding API
+Google Maps Geolocation API
 Google Maps Elevation API
 Google Maps Directions API
 Google Maps Distance Matrix API
 Google Maps Time Zone API
 Google Maps Roads API
-Google Places API and the
-      Places library of the
-      Google Maps JavaScript API, if
-      specifically enabled for Google Maps API for Work support.
-Google Maps Geolocation API
-      , if specifically enabled for Google Maps API for Work support.
-Google Maps Mobile SDK for Work (Google Maps Android API and iOS), if specifically enabled for
-      Google Maps API for Work support.
-The following APIs are not covered by Google Maps API for Work.
+Google Places API Web Service and
+      the Places library of
+      the Google Maps JavaScript API
+Google Maps Android API
+Google Maps SDK for iOS
+The following APIs are not covered by Google Maps APIs Premium Plan.
     Applications that use these APIs must do so in compliance with the
     published Terms of Service for these APIs, and are not covered by the
-    Google Maps API for Work SLA, or eligible for technical support at this
-    time:
-Google Web Search API
-Google Maps Android API v1 (deprecated)
+    Google Maps APIs Premium Plan SLA or eligible for technical support:
+Google Maps Android API
+      v1 (deprecated)
 Google Maps Embed API
-  How do I contact technical support for Google Maps API for Work?
-Google Maps API for Work customers can open a new support case with Google
-    Support using the Google for Work Support Portal at:
+Google Places API for Android
+Google Places API for iOS
+  How do I contact technical support for Google Maps APIs Premium Plan?
+Google Maps APIs Premium Plan customers can open a new support case with
+    Google Support using the Google for Work Support Portal at:
 https://google.secure.force.com/
-A username and password is required to access the portal. Please
+A username and password are required to access the portal. Please
     
       fill out this form if you do not have an account.
+For more information, see the guide to
+    support and resources.
   How do I reset login credentials for the Google for Work Support Portal?
     I forgot my password. This link is also available from the
-    Google for Work Support Portal login page.
-  What are the Terms of Service for the Google Maps API for Work?
-If you are a Google Maps API for Work customer, please refer to your agreement for
-    the terms that govern your use of the Google Maps APIs.
-Usage Limits
-How is Google Maps API for Work usage tracked and
-  reported?
-For Google Maps API for Work licenses that are limited
-    to a specific number of page views, a page view is defined as:
-A single load of the Google Maps JavaScript API into a page. The
-      JavaScript API is reloaded every time a page that uses the API is
-      reloaded. User interactions with the map (eg. panning, zooming, changing
-      map types) do not generate more page views. Note however that a page view
-      is generated if the API is loaded into the page even if the API is not
-      then used to display a map. We therefore recommend against including the
-      <script> tag that loads the API in page templates, and
-      recommend loading the API
-      asynchronously on pages where maps are only displayed in response to
-      optional user activity.
-A single request for a Google Street View Image API or
-      Google Static Maps API image.
-A single load of the Google Earth API into a page.
-Google Maps API for Work customers can track their page view usage on the the
-    Google for Work Support Portal at:
-    https://google.secure.force.com/
-Note that non-Work applications are limited by map loads,
-    which are slightly different than page views. Please refer to the
-    Maps API FAQ for more
-    information.
-The Google Maps Mobile SDK for Work uses map loads to track usage.
-    Please refer to the
-    Usage Limits
-    for more information.
-  What are the usage limits for the Google Maps JavaScript API?
-  What are the usage limits for the Google Earth API?
-Requests that constitute page views are
-  applied against the total number of page views purchased with your
-  Google Maps API for Work license. When this limit is reached, you will
-  need to renew your license promptly.
-  What are the usage limits for the Google Maps Mobile SDK for Work?
-Each map load is applied against the total number of map loads
-  purchased with your Google Maps Mobile SDK for Work license. When this
-  limit is reached, you will need to renew your license promptly.
-What are the usage limits for the Google Maps API Web
-  Services?
-Google Maps API for Work customers are provided with the following
-    usage limits for the Google
-      Maps API Web Services:
+    Google for Work Support Portal login
+    page.
+  What are the Terms of Service for the Google Maps APIs Premium Plan?
+If you are a Google Maps APIs Premium Plan customer, please refer to your
+    agreement for the terms that govern your use of the Google Maps APIs.
+    For more information, see the
+    Google Maps APIs Premium Plan
+    terms of use.
+Previous Google Maps API for Work licenses and
+  renewals
+  Where can I find information about previous Google Maps API for Work licenses?
+To determine whether you have a previous Maps API for Work license:
+    In the Google for Work Support Portal,
+    click Maps: Usage Report on the left. If the ID at the top
+    of the report is in the following format, you have the new
+    Premium Plan:
+    gme-[company] & proj-[number] ([type])
+    Otherwise, you have a previous license. For more information, see the guide
+    to Maps API for Work
+    Licenses.
+  What are the changes with the new
+  Premium Plan?
+See the summary of changes for
+  renewal customers and the FAQ for
+  license renewals.
+Purchasing the Google Maps APIs Premium Plan
+Why should I purchase the Google Maps APIs Premium Plan?
+You should purchase the Premium Plan if your
+  business or organization requires any of the following:
+An SLA with 24-hour technical support
+Ability to sell a product or service with embedded Google Maps
+Ability to use Google Maps APIs for an internal application or website
   
-Web Service
-Limits
-Directions
-Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase. Maximum of
-      23 waypoints per
-      request. Rate limit of 10 requests per second.
-Elevation
-Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase. Maximum of
-      512 points per
-      request. Rate limit of 10 requests per
-      second.
-Geocoding
-Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase.
-      Rate limit of 10 requests per second.
-Distance Matrix
-Daily quota starting at 100,000 elements per 24 hours, based on annual contractual purchase. Maximum of
-      625 elements
-      per query and a maximum of 1,000
-      elements per 10 seconds.
-Time Zone
- Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase . Rate limit of
-      10 requests per second.
-Roads
- Daily quota starting at 100,000 requests per 24 hours, based on annual contractual purchase. Rate limit of
-      10 requests per second. Each request
-      may contain up to 100 points.
-These limits apply to each Google Maps API for Work client ID or developer
-    project and are shared across all applications and IP addresses using a given client
-    ID or developer project.
-If you need higher usage limits, please contact your
-    Google Maps API for Work Account Manager for purchase information.
-What are the usage limits for the Google Places
-  API and the Google Maps Geolocation API?
-If you've purchased the Google Places API or the Google Maps Geolocation API as part
-    of your Google Maps API for Work contract, your limits will be listed
-    in the Quotas section of the 
+A specific amount of quota
+Premium features available with your existing Maps APIs for Work license
+  
+How do I purchase the Google Maps APIs Premium Plan?
+Contact your Google sales representative for details on purchasing the
+  Premium Plan and to receive a price quote based on
+  an estimate of your application’s usage.
+Do I need a Google Account with the
+  Google Maps APIs Premium Plan?
+Yes, you'll need a Google Account to access the Google Maps APIs available
+  on the 
 Google Developers Console.
-    If you need a higher limit, please
-    contact Google through
-    the Google for Work Support Portal.
-  What are the usage limits for Geocoding requests made from the Google Maps JavaScript API?
-Google Maps API for Work customers are provided with the following
-    usage limits for Geocoding requests made from the JavaScript API:
-Service
-API being used
-Limits
-Geocoding
-Google Maps JavaScript API
-Geocoding has a daily allocation and rate limit which is applied per
-          user session, regardless of how many users share a given IP
-          address.
-This service should not be used for batch geocoding operations; you
-          may wish to use the 
-            Google Maps Geocoding API for such operations.
-What are the usage limits for the Google Maps
-  Image APIs?
-Google Maps API for Work customers are provided with the following
-    usage limits for the Google Maps Image APIs:
-Service
-Limits
-Google Static Maps API
-Requests are applied against the total number of page views
-          purchased with the Google Maps API for Work license.
-The maximum image size is 2048 by 2048 pixels. This is calculated as
-          size times scale, as explained below.
-Google Street View Image API
-Requests are applied against the total number of page views
-          purchased with the Google Maps API for Work license.
-The maximum image size is 2048 by 2048 pixels.
-Google Static Maps API images can be requested up to 2048x2048 pixels. Because the
-    scale value in a static map request affects the number of
-    pixels returned, the maximum size value is different for
-    each scale level:
-Scale
-Max Size
-Returns
-1
-2048x2048
-2048x2048
-2
-1024x1024
-2048x2048
-4
-512x512
-2048x2048
-The Google Street View Image API does not support the scale
-    parameter.
-Using the Maps API over HTTPS
-  How do I access the Google Maps APIs over HTTPS (SSL) using a Google Maps API for Work client ID?
-To access the Google Maps APIs over HTTPS, you must first
+Usage limits
+How is Google Maps APIs Premium Plan usage
+  calculated?
+Have a previous Maps API for Work or
+  Maps API for Business license?
+  See our Maps API for Work Licenses
+  guide. To determine whether you have a previous license: In the
+  Google for Work Support Portal,
+  click Maps: Usage Report on the left. If the ID at the top of the report
+  is in the following format, you have the new Premium Plan:
+  gme-[company] & proj-[number] ([type])
+  Otherwise, you have a previous license.
+With the Google Maps APIs Premium Plan, your application consumes quota at
+    different rates, depending on the APIs it requests. You purchase
+    quota—called Maps APIs Credits—for one or more years,
+    based on an estimate of your application's annual usage. All of your
+    application's requests for Maps APIs consume credits from the pool of
+    credits you purchased. For example, if your application uses the
+    Google Maps JavaScript API to display a map, it consumes credits for
+    the Maps JavaScript API
+    map loads. If your
+    application consumes all of the credits in the pool, you can purchase
+    additional credits as needed. For more information, see the guide to
+    Premium Plan
+    usage rates and limits.
+How can I track my app's Google Maps APIs Premium Plan
+  usage?
+For information on tracking your application's usage of Maps APIs Credits,
+    as well as other usage reports and analytics, see the guide to Premium Plan
+    reports.
+How can I estimate my application's usage of Maps APIs
+  Credits?
+You can use the
+    Google Maps
+    APIs
+    Premium Calculator to get an estimate of your application's usage.
+In addition, you may find the
+    credits calculation example
+    useful.
+What happens if I use all of my Maps APIs Credits?
+If you run out of Maps APIs Credits, your application's requests will
+    continue to succeed, but your account may be subject to overage fees. In
+    this case, you'll need to renew your Google Maps APIs Premium license as
+    soon as possible to avoid a suspension of your account. Google will notify
+    you via email once you've used up 85% of your quota.
+Why are Google Places API Details requests
+  charged 2 Maps APIs Credits while Place
+  Autocomplete requests are charged only 0.1 credits?
+The Google Places API uses an extensive database of business and other
+    place data. It takes a lot of time and effort to keep this database
+    accurate, as businesses open and close frequently. Therefore, we need to
+    charge more for Places Details requests. For Place Autocomplete, we realize
+    that users often need to type several characters to find a place, so we are
+    charging only a fractional credit for each request.
+Developing your application
+Will I be issued both a Google Developers Console project ID
+  and a client ID?
+Yes, your welcome letter will include your Google Developers Console project ID
+  and your client ID. 
+Will the Google Developers Console project I'm provided have all
+  available APIs enabled?
+Yes, with the Premium Plan, we automatically
+    provision all of our APIs for the same Google Developers Console project. You can
+    access all the APIs in one project. APIs on the same platform (Web, Web
+    Services, Android, or iOS) can share the same API key. Your API keys provide
+    real-time usage reports and historical usage data for up to 30 days. If you
+    need features such as Maps API Analytics, usage reports by channel, and
+    historical report data beyond the 30 days, you can use your client ID
+    instead of the API key for most of the APIs. (The client ID does not work
+    with the Google Places API, Google Maps Geolocation API,
+    Google Maps Roads API, Google Maps Android API, or
+    Google Maps SDK for iOS.)
+How do I access Zagat features with the
+  Google Maps APIs Premium Plan?
+With the Premium Plan, requests containing your
+    API key to the Google Places API Web Service return premium Zagat content.
+    To verify that you have access to Zagat content, send a request to the
+    Google Places API Web Service, with a key from the project created for you
+    during signup. Here's an example URL:
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants+in+mountain+View,+ca&key;=YOUR_API_KEY
+How do I access premium mobile features with the
+  Google Maps APIs Premium Plan?
+You can access premium mobile features using the same SDKs available to
+    users of the standard API: the
+    Google Maps SDK for iOS and the
+    Google Maps Android API.
+    To access premium features, make sure you use the API key from the project
+    created for you during signup. To verify that you have access to premium
+    mobile features, load a map using the static library. For more information,
+    see the guides to getting started with the
+    Premium Plan
+    on Android and
+    on iOS.
+Is the dynamic library available for Android with the
+  Google Maps APIs Premium Plan?
+Yes, with the Premium Plan, you can also use the
+    dynamic library for the Google Maps Android API instead of the static
+    library. For more information, see the guide to getting started with the
+    Premium Plan
+    on Android.
+  How do I access the Google Maps JavaScript API using a
+  Google Maps APIs Premium Plan client ID, from a page that's loaded over
+  HTTPS (SSL)?
+To access the Google Maps JavaScript API from a page that's loaded
+    over HTTPS, you must first
     authorize
-      the HTTPS URLs on which you wish to use the Maps API.
-    Once your client ID has been enabled for use on these sites,
-    you can substitute http for https when loading
-    the JavaScript or passing a URL. For more information, refer to the
-    documentation.
+    the HTTPS URLs on which you wish to use the API.
   
-  How do I load the Google Maps JavaScript API over HTTPS (SSL) when using the
-  Common Loader base_domain parameter?
+  How do I load the Google Maps JavaScript API over HTTPS (SSL) when using
+  the Common Loader base_domain parameter?
 It is not possible to load the Maps JavaScript API over SSL using the
     common loader with the base_domain parameter set.
 The base_domain parameter does not affect your application's
@@ -281,17 +313,17 @@ KML
 How do I render KML files that are hosted on intranet
   sites on a map?
 The 
-KmlLayer class that generates KML overlays in the Google
-    Maps API uses a Google hosted service to retrieve and parse KML files for
-    rendering. Consequently it is not possible to display KML files that are
-    not hosted at a URL that is available publicly accessible, or that require
-    authentication to access.
+KmlLayer class that generates KML overlays in the
+    Google Maps JavaScript API uses a Google hosted service to retrieve and
+    parse KML files for rendering. Consequently it is not possible to display
+    KML files that are not hosted at a URL that is available publicly
+    accessible, or that require authentication to access.
 If you need to develop applications that use KML files hosted on intranet
     sites we recommend that you render the KML on the client side by using
     third-party JavaScript libraries. As the KML file is analyzed by the
     browser, performance may be lower than by using the
     KmlLayer class.
-URL Signing
+URL signing
 Can I sign URLs using JavaScript?
 We strongly recommend against signing URLs using JavaScript as this would
     expose your cryptographic key to end users. Therefore signatures should
@@ -302,16 +334,16 @@ An HTTP 403 response indicates a permission issue, likely because the
     signature could not be verified for this request. This could be because:
   
 A signature has been specified but is incorrect for this request.
-The request specifies a Google Maps API for Work client id but
-      does not specify a signature, and the web service being called requires that all
-      requests made using a client id include a valid signature.
-A signature has been specified but the associated Google Maps API for Work
-      client ID has not been specified.
+The request specifies a Google Maps APIs Premium Plan client ID but
+      does not specify a signature, and the web service being called requires
+      that all requests made using a client ID include a valid signature.
+A signature has been specified but the associated
+      Google Maps APIs Premium Plan client ID has not been specified.
 Styling
 Why aren't businesses showing up on my map?
 When loading a map using the Google Maps JavaScript API and
-    including a client parameter, business listings on the map are turned off
-    by default. To turn them back on, you'll need to include some
+    including a client parameter, business listings on the map are
+    turned off by default. To turn them back on, you'll need to include some
     styling code with your
     map:
 var styles = [
@@ -325,7 +357,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated December 15, 2015.
+      Last updated January 6, 2016.
     
             
             
@@ -341,22 +373,22 @@ Except as otherwise noted, the content of this page is licensed under the Creati
             
               Blog 
             
-          Read the latest updates, customer stories, and tips.
+          Read about the latest updates, customer stories, and tips.
             
             
               Issue tracker 
             
-          Something wrong? Send us a bug report!schoolCommunity Resources
+          Something wrong? Send us a bug report!schoolLearn More
                 
-                  Community support 
-                
-              
-                
-                  General Terms of Service 
+                  Tutorials 
                 
               
                 
-                  General FAQ 
+                  Pricing and Plans 
+                
+              
+                
+                  API Picker 
                 
               
                 
@@ -378,21 +410,21 @@ Except as otherwise noted, the content of this page is licensed under the Creati
                 
                   Web Services 
                 
-              infoMaps for Work Resources
+              infoProduct Info
+                
+                  Contact sales 
+                
+              
+                
+                  Community support 
+                
+              
                 
                   Paid support 
                 
               
                 
-                  Maps for Work Terms of Use 
-                
-              
-                
-                  Maps for Work FAQ 
-                
-              
-                
-                  Articles 
+                  Terms of Service 
                 
               ConnectBlogFacebookGoogle+MediumTwitterYouTubeProgramsWomen TechmakersAgency ProgramGoogle Developer GroupsGoogle Developer ExpertsStartup LaunchpadDeveloper ConsolesGoogle Developers ConsoleGoogle Play ConsoleCast SDK ConsoleChrome Web Store DashboardExploreAndroidiOSWebGamesAll ProductsCareersTerms
         |  
@@ -479,12 +511,4 @@ Except as otherwise noted, the content of this page is licensed under the Creati
             Українська
           
             Tiếng Việt
-          Send feedback about...
           
-          This page
-        Documentation feedback
-        Google Maps API for Work
-        Product feedback
-        
-        Cancel
-      
