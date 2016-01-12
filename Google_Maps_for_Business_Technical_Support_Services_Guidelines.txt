@@ -1,14 +1,14 @@
 
       Technical Support Guidelines - Google Maps for Work
     
-        Google Maps for Business : Technical Support Services Guidelines
+        Google Maps for Work : Technical Support Services Guidelines
       
 Introduction
-        Google will make available technical support services for Customerâs Google Maps for
-        Business Products and Services ("Products and Services") as provided in
-        this Technical Support Service Guideline ("TSSG"). This TSSG supplements
-        the Google Maps for Business Products and Services terms and conditions as entered into
-        between Google and Customer (the "Agreement").
+        Google will make available technical support services for Customerâs Google Maps for Work
+        Products and Services ("Products and Services") as provided in this
+        Technical Support Service Guideline ("TSSG"). This TSSG supplements the
+        Google Maps for Work Products and Services terms and conditions as entered into between
+        Google and Customer (the "Agreement").
       
         1. Covered Products and Services
         Except as otherwise provided below, Google will, upon Customerâs payment of all applicable
