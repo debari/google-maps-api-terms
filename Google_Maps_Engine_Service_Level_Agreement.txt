@@ -1,68 +1,32 @@
 
-      Google Maps Engine Service Level Agreement
+      Google Maps Engine â Google
     
-        Google Maps Engine Service Level Agreement
-      
-        Google Maps Engine SLA. During the Term of the applicable Google Maps Engine Agreement (the
-        "Agreement"), the Google Maps Engine Services will be operational and available to Customer
-        at least 99.9% of the time in any calendar month (the "Google Maps Engine SLA"). If Google
-        does not meet the Google Maps Engine SLA, and if Customer meets its obligations under this
-        Google Maps Engine SLA, Customer will be eligible to receive the Service Credits described
-        below. This Google Maps Engine SLA states Customer's sole and exclusive remedy for any
-        failure by Google to meet the Google Maps Engine SLA.
-      
-          Definitions.
+          Thank you for stopping by.
         
-          The following definitions shall apply to the Google Maps Engine SLA. Terms used here but
-          not defined here are defined in the Agreement.
+          Google Maps Engine has been discontinued. We want to thank all our loyal Google Maps Engine customers.
         
-"Downtime" means when a Google Maps Engine Service is inaccessible.
-          Downtime is measured based on server side error rate for valid queries. Scheduled
-          Downtime is not considered Downtime for purposes of this Google Maps Engine SLA, and will
-          not be counted towards any Downtime Periods.
+          Sincerely,
         
-"Downtime Period"means, for a Google Maps Engine Services, a period of
-          ten consecutive minutes of Downtime. Intermittent Downtime for a period of less than ten
-          minutes will not be counted towards any Downtime Periods.
+          The Google Maps Engine team
         
-"Monthly Uptime Percentage" means total number of minutes in a calendar
-          month minus the number of minutes of Downtime suffered from all Downtime Periods in a
-          calendar month, divided by the total number of minutes in a calendar month.
+          Frequently-asked questions
         
-"Scheduled Downtime" means those times where Google notifies Customer of
-          periods of Downtime at least five days prior to the commencement of such Downtime. There
-          will be no more than twelve hours of Scheduled Downtime per calendar year..
-        
-"Google Maps Engine Service" means the Google Maps Engine service
-          provided by Google to Customer under the Agreement. Experimental features of the Google
-          Maps Engine Service are not covered by these terms.
-        
-"Service Credit" means the following:
-        
-              Monthly Uptime Percentage
+              What will happen to my Google Maps Engine data?
             
-              Days of Service added to the end of the Service term, at no charge to Customer
+              All data stored with Google Maps Engine will be systematically deleted from Google servers.
             
-              < 99.9%
+              Will there be any way to retrieve my subscription data from Google in the future?
             
-              3
+              No -- all data stored in Google Maps Engine will be permanently and irrevocably deleted. Google will
+              not be able to recover any Google Maps Engine data for any user after February 1st, 2016.
             
-Conditions applicable to the receipt of Service Credits:
-Customer Must Request Service Credit. In order to receive any of the
-          Service Credits described above, Customer must notify Google within thirty days from the
-          time Customer becomes eligible to receive a Service Credit. Failure to comply with this
-          requirement will forfeit Customer's right to receive a Service Credit.
-        
-Maximum Service Credit. The aggregate maximum number of Service Credits
-          to be issued by Google to Customer for any and all Downtime Periods that occur in a
-          single calendar month shall not exceed three days of Service added to the end of
-          Customer's term for the Service. Service Credits may not be exchanged for, or converted
-          to, monetary amounts.
-        
-Google Maps Engine SLA Exclusions. The Google Maps Engine SLA does not
-          apply to any services that expressly exclude this Google Maps Engine SLA (as stated in
-          the documentation for such services) or any performance issues: (i) caused by factors
-          described in the "Force Majeure" section of the Agreement; or (ii) that resulted from
-          Customer's equipment or third party equipment, or both (not within the primary control of
-          Google).
-        
+              What are other options for hosting data?
+            
+              Here are some possible options to consider hosting data with the Google Maps Premium Plan and Google Cloud Platform.
+            
+Building a store locator with the Google Maps API and Cloud SQL
+Building spatial applications with Google Cloud SQL and Google Maps API
+Serving raster layers on Google Cloud Platform
+Google
+About Google
+Privacy & Terms
