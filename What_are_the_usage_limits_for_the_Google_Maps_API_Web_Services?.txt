@@ -98,7 +98,7 @@ Getting started
 What is the Google Maps APIs Premium Plan?
 The  Google Maps APIs Premium Plan (the
   Premium Plan) gives you access to our
-  entire suite of APIs with just one order, ensuring you have all the tools you
+ suite of services, ensuring you have all the tools you
   need to implement customizable, mobile-ready, scalable maps for your apps and
   sites.
   Which APIs are included in Google Maps APIs Premium Plan?
@@ -121,9 +121,13 @@ Google Maps Time Zone API
 Google Maps Roads API
 Google Places API Web Service and
       the Places library of
-      the Google Maps JavaScript API
+      the Google Maps JavaScript API *
 Google Maps Android API
 Google Maps SDK for iOS
+* The Google Places API is not included with the
+    Premium Plan Asset Tracking license. If you have an Asset Tracking
+    license and want to use the Places API, please contact the
+     Google Maps APIs Sales team.
 The following APIs are not covered by Google Maps APIs Premium Plan.
     Applications that use these APIs must do so in compliance with the
     published Terms of Service for these APIs, and are not covered by the
@@ -178,6 +182,7 @@ Ability to sell a product or service with embedded Google Maps
 Ability to use Google Maps APIs for an internal application or website
   
 A specific amount of quota
+ Ability to use Google Maps APIs for asset tracking applications
 Premium features available with your existing Maps APIs for Work license
   
 How do I purchase the Google Maps APIs Premium Plan?
@@ -357,7 +362,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated February 3, 2016.
+      Last updated February 4, 2016.
     
             
             
