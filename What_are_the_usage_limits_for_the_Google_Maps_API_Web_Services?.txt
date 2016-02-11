@@ -25,8 +25,8 @@ Frequently Asked Questions  | 
       
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
-    Frequently Asked Questions
-  
+      Frequently Asked Questions
+    
 This FAQ covers questions specific to
   Google Maps APIs Premium Plan.
 Please refer to the Google Maps APIs FAQ
