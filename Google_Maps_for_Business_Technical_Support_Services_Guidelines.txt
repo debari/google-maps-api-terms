@@ -1,6 +1,8 @@
 
       Technical Support Guidelines - Google Maps for Work
     
+    iframe.c1 {display:none;visibility:hidden}
+    
         Google Maps for Work : Technical Support Services Guidelines
       
 Introduction

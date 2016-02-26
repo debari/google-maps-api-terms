@@ -1,6 +1,8 @@
 
       Google Maps for Business - Service Level Agreement (âMaps API SLAâ)
     
+    iframe.c1 {display:none;visibility:hidden}
+    
         Google Maps for WorkâService Level Agreement (âMaps API SLAâ)
       
 Service Level Agreement. Google will use reasonable commercial efforts

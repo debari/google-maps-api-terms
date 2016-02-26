@@ -1,6 +1,8 @@
 
       Google Maps and Earth Universal Acceptable Use Policy
     
+    iframe.c1 {display:none;visibility:hidden}
+    
         Google Maps and Earth Enterprise Universal Acceptable Use Policy
       
         Google customers (âYou(r)â) access to or use of Googleâs software, services or content

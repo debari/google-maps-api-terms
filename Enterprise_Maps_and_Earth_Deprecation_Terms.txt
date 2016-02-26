@@ -1,6 +1,8 @@
 
       Enterprise Maps and Earth Deprecation Terms
     
+    iframe.c1 {display:none;visibility:hidden}
+    
         Google Maps for Work Deprecation Terms
       
 Last updated: 2015-10-22

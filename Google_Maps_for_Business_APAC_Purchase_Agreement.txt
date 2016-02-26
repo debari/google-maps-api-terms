@@ -1,6 +1,8 @@
 
       Google Maps for Business - APAC Purchase Agreement
     
+    iframe.c1 {display:none;visibility:hidden}
+    
         Google Maps API for Business - APAC Purchase Agreement
       
 This agreement for the purchase of Google Maps API for Business (the

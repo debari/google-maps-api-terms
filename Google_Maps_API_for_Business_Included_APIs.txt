@@ -1,6 +1,8 @@
 
       Google Maps API for Work - Included APIs
     
+    iframe.c1 {display:none;visibility:hidden}
+    
         Google Maps API for Business - Included APIs
       
         The Maps API for Business licence agreement includes the use of the following API(s):
