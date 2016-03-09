@@ -36,12 +36,12 @@ Standards. The Services rely on widely recognized international
               the UN Statistics Division.
             
 U.S. Government Restricted Rights Notice.
-                  This computer software is submitted with restricted rights under the Google Terms of Service,
-                  the Google Maps/Google Earth Additional
-                  Terms, and the Google Maps/Google Earth APIs
-                  Terms of Service. It may not be used, reproduced, or disclosed by the
-                  Government except as provided in paragraph (b) of this notice or as otherwise
-                  expressly stated in the contract.
+                  This computer software is submitted with restricted rights under the Google Terms of Service, the
+                  Google Maps/Google Earth Additional Terms,
+                  and the Google
+                  Maps/Google Earth APIs Terms of Service. It may not be used, reproduced, or
+                  disclosed by the Government except as provided in paragraph (b) of this notice or
+                  as otherwise expressly stated in the contract.
                 
                   This computer software may be:
                 
@@ -156,6 +156,8 @@ Country-Specific Notices.
               2015 UK roadworks and traffic disruptions data provided by Elgin and its licensors,
               which include Local Highway Authorities, Highways Agency, Traffic Scotland, Traffic
               Wales and Transport for London. For further information see http://www.elgin.org.uk/url-terms/data-providers.
+            
+              Powered by TfL Open Data.
             
 3.11 Greece
                   EuroGeographics; Copyright Geomatics Ltd.
