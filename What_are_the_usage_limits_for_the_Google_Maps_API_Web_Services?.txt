@@ -70,6 +70,8 @@ Will I be issued both a Google Developers Console
     project ID and a client ID?
 Will the Google Developers Console project I'm provided
     have all available APIs enabled?
+What are the differences between an API key
+    and a client ID?
 How do I access Zagat features with the
     Google Maps APIs Premium Plan?
 How do I access premium mobile features with
@@ -264,6 +266,38 @@ Yes, with the Premium Plan, we automatically
     with the Google Places API, Google Maps Geolocation API,
     Google Maps Roads API, Google Maps Android API, or
     Google Maps SDK for iOS.)
+What are the differences between an API key and a client ID?
+With your project ID, you can generate API keys in
+  the Google Developers Console. Here are the
+  primary differences between the use of API keys and your client ID:
+API support: You can use an API key with any Maps API. Alternatively, you
+    can use your client ID with any API, except  the Google Places API,
+    Google Maps Geolocation API, Google Maps Roads API, Google Maps Android API, and
+    Google Maps SDK for iOS.
+Reporting: Your API keys provide
+    real-time usage reports and historical usage data for up to 30 days. If you
+    need features such as Maps API Analytics, usage reports by channel, and
+    historical report data beyond the 30 days, use your client ID for APIs that support
+    its use.
+Error codes: If you use API keys, you receive error messages according
+    to HTTP status code class (for example, 3xx and 4xx errors), which provide only general
+    information. If you use your client ID, you receive more detailed API-specific error codes in
+    the Google for Work Support Portal reports, which can help
+    with troubleshooting.
+Security: Both API keys and the client ID are equally secure, as long as
+    you follow these guidelines:
+    
+If you use an API key, make sure you keep your key secret. All requests to Maps APIs use
+        HTTPS, so the risks of someone intercepting your traffic are limited. However, if someone
+        were to obtain your key, they could make requests for Maps APIs using your key. To prevent
+        this risk for client-side APIs, you can restrict the domains that can use your key.
+        For server-side APIs, restrict your key so that requests are allowed only from
+        your servers' source IP addresses. For more information about using API keys securely,
+        see the Console Help Center.
+If you use your client ID, make sure you keep your cyptographic key (which you use to
+        generate digital signatures) secret. Also make sure you never use the crypto key in your
+        API requests or use it to sign URLs using JavaScript, as these practices can expose your
+        key.
 How do I access Zagat features with the
   Google Maps APIs Premium Plan?
 With the Premium Plan, requests containing your
@@ -360,7 +394,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated February 15, 2016.
+      Last updated April 11, 2016.
     
             
             
