@@ -300,6 +300,10 @@ If you use your client ID, make sure you keep your cyptographic key (which you u
         key.
 How do I access Zagat features with the
   Google Maps APIs Premium Plan?
+Notice:
+Premium Data
+(Zagat) is deprecated as of May 2, 2017. After this time, Zagat
+ratings and reviews will no longer be available.
 With the Premium Plan, requests containing your
     API key to the Google Places API Web Service return premium Zagat content.
     To verify that you have access to Zagat content, send a request to the
@@ -394,7 +398,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated April 11, 2016.
+      Last updated May 2, 2016.
     
             
             
