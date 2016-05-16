@@ -3,19 +3,48 @@ Frequently Asked Questions  | 
       Google Maps APIs Premium Plan  | 
       Google Developers
     
-    Sign in
-  
-                Products
-              
-                Google Maps APIs
-              
-                Premium Plan
-              
-                Support
-              
-      Google Maps APIs Premium Plan
+    
+      
+        Google Maps APIs
+      
+    
+    
     
         Home
+      
+        Documentation
+      
+        Pricing and Plans
+      
+        Premium Plan
+      
+            list
+          All Products
+  
+  Sign in
+    
+    
+      Premium Plan
+    
+    
+    
+        Overview
+      
+        Guides
+      
+        Support
+      
+        Previous Licenses
+      
+        Home
+      
+        Documentation
+      
+        Pricing and Plans
+      
+        Premium Plan
+      
+        Overview
       
         Guides
       
@@ -25,6 +54,36 @@ Frequently Asked Questions  | 
       
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistOptimizing Web Service UsageTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistOptimizing Web Service UsageTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
+    
+    
+      Products
+    
+    
+    
+    
+    
+      Google Maps APIs
+    
+    
+    
+    
+    
+      Premium Plan
+    
+    
+    
+    
+    
+      Premium Plan
+    
+    
+    
+    
+    
+      Support
+    
+    
+    
       Frequently Asked Questions
     
 This FAQ covers questions specific to
@@ -426,74 +485,90 @@ Except as otherwise noted, the content of this page is licensed under the Creati
       
       Last updated May 16, 2016.
     
-            
-            
-              Stack Overflow 
-            
-          Ask a question under the google-maps tag.
-            
-            
-              GitHub 
-            
-          Fork our samples and try them yourself.
-            
-            
-              Blog 
-            
-          Read about the latest updates, customer stories, and tips.
-            
-            
-              Issue tracker 
-            
-          Something wrong? Send us a bug report!schoolLearn More
-                
-                  Tutorials 
-                
+          
+          
+            Stack Overflow 
+          
+        Ask a question under the google-maps tag.
+          
+          
+            GitHub 
+          
+        Fork our samples and try them yourself.
+          
+          
+            Blog 
+          
+        Read about the latest updates, customer stories, and tips.
+          
+          
+            Issue tracker 
+          
+        Something wrong? Send us a bug report!Learn More
               
-                
-                  Pricing and Plans 
-                
+                Tutorials 
               
-                
-                  API Picker 
-                
+            
               
-                
-                  Articles 
-                
-              codePlatforms
-                
-                  Android 
-                
+                Pricing and Plans 
               
-                
-                  iOS 
-                
+            
               
-                
-                  Web 
-                
+                API Picker 
               
-                
-                  Web Services 
-                
-              infoProduct Info
-                
-                  Contact sales 
-                
+            
               
-                
-                  Community support 
-                
+                Articles 
               
-                
-                  Paid support 
-                
+            Platforms
               
-                
-                  Terms of Use 
-                
-              ConnectBlogFacebookGoogle+MediumTwitterYouTubeProgramsWomen TechmakersAgency ProgramGoogle Developer GroupsGoogle Developer ExpertsStartup LaunchpadDeveloper ConsolesGoogle Developers ConsoleGoogle Play ConsoleCast SDK ConsoleChrome Web Store DashboardExploreAndroidiOSWebGamesAll ProductsCareersTerms
+                Android 
+              
+            
+              
+                iOS 
+              
+            
+              
+                Web 
+              
+            
+              
+                Web Services 
+              
+            Product Info
+              
+                Contact sales 
+              
+            
+              
+                Community support 
+              
+            
+              
+                Paid support 
+              
+            
+              
+                Terms of Use 
+              
+            
+              
+                Android
+              
+            
+              
+                Chrome
+              
+            
+              
+                Google Cloud Platform
+              
+            
+              
+                All Products
+              
+            Terms
         |  
       
       Privacy
