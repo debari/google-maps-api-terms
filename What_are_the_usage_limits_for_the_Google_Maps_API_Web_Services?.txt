@@ -9,7 +9,7 @@ Frequently Asked Questions  | 
               
                 Google Maps APIs
               
-                Google Maps APIs Premium Plan
+                Premium Plan
               
                 Support
               
@@ -72,6 +72,8 @@ Will the Google Developers Console project I'm provided
     have all available APIs enabled?
 What are the differences between an API key
     and a client ID?
+Do I need to use my Google Maps APIs Premium Plan credentials
+    in my testing environment?
 How do I access Zagat features with the
     Google Maps APIs Premium Plan?
 How do I access premium mobile features with
@@ -298,6 +300,30 @@ If you use your client ID, make sure you keep your cyptographic key (which you u
         generate digital signatures) secret. Also make sure you never use the crypto key in your
         API requests or use it to sign URLs using JavaScript, as these practices can expose your
         key.
+Do I need to use my Google Maps APIs Premium Plan credentials
+    in my testing environment?
+All Google Maps APIs require authentication, with an API key or client ID. When developing
+  your application in your test environment, consider the following:
+If you need access to technical support for your test environment, you must use a
+      credential from your Premium Plan (client ID or API key). Note
+      that use of the Maps APIs will consume your plan's Maps APIs Credits based on the
+      usage rates and limits.
+    If you do not want your testing environment to consume your plan's Maps APIs Credits,
+      you may use standard credentials (an API key, set up in the
+      Google Developers Console)—however,
+      in this case, your test environment will not be eligible for technical support.
+      If you choose to use standard credentials, your app or website will be subject to the
+      standard usage limits for each API. For more information on standard usage limits, see
+      Pricing and Plans.
+If you expect to generate some significant volume in your test environment and also want
+      to be able to access technical support for your test environment, but do not want to consume
+      your Premium Plan's Maps APIs Credits, consider a license for
+      development purposes only. This is typically a lower-cost option, and offers technical
+      support. Contact your Google Maps for Work Account Manager for more information.
+If you are load testing your app, you can run those tests against a mock API.
+      See Perform load testing on your
+      app in the Prelaunch Checklist.
+    
 How do I access Zagat features with the
   Google Maps APIs Premium Plan?
 Notice:
@@ -398,7 +424,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated May 2, 2016.
+      Last updated May 16, 2016.
     
             
             
