@@ -16,8 +16,6 @@ Frequently Asked Questions  | 
       
         Pricing and Plans
       
-        Premium Plan
-      
             list
           All Products
   
@@ -40,10 +38,6 @@ Frequently Asked Questions  | 
       
         Documentation
       
-        Pricing and Plans
-      
-        Premium Plan
-      
         Overview
       
         Guides
@@ -51,6 +45,8 @@ Frequently Asked Questions  | 
         Support
       
         Previous Licenses
+      
+        Pricing and Plans
       
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistOptimizing Web Service UsageTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistOptimizing Web Service UsageTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
@@ -74,7 +70,7 @@ Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and Trouble
     
     
     
-      Premium Plan
+      Documentation
     
     
     
