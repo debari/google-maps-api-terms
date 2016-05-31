@@ -80,8 +80,8 @@ Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and Trouble
     
     
     
-      Frequently Asked Questions
-    
+    Frequently Asked Questions
+  
 This FAQ covers questions specific to
   Google Maps APIs Premium Plan.
 Please refer to the Google Maps APIs FAQ
