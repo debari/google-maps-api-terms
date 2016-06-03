@@ -134,6 +134,9 @@ France and Monaco
                     
                       Â© PrincipautÃ© de Monaco
                     
+                      Contains information from STIF Open Data, which is made available here under the
+                      Open Data License (ODbL). Modifications and improvements to the
+                      database made available in GTFS format here.
 Germany
                       Bundesamt fÃ¼r Kartographie und GeodÃ¤sie - Â© Vermessungsverwaltungen der
                       BundeslÃ¤nder und Bundesamt fÃ¼r Kartographie und GeodÃ¤sie
