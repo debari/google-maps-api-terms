@@ -125,9 +125,9 @@ Why are Google Places API Details
     requests charged 2 Maps APIs Credits while Place Autocomplete requests are
     charged only 0.1 credits?
 Developing your application
-Will I be issued both a Google Developers Console
+Will I be issued both a Google API Console
     project ID and a client ID?
-Will the Google Developers Console project I'm provided
+Will the Google API Console project I'm provided
     have all available APIs enabled?
 What are the differences between an API key
     and a client ID?
@@ -254,7 +254,7 @@ Do I need a Google Account with the
   Google Maps APIs Premium Plan?
 Yes, you'll need a Google Account to access the Google Maps APIs available
   on the 
-Google Developers Console.
+Google API Console.
 Usage limits
 How is Google Maps APIs Premium Plan usage
   calculated?
@@ -310,14 +310,14 @@ The Google Places API uses an extensive database of business and other
     that users often need to type several characters to find a place, so we are
     charging only a fractional credit for each request.
 Developing your application
-Will I be issued both a Google Developers Console project ID
+Will I be issued both a Google API Console project ID
   and a client ID?
-Yes, your welcome letter will include your Google Developers Console project ID
+Yes, your welcome letter will include your Google API Console project ID
   and your client ID. 
-Will the Google Developers Console project I'm provided have all
+Will the Google API Console project I'm provided have all
   available APIs enabled?
 Yes, with the Premium Plan, we automatically
-    provision all of our APIs for the same Google Developers Console project. You can
+    provision all of our APIs for the same Google API Console project. You can
     access all the APIs in one project. APIs on the same platform (Web, Web
     Services, Android, or iOS) can share the same API key. Your API keys provide
     real-time usage reports and historical usage data for up to 30 days. If you
@@ -329,7 +329,7 @@ Yes, with the Premium Plan, we automatically
     Google Maps SDK for iOS.)
 What are the differences between an API key and a client ID?
 With your project ID, you can generate API keys in
-  the Google Developers Console. Here are the
+  the Google API Console. Here are the
   primary differences between the use of API keys and your client ID:
 API support: You can use an API key with any Maps API. Alternatively, you
     can use your client ID with any API, except  the Google Places API,
@@ -369,7 +369,7 @@ If you need access to technical support for your test environment, you must use 
       usage rates and limits.
     If you do not want your testing environment to consume your plan's Maps APIs Credits,
       you may use standard credentials (an API key, set up in the
-      Google Developers Console)—however,
+      Google API Console)—however,
       in this case, your test environment will not be eligible for technical support.
       If you choose to use standard credentials, your app or website will be subject to the
       standard usage limits for each API. For more information on standard usage limits, see
@@ -483,7 +483,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies.
       
-      Last updated June 22, 2016.
+      Last updated June 29, 2016.
     
           
           
