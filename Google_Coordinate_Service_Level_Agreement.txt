@@ -1,6 +1,8 @@
 
       Google Earth Enterprise
     
+    iframe.c1 {display:none;visibility:hidden}
+    
         Google Coordinate Service Level Agreement
       
 Google Coordinate SLA. During the Term of the applicable Google
