@@ -257,10 +257,10 @@ Google API Console.
 Usage limits
 How is Google Maps APIs Premium Plan usage
   calculated?
-Have a previous Maps API for Work or
-  Maps API for Business license?
-  See our Maps API for Work Licenses
-  guide. To determine whether you have a previous license: In the
+Have a previous
+  Maps APIs for Work or Maps API for Business license?
+  See our Maps APIs for Work
+  Licenses guide. To determine whether you have a previous license: In the
   Google for Work Support Portal,
   click Maps: Usage Report on the left. If the ID at the top of the report
   is in the following format, you have the new Premium Plan:
@@ -482,7 +482,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated August 16, 2016.
+      Last updated September 21, 2016.
     
           
           
