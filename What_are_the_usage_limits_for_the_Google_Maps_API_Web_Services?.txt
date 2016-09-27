@@ -99,9 +99,9 @@ How do I reset login credentials for the
       Google for Work Support Portal?
 What are the Terms of Service for the
       Google Maps APIs Premium Plan?
-Previous Google Maps API for Work licenses and renewals
-Where can I find information about previous Google Maps
-      API for Work licenses?
+Previous Google Maps APIs for Work licenses and renewals
+Where can I find information about previous
+      Google Maps APIs for Work licenses?
 What are the changes with the new
       Premium Plan?
 Purchasing the Google Maps APIs Premium Plan
@@ -187,7 +187,7 @@ Google Maps SDK for iOS
 * The Google Places API is not included with the
     Premium Plan Asset Tracking license. If you have an Asset Tracking
     license and want to use the Places API, please contact the
-     Google Maps APIs Sales team.
+     Google Maps Sales team.
 The following APIs are not covered by Google Maps APIs Premium Plan.
     Applications that use these APIs must do so in compliance with the
     published Terms of Service for these APIs, and are not covered by the
@@ -216,17 +216,17 @@ If you are a Google Maps APIs Premium Plan customer, please refer to your
     For more information, see the
     Google Maps APIs Premium Plan
     terms of use.
-Previous Google Maps API for Work licenses and
+Previous Google Maps APIs for Work licenses and
   renewals
-  Where can I find information about previous Google Maps API for Work licenses?
-To determine whether you have a previous Maps API for Work license:
+  Where can I find information about previous Google Maps APIs for Work licenses?
+To determine whether you have a previous Maps APIs for Work license:
     In the Google for Work Support Portal,
     click Maps: Usage Report on the left. If the ID at the top
     of the report is in the following format, you have the new
     Premium Plan:
     gme-[company] & proj-[number] ([type])
     Otherwise, you have a previous license. For more information, see the guide
-    to Maps API for Work
+    to Maps APIs for Work
     Licenses.
   What are the changes with the new
   Premium Plan?
@@ -243,7 +243,8 @@ Ability to use Google Maps APIs for an internal application or website
   
 A specific amount of quota
  Ability to use Google Maps APIs for asset tracking applications
-Premium features available with your existing Maps APIs for Work license
+Premium features available with your existing Maps APIs for Work
+    license
   
 How do I purchase the Google Maps APIs Premium Plan?
 Contact your Google sales representative for details on purchasing the
@@ -296,7 +297,7 @@ In addition, you may find the
 What happens if I use all of my Maps APIs Credits?
 If you run out of Maps APIs Credits, your application's requests will
     continue to succeed, but your account may be subject to overage fees. In
-    this case, you'll need to renew your Google Maps APIs Premium license as
+    this case, you'll need to renew your Google Maps APIs Premium Plan license as
     soon as possible to avoid a suspension of your account. Google will notify
     you via email once you've used up 85% of your quota.
 Why are Google Places API Details requests
@@ -377,7 +378,8 @@ If you expect to generate some significant volume in your test environment and a
       to be able to access technical support for your test environment, but do not want to consume
       your Premium Plan's Maps APIs Credits, consider a license for
       development purposes only. This is typically a lower-cost option, and offers technical
-      support. Contact your Google Maps for Work Account Manager for more information.
+      support. Contact your Google Maps Account Manager for
+      more information.
 If you are load testing your app, you can run those tests against a mock API.
       See Perform load testing on your
       app in the Prelaunch Checklist.
@@ -482,7 +484,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated September 21, 2016.
+      Last updated September 27, 2016.
     
           
           
