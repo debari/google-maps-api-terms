@@ -3,7 +3,7 @@
     
     iframe.c1 {display:none;visibility:hidden}
     
-        Google Maps for Work Deprecation Terms
+        Google Maps Deprecation Terms
       
 Last updated: 2015-10-22
 Document is subject to change at Googleâs discretion.

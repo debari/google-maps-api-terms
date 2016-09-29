@@ -1,9 +1,9 @@
 
-      Google Maps for Work - Integrator License Prohibited Territory
+      Google Maps - Integrator License Prohibited Territory
     
     iframe.c1 {display:none;visibility:hidden}
     
-        Google Maps for Business - Integrator License Prohibited Territory
+        Google Maps - Integrator License Prohibited Territory
       
 China
         

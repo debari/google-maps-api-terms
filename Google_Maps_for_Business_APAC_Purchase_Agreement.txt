@@ -1,11 +1,11 @@
 
-      Google Maps for Business - APAC Purchase Agreement
+      Google Maps - APAC Purchase Agreement
     
     iframe.c1 {display:none;visibility:hidden}
     
-        Google Maps API for Business - APAC Purchase Agreement
+        Google Maps API - APAC Purchase Agreement
       
-This agreement for the purchase of Google Maps API for Business (the
+This agreement for the purchase of Google Maps API (the
       "Agreement") is made and entered into by and between Google Asia Pacific Pte. Ltd.
       (Co. Reg. No. 200817984R) ("Google") and the customer identified on the Ordering
       Document ("Customer"). This Agreement and the corresponding Ordering Document governs
@@ -680,7 +680,7 @@ a. Design. Integrator will respond to a Google
         time or distance, or both, for the entire, or any portion of, the route.
         "Sensor" means the use of any technology to automatically
         determine an End User's location.
-        "Services" means the Google Maps API for Business service and
+        "Services" means the Google Maps API service and
         the APIs described here: http://www.google.com/work/earthmaps/legal/us/maps_included_APIs.html
         (or other URL as may be provided by Google). APIs may be included at no-additional cost,
         upgradeable or deprecated.

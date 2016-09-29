@@ -1,5 +1,5 @@
 
-      Google Maps API for Work - Included APIs
+      Google Maps API - Included APIs
     
     iframe.c1 {display:none;visibility:hidden}
     

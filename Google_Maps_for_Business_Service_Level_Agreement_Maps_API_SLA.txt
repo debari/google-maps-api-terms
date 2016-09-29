@@ -1,9 +1,9 @@
 
-      Google Maps for Business - Service Level Agreement (âMaps API SLAâ)
+      Google Maps - Service Level Agreement (âMaps API SLAâ)
     
     iframe.c1 {display:none;visibility:hidden}
     
-        Google Maps for WorkâService Level Agreement (âMaps API SLAâ)
+        Google MapsâService Level Agreement (âMaps API SLAâ)
       
 Service Level Agreement. Google will use reasonable commercial efforts
             to provide Maps API web and mobile interfaces that are operating and available to
@@ -56,7 +56,7 @@ Definitions. The following definitions apply to this Maps API SLA.
               SLA, and will not be counted towards any Downtime Periods.
               
 "Domain" means one of the sites or URLs authorized to use an
-              individual Maps API for Business client id, for example www.google.com.
+              individual Maps API client id, for example www.google.com.
               
 "Service" means the Google Maps API road and satellite imagery
               provided by Google to Customer under the Google Maps APIs Premium Plan Agreement.

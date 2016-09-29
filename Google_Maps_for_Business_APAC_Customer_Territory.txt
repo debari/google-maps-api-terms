@@ -1,9 +1,9 @@
 
-      Google Maps for Work
+      Google Maps
     
     iframe.c1 {display:none;visibility:hidden}
     
-        Google Maps for Business - APAC Customer Territory
+        Google Maps - APAC Customer Territory
       
 Australia
         
