@@ -355,6 +355,7 @@ If you use an API key, make sure you keep your key secret. All requests to Maps 
         For server-side APIs, restrict your key so that requests are allowed only from
         your servers' source IP addresses. For more information about using API keys securely,
         see the Console Help Center.
+      
 If you use your client ID, make sure you keep your cyptographic key (which you use to
         generate digital signatures) secret. Also make sure you never use the crypto key in your
         API requests or use it to sign URLs using JavaScript, as these practices can expose your
@@ -484,7 +485,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated September 27, 2016.
+      Last updated September 28, 2016.
     
           
           
