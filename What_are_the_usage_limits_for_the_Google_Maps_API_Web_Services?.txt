@@ -96,7 +96,7 @@ Which APIs are included in
 How do I contact technical support for
       Google Maps APIs Premium Plan?
 How do I reset login credentials for the
-      Google for Work Support Portal?
+      Google Cloud Support Portal?
 What are the Terms of Service for the
       Google Maps APIs Premium Plan?
 Previous Google Maps APIs for Work licenses and renewals
@@ -199,16 +199,16 @@ Google Places API for Android
 Google Places API for iOS
   How do I contact technical support for Google Maps APIs Premium Plan?
 Google Maps APIs Premium Plan customers can open a new support case with
-    Google Support using the Google for Work Support Portal at:
+    Google Support using the Google Cloud Support Portal at:
 https://google.secure.force.com/
 A username and password are required to access the portal. Please
     
       fill out this form if you do not have an account.
 For more information, see the guide to
     support and resources.
-  How do I reset login credentials for the Google for Work Support Portal?
+  How do I reset login credentials for the Google Cloud Support Portal?
     I forgot my password. This link is also available from the
-    Google for Work Support Portal login
+    Google Cloud Support Portal login
     page.
   What are the Terms of Service for the Google Maps APIs Premium Plan?
 If you are a Google Maps APIs Premium Plan customer, please refer to your
@@ -220,7 +220,7 @@ Previous Google Maps APIs for Work licenses and
   renewals
   Where can I find information about previous Google Maps APIs for Work licenses?
 To determine whether you have a previous Maps APIs for Work license:
-    In the Google for Work Support Portal,
+    In the Google Cloud Support Portal,
     click Maps: Usage Report on the left. If the ID at the top
     of the report is in the following format, you have the new
     Premium Plan:
@@ -262,7 +262,7 @@ Have a previous
   Maps APIs for Work or Maps API for Business license?
   See our Maps APIs for Work
   Licenses guide. To determine whether you have a previous license: In the
-  Google for Work Support Portal,
+  Google Cloud Support Portal,
   click Maps: Usage Report on the left. If the ID at the top of the report
   is in the following format, you have the new Premium Plan:
   gme-[company] & proj-[number] ([type])
@@ -343,7 +343,7 @@ Reporting: Your API keys provide
 Error codes: If you use API keys, you receive error messages according
     to HTTP status code class (for example, 3xx and 4xx errors), which provide only general
     information. If you use your client ID, you receive more detailed API-specific error codes in
-    the Google for Work Support Portal reports, which can help
+    the Google Cloud Support Portal reports, which can help
     with troubleshooting.
 Security: Both API keys and the client ID are equally secure, as long as
     you follow these guidelines:
@@ -485,7 +485,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated September 28, 2016.
+      Last updated September 29, 2016.
     
           
           
