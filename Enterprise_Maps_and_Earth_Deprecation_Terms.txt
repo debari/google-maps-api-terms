@@ -26,7 +26,8 @@ doing so could create a security risk or substantial economic or material techni
 Google Maps APIs Premium Plan - included APIs (for SKUs starting with
             MA4W-)
           
-Google Maps API for Business - included APIs (for SKUs starting with GM-)
+Google Maps API for Business - included APIs (for SKUs starting
+            with GM-)
           
           Experimental Features or Functionality
         
