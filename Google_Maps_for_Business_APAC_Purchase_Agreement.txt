@@ -8,12 +8,12 @@
 This agreement for the purchase of Google Maps APIs (the
       "Agreement") is made and entered into by and between the customer identified on the
       Ordering Document ("Customer") and Google. "Google" means either (a) Google Asia
-      Pacific Pte. Ltd., whose principal place of business is at 70 Pasir Panjang Road, #03-01,
-      Mapletree Business City II, Singapore 117371 if Customer's billing address is not in
-      Australia, or (b) Google Australia Pty Ltd, whose principal place of business is at Level 5,
-      48 Pirrama Road, Pyrmont 2009, NSW, Australia if Customer's billing address is in Australia.
-      This Agreement and the corresponding Ordering Document governs Customer's access to and use
-      of the Services.
+      Pacific Pte. Ltd., whose principal place of business is at 70 Pasir Panjang Road, #03-71,
+      Mapletree Business City, Singapore 117371 if Customer's billing address is not in Australia,
+      or (b) Google Australia Pty Ltd, whose principal place of business is at Level 5, 48 Pirrama
+      Road, Pyrmont 2009, NSW, Australia if Customer's billing address is in Australia. This
+      Agreement and the corresponding Ordering Document governs Customer's access to and use of the
+      Services.
       1. Licenses.
         1.1 From Google to Customer. Subject to this Agreement, and in consideration of
         Customer's payment of Fees, Google grants to Customer, and Customer agrees to comply with a
