@@ -91,6 +91,7 @@ Which APIs are included in
       Google Maps APIs Premium Plan?
 How do I contact technical support for
       Google Maps APIs Premium Plan?
+When is technical support available?
 How do I reset login credentials for the
       Google Cloud Support Portal?
 What are the Terms of Service for the
@@ -202,6 +203,19 @@ A username and password are required to access the portal. Please
       fill out this form if you do not have an account.
 For more information, see the guide to
     support and resources.
+  When is technical support available?
+The Support team is available 24x5 (weekdays from Monday 9 AM Tokyo time to Friday 5 PM
+    Pacific time) excluding 
+    regional holidays.
+For Premium Plan customers with Gold-level support,
+    technical support is available 24x7 for 
+    critical issues (weekdays and weekends, including
+    
+    regional holidays).
+If you need access to technical support 24x7, contact sales
+    to learn more about Gold-level support.
+For additional details, see the guide to
+    support and resources.
   How do I reset login credentials for the Google Cloud Support Portal?
     I forgot my password. This link is also available from the
     Google Cloud Support Portal login
@@ -220,7 +234,7 @@ To determine whether you have a previous Maps APIs for Work license:
     click Maps: Usage Report on the left. If the ID at the top
     of the report is in the following format, you have the new
     Premium Plan:
-    gme-[company] & proj-[number] ([type])
+    gme-[company] & proj-[number] ([type]).
     Otherwise, you have a previous license. For more information, see the guide
     to Maps APIs for Work
     Licenses.
@@ -481,7 +495,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated November 25, 2016.
+      Last updated December 20, 2016.
     
           
           
