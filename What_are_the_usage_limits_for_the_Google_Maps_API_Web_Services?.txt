@@ -168,7 +168,6 @@ The following Google products are included in
 Google Maps JavaScript API
 Google Static Maps API
 Google Street View Image API
-Google Earth API (deprecated)
 Google Maps Geocoding API
 Google Maps Geolocation API
 Google Maps Elevation API
@@ -495,7 +494,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated January 10, 2017.
+      Last updated January 11, 2017.
     
           
           
