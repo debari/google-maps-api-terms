@@ -583,24 +583,29 @@ Except as otherwise noted, the content of this page is licensed under the Creati
               
                 All Products
               
-            TermsPrivacy
-          Bahasa Indonesia
+            
+            Bahasa Indonesia
+          
+            Deutsch
+          
+            English
+          
+            español
+          
+            français
+          
+            Português Brasileiro
+          
+            Русский
+          
+            日本語
+          
+            简体中文
+          
+            한국어
+          TermsPrivacy
+        Sign up for the Google Developers newsletter
+      
         
-          Deutsch
-        
-          English
-        
-          español
-        
-          français
-        
-          Português Brasileiro
-        
-          Русский
-        
-          日本語
-        
-          简体中文
-        
-          한국어
-        
+        Subscribe
+      
