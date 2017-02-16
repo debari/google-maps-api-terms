@@ -1,221 +1,122 @@
 
-      Ten things we know to be true â Company â Google
+      About Us | Google
     
- Company
-Skip to content
-    Search
-About Google
-Company
-What we believe
-        
-Company overview
-Who we are
-Our culture
-Locations
-What we believe
+    iframe.c1 {display:none;visibility:hidden;}
+    
+ 
+Our company
+Our products
+  
+ 
+                      @media screen{.carousel-slide-bg-136222c1c4e42450394f000d9d346d1b{background-image:url(https://lh3.googleusercontent.com/fpxzRReX19qSqec4i3Nt6g3xXWCgkFkRkY1E37jeig6NzGHoZh9Mk3Yeo9ofYXvIBToYzIiwvbM5bJdKvE_N-VTAFbpu6tSmfmaJ=w600-l80-sg-rj-c0xffffff)}}@media screen and (min-width:600px){.carousel-slide-bg-136222c1c4e42450394f000d9d346d1b{background-image:url(https://lh3.googleusercontent.com/fpxzRReX19qSqec4i3Nt6g3xXWCgkFkRkY1E37jeig6NzGHoZh9Mk3Yeo9ofYXvIBToYzIiwvbM5bJdKvE_N-VTAFbpu6tSmfmaJ=w1024-l80-sg-rj-c0xffffff)}}@media screen and (min-width:1024px){.carousel-slide-bg-136222c1c4e42450394f000d9d346d1b{background-image:url(https://lh3.googleusercontent.com/fpxzRReX19qSqec4i3Nt6g3xXWCgkFkRkY1E37jeig6NzGHoZh9Mk3Yeo9ofYXvIBToYzIiwvbM5bJdKvE_N-VTAFbpu6tSmfmaJ=w1440-l80-sg-rj-c0xffffff)}}
+                      
+                        Machine learning: Making sense of a messy world
+                      
+                      @media screen{.carousel-slide-bg-67eb2874100e044785bea67568febabf{background-image:url(https://lh3.googleusercontent.com/8wGHT-7PmawlBJGE6vH9DMoH_8J47tmjHwb74NPmTRy3Q3FWnySciI3QfYJzhcCt28CP0JhfaofDIK5vdZo3fpJEk_y5wToU_jz4hpk=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-67eb2874100e044785bea67568febabf{background-image:url(https://lh3.googleusercontent.com/8wGHT-7PmawlBJGE6vH9DMoH_8J47tmjHwb74NPmTRy3Q3FWnySciI3QfYJzhcCt28CP0JhfaofDIK5vdZo3fpJEk_y5wToU_jz4hpk=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-67eb2874100e044785bea67568febabf{background-image:url(https://lh3.googleusercontent.com/8wGHT-7PmawlBJGE6vH9DMoH_8J47tmjHwb74NPmTRy3Q3FWnySciI3QfYJzhcCt28CP0JhfaofDIK5vdZo3fpJEk_y5wToU_jz4hpk=w480-h220-n-l80-sg-rj)}}
+                      
+                        Breaking it down: A Q&A on machine learning
+                      
+                      @media screen{.carousel-slide-bg-406df045e5f56ab08a1e8a42f89c1e50{background-image:url(https://lh3.googleusercontent.com/dzXq3Vvt-cJFs3p0uxW0s799PlPnL1VdrInD-e9soU9wsjttoTExBdfOPZUXfB0Q0EYhmRSggbcsJIxtSDEsH_yYKpKQ_jIAfv0XGg=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-406df045e5f56ab08a1e8a42f89c1e50{background-image:url(https://lh3.googleusercontent.com/dzXq3Vvt-cJFs3p0uxW0s799PlPnL1VdrInD-e9soU9wsjttoTExBdfOPZUXfB0Q0EYhmRSggbcsJIxtSDEsH_yYKpKQ_jIAfv0XGg=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-406df045e5f56ab08a1e8a42f89c1e50{background-image:url(https://lh3.googleusercontent.com/dzXq3Vvt-cJFs3p0uxW0s799PlPnL1VdrInD-e9soU9wsjttoTExBdfOPZUXfB0Q0EYhmRSggbcsJIxtSDEsH_yYKpKQ_jIAfv0XGg=w480-h220-n-l80-sg-rj)}}
+                      
+                        TensorFlow: Smarter machine learning, for everyone
+                      
+                      @media screen{.carousel-slide-bg-891f9fbfc9b2500e516586d6b3d6c6c6{background-image:url(https://lh3.googleusercontent.com/ckt7UDfaFe1tnErRh9ZpFTUn43xHTTMpQR5wHphjWX5qvpG8JPh2bIgdhBaYlFS4bZX-oAFNKbIAtUjTXceSjSUby-ZtBTx-ZvZdPcQ=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-891f9fbfc9b2500e516586d6b3d6c6c6{background-image:url(https://lh3.googleusercontent.com/ckt7UDfaFe1tnErRh9ZpFTUn43xHTTMpQR5wHphjWX5qvpG8JPh2bIgdhBaYlFS4bZX-oAFNKbIAtUjTXceSjSUby-ZtBTx-ZvZdPcQ=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-891f9fbfc9b2500e516586d6b3d6c6c6{background-image:url(https://lh3.googleusercontent.com/ckt7UDfaFe1tnErRh9ZpFTUn43xHTTMpQR5wHphjWX5qvpG8JPh2bIgdhBaYlFS4bZX-oAFNKbIAtUjTXceSjSUby-ZtBTx-ZvZdPcQ=w480-h220-n-l80-sg-rj)}}
+                      
+                        CEO Sundar Pichai on the Google Assistant
+                      
+            Working at Google
           
-What we do
-          Ten things we know to be true
-        
-              We first wrote these â10 thingsâ when Google was just a few years old. From time to
-              time we revisit this list to see if it still holds true. We hope it doesâand you can
-              hold us to that.
+                    @media screen{.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w742-h504-n-l80-sg-rj)}}
+                    
+                        Google internsâ first week
+                      
+                    @media screen{.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w742-h504-n-l80-sg-rj)}}
+                    
+                        Increasing access to opportunity for everyone
+                      
+                    @media screen{.carousel-working-visible .carousel-slide-inner-72f92ef784ff47e743229eeb9bb61d72{background-image:url(https://lh3.googleusercontent.com/wt_Xs-sxANX6vAE5tlYVS56KomnxKEO2ZzF1v0fJXCnogUFVmifmlWwy7XU7cyOZTsPxKI1aeblRaPNwdENul1GOE2FCda25bnv4=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-72f92ef784ff47e743229eeb9bb61d72{background-image:url(https://lh3.googleusercontent.com/wt_Xs-sxANX6vAE5tlYVS56KomnxKEO2ZzF1v0fJXCnogUFVmifmlWwy7XU7cyOZTsPxKI1aeblRaPNwdENul1GOE2FCda25bnv4=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-72f92ef784ff47e743229eeb9bb61d72{background-image:url(https://lh3.googleusercontent.com/wt_Xs-sxANX6vAE5tlYVS56KomnxKEO2ZzF1v0fJXCnogUFVmifmlWwy7XU7cyOZTsPxKI1aeblRaPNwdENul1GOE2FCda25bnv4=w742-h504-n-l80-sg-rj)}}
+                    
+                        Our doors are open: See inside our London office
+                      
+Explore Google Careers
+            What the world is searching for now
+          
+Take a break
+Pause einlegen
+Faites une pause
+Ð¡Ð´ÐµÐ»Ð°Ð¹ÑÐµ Ð¿ÐµÑÐµÑÑÐ²
+Discover more Google Trends
+            Our values in action
+          
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-e252b5d769207cc4d0a55bf4d0197fe3{background-image:url(https://lh3.googleusercontent.com/26MHEcyon6s4UJ0x06AlFPWuQjI0Vnd5LGbg4RfIRz7WRrCjpM3XURNCv9p3nlIQFCiX2MV9H7Z7TngriZsvsMWJ9qTDBrrMP6BSfA=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-e252b5d769207cc4d0a55bf4d0197fe3{background-image:url(https://lh3.googleusercontent.com/26MHEcyon6s4UJ0x06AlFPWuQjI0Vnd5LGbg4RfIRz7WRrCjpM3XURNCv9p3nlIQFCiX2MV9H7Z7TngriZsvsMWJ9qTDBrrMP6BSfA=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-e252b5d769207cc4d0a55bf4d0197fe3{background-image:url(https://lh3.googleusercontent.com/26MHEcyon6s4UJ0x06AlFPWuQjI0Vnd5LGbg4RfIRz7WRrCjpM3XURNCv9p3nlIQFCiX2MV9H7Z7TngriZsvsMWJ9qTDBrrMP6BSfA=w742-h504-n-l80-sg-rj)}}
+                    
+                        100% renewable is just the beginning
+                      
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-10cc3ee3130dd06f54b5571d37dee1c1{background-image:url(https://lh3.googleusercontent.com/GboN-vSmadjgezgwmO-Q4at2cQTUnaV2GC7ZLLsko6HwLbeGVjSSYSkQ_ce5XAgn6woVQC9XBDY4sT__QN8ga54N_d0FBYEdSwBAFQ=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-10cc3ee3130dd06f54b5571d37dee1c1{background-image:url(https://lh3.googleusercontent.com/GboN-vSmadjgezgwmO-Q4at2cQTUnaV2GC7ZLLsko6HwLbeGVjSSYSkQ_ce5XAgn6woVQC9XBDY4sT__QN8ga54N_d0FBYEdSwBAFQ=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-10cc3ee3130dd06f54b5571d37dee1c1{background-image:url(https://lh3.googleusercontent.com/GboN-vSmadjgezgwmO-Q4at2cQTUnaV2GC7ZLLsko6HwLbeGVjSSYSkQ_ce5XAgn6woVQC9XBDY4sT__QN8ga54N_d0FBYEdSwBAFQ=w742-h504-n-l80-sg-rj)}}
+                    
+                        Internet Saathi: Bridging the online gender divide in rural India
+                      
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-cbe527910cad98302e207be9465808b0{background-image:url(https://lh3.googleusercontent.com/lNl5jUgsWxMNel_P1Lchrvr_mNwexAzAjwWcrWdUlSjMQFcEIHED1MTSjT80tz17vbjlLL6z0TsS60Tkw6lGHBAT3Lb0_GCsZu3tBw=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-cbe527910cad98302e207be9465808b0{background-image:url(https://lh3.googleusercontent.com/lNl5jUgsWxMNel_P1Lchrvr_mNwexAzAjwWcrWdUlSjMQFcEIHED1MTSjT80tz17vbjlLL6z0TsS60Tkw6lGHBAT3Lb0_GCsZu3tBw=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-cbe527910cad98302e207be9465808b0{background-image:url(https://lh3.googleusercontent.com/lNl5jUgsWxMNel_P1Lchrvr_mNwexAzAjwWcrWdUlSjMQFcEIHED1MTSjT80tz17vbjlLL6z0TsS60Tkw6lGHBAT3Lb0_GCsZu3tBw=w742-h504-n-l80-sg-rj)}}
+                    
+                        Google.org: Investing to make a difference
+                      
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-5bf2435f3350fd0c19694e001df37ace{background-image:url(https://lh3.googleusercontent.com/VPmWBXNJzO8bCyQqUbBz0luNGMFMBgMUdhib6EGiNbFDyPRywqHhk-IVvJTveCrdb2ss-Slj3xZEeJ3tqGf6rvz8cBwggtPaepkTSGo=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-5bf2435f3350fd0c19694e001df37ace{background-image:url(https://lh3.googleusercontent.com/VPmWBXNJzO8bCyQqUbBz0luNGMFMBgMUdhib6EGiNbFDyPRywqHhk-IVvJTveCrdb2ss-Slj3xZEeJ3tqGf6rvz8cBwggtPaepkTSGo=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-5bf2435f3350fd0c19694e001df37ace{background-image:url(https://lh3.googleusercontent.com/VPmWBXNJzO8bCyQqUbBz0luNGMFMBgMUdhib6EGiNbFDyPRywqHhk-IVvJTveCrdb2ss-Slj3xZEeJ3tqGf6rvz8cBwggtPaepkTSGo=w742-h504-n-l80-sg-rj)}}
+                    
+                        Google Impact Challenge: Designing a world that works for everyone
+                      
+            Today in Doodle history
+          
+{[::doodle.localizedDate]}{[::doodle.title]}
+{[doodleCtrl.doodleHistory[0].localizedDate]}{[doodleCtrl.doodleHistory[0].title]}
+Discover more Google Doodles
+            Behind the scenes at Google
+          
+                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-c5c5d68b576e589d60a95f6c377d0d5f{background-image:url(https://lh3.googleusercontent.com/De37K3VUlUsH-XUDWqnQVxPhtetW-uQ146F2V0unfPhiS7YJiHjL15DwFqopb9KMcbzWCIYNpZaF1eD_VcQyrJdaftbWdgdw_EDG1W8=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-c5c5d68b576e589d60a95f6c377d0d5f{background-image:url(https://lh3.googleusercontent.com/De37K3VUlUsH-XUDWqnQVxPhtetW-uQ146F2V0unfPhiS7YJiHjL15DwFqopb9KMcbzWCIYNpZaF1eD_VcQyrJdaftbWdgdw_EDG1W8=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-c5c5d68b576e589d60a95f6c377d0d5f{background-image:url(https://lh3.googleusercontent.com/De37K3VUlUsH-XUDWqnQVxPhtetW-uQ146F2V0unfPhiS7YJiHjL15DwFqopb9KMcbzWCIYNpZaF1eD_VcQyrJdaftbWdgdw_EDG1W8=w742-h504-n-l80-sg-rj)}}
+                    
+                        How PhotoScan helps you digitize your printed photos
+                      
+                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-a009fcdef7f3e4bd09f77680a6d16a55{background-image:url(https://lh3.googleusercontent.com/BVDgG02qPwlkQoH7WD28pQwPRTsHcffR3c3AZBwe-59YJlZn6TFm1gs2A8Bxtm3JgwurWxGutanOLaTeE1kJNv7bZVhzwl1H1S_E=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-a009fcdef7f3e4bd09f77680a6d16a55{background-image:url(https://lh3.googleusercontent.com/BVDgG02qPwlkQoH7WD28pQwPRTsHcffR3c3AZBwe-59YJlZn6TFm1gs2A8Bxtm3JgwurWxGutanOLaTeE1kJNv7bZVhzwl1H1S_E=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-a009fcdef7f3e4bd09f77680a6d16a55{background-image:url(https://lh3.googleusercontent.com/BVDgG02qPwlkQoH7WD28pQwPRTsHcffR3c3AZBwe-59YJlZn6TFm1gs2A8Bxtm3JgwurWxGutanOLaTeE1kJNv7bZVhzwl1H1S_E=w742-h504-n-l80-sg-rj)}}
+                    
+                        How does YouTube handle so much video?
+                      
+                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-6d63c48b0373954af1036a7712087156{background-image:url(https://lh3.googleusercontent.com/pSH6mtprkU0tRYeIllzdm44287rgvWVRqol0NiNp9fghZgcRnJNnhNGhw-qeUo3TYi6kmiPOjlK7_RNwAfHTMF015I_mP3wQGCEIsQ=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-6d63c48b0373954af1036a7712087156{background-image:url(https://lh3.googleusercontent.com/pSH6mtprkU0tRYeIllzdm44287rgvWVRqol0NiNp9fghZgcRnJNnhNGhw-qeUo3TYi6kmiPOjlK7_RNwAfHTMF015I_mP3wQGCEIsQ=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-6d63c48b0373954af1036a7712087156{background-image:url(https://lh3.googleusercontent.com/pSH6mtprkU0tRYeIllzdm44287rgvWVRqol0NiNp9fghZgcRnJNnhNGhw-qeUo3TYi6kmiPOjlK7_RNwAfHTMF015I_mP3wQGCEIsQ=w742-h504-n-l80-sg-rj)}}
+                    
+                        Google Translate vs. âLa Bambaâ
+                      
+            Our story
+          
+              @media screen{.our-story-visible .our-story-05827e993cb5ab15be9545a419111761{background-image:url(https://lh3.googleusercontent.com/WYO6aJkpnUfEowFgIrmMXGEZrATN4l341NH1YSaSD07H4j4NZ37TLKlFtz3cZPkchRKrqBlnc_gHDnLxPJGjINkB6KDGbssjZGx5=w600-h350-l80-sg-rj)}}@media screen and (min-width:600px){.our-story-visible .our-story-05827e993cb5ab15be9545a419111761{background-image:url(https://lh3.googleusercontent.com/WYO6aJkpnUfEowFgIrmMXGEZrATN4l341NH1YSaSD07H4j4NZ37TLKlFtz3cZPkchRKrqBlnc_gHDnLxPJGjINkB6KDGbssjZGx5=w1024-h378-l80-sg-rj)}}@media screen and (min-width:1024px){.our-story-visible .our-story-05827e993cb5ab15be9545a419111761{background-image:url(https://lh3.googleusercontent.com/WYO6aJkpnUfEowFgIrmMXGEZrATN4l341NH1YSaSD07H4j4NZ37TLKlFtz3cZPkchRKrqBlnc_gHDnLxPJGjINkB6KDGbssjZGx5=w1440-l80-sg-rj)}}
+              
+ 
+                From the garage to the Googleplex
+              
+Read our history
+Back to top 
+              Follow us on:
             
-                  Focus on the user and all else will follow.
-                
-                  Since the beginning, weâve focused on providing the best user experience
-                  possible. Whether weâre designing a new Internet browser or a new tweak to the
-                  look of the homepage, we take great care to ensure that they will ultimately
-                  serve you, rather than our own internal goal or bottom line. Our
-                  homepage interface is clear and simple, and pages load instantly. Placement in
-                  search results is never sold to anyone, and advertising is not only clearly
-                  marked as such, it offers relevant content and is not distracting. And when we
-                  build new tools and applications, we believe they should work so well you donât
-                  have to consider how they might have been designed differently.
-                
-                  Itâs best to do one thing really, really well.
-                
-                  We do search. With one of the worldâs largest research groups focused exclusively
-                  on solving search problems, we know what we do well, and how we could do it
-                  better. Through continued iteration on difficult problems, weâve been able to
-                  solve complex issues and provide continuous improvements to a service that
-                  already makes finding information a fast and seamless experience for millions of
-                  people. Our dedication to improving search helps us apply what weâve learned to
-                  new products, like Gmail and Google Maps. Our hope is to bring the power of
-                  search to previously unexplored areas, and to help people access and use even
-                  more of the ever-expanding information in their lives.
-                
-                  Fast is better than slow.
-                
-                  We know your time is valuable, so when youâre seeking an answer on the web you
-                  want it right awayâand we aim to please. We may be the only people in the world
-                  who can say our goal is to have people leave our website as quickly as possible.
-                  By shaving excess bits and bytes from our pages and increasing the efficiency of
-                  our serving environment, weâve broken our own speed records many times over, so
-                  that the average response time on a search result is a fraction of a second. We
-                  keep speed in mind with each new product we release, whether itâs a mobile
-                  application or Google Chrome, a browser designed to be fast enough for the modern
-                  web. And we continue to work on making it all go even faster.
-                
-                  Democracy on the web works.
-                
-                  Google search works because it relies on the millions of individuals posting
-                  links on websites to help determine which other sites offer content of value. We
-                  assess the importance of every web page using more than 200 signals and a variety
-                  of techniques, including our patented PageRankâ¢ algorithm, which analyzes which
-                  sites have been âvotedâ to be the best sources of information by other pages
-                  across the web. As the web gets bigger, this approach actually improves, as each
-                  new site is another point of information and another vote to be counted. In the
-                  same vein, we are active in open source software development, where innovation
-                  takes place through the collective effort of many programmers.
-                
-                  You donât need to be at your desk to need an answer.
-                
-                  The world is increasingly mobile: people want access to information wherever they
-                  are, whenever they need it. Weâre pioneering new technologies and offering new
-                  solutions for mobile services that help people all over the globe to do any
-                  number of tasks on their phone, from checking email and calendar events to
-                  watching videos, not to mention the several different ways to access Google
-                  search on a phone. In addition, weâre hoping to fuel greater innovation for
-                  mobile users everywhere with Android, a free, open source mobile platform.
-                  Android brings the openness that shaped the Internet to the mobile world. Not
-                  only does Android benefit consumers, who have more choice and innovative new
-                  mobile experiences, but it opens up revenue opportunities for carriers,
-                  manufacturers and developers.
-                
-                  You can make money without doing evil.
-                
-                  Google is a business. The revenue we generate is derived from offering search
-                  technology to companies and from the sale of advertising displayed on our site
-                  and on other sites across the web. Hundreds of thousands of advertisers worldwide
-                  use AdWords to promote their products; hundreds of thousands of publishers take
-                  advantage of our AdSense program to deliver ads relevant to their site content.
-                  To ensure that weâre ultimately serving all our users (whether they are
-                  advertisers or not), we have a set of guiding principles for our advertising
-                  programs and practices:
-                
-                      We donât allow ads to be displayed on our results pages unless they are
-                      relevant where they are shown. And we firmly believe that ads can provide
-                      useful information if, and only if, they are relevant to what you wish to
-                      findâso itâs possible that certain searches wonât lead to any ads at all.
-                    
-                      We believe that advertising can be effective without being flashy. We donât
-                      accept popâup advertising, which interferes with your ability to see the
-                      content youâve requested. Weâve found that text ads that are relevant to the
-                      person reading them draw much higher clickthrough rates than ads appearing
-                      randomly. Any advertiser, whether small or large, can take advantage of this
-                      highly targeted medium.
-                    
-                      Advertising on Google is always clearly identified as a âSponsored Link,â so
-                      it does not compromise the integrity of our search results. We never
-                      manipulate rankings to put our partners higher in our search results and no
-                      one can buy better PageRank. Our users trust our objectivity and no
-                      short-term gain could ever justify breaching that trust.
-                    
-                  Thereâs always more information out there.
-                
-                  Once weâd indexed more of the HTML pages on the Internet than any other search
-                  service, our engineers turned their attention to information that was not as
-                  readily accessible. Sometimes it was just a matter of integrating new databases
-                  into search, such as adding a phone number and address lookup and a business
-                  directory. Other efforts required a bit more creativity, like adding the ability
-                  to search news archives, patents, academic journals, billions of images and
-                  millions of books. And our researchers continue looking into ways to bring all
-                  the worldâs information to people seeking answers.
-                
-                  The need for information crosses all borders.
-                
-                  Our company was founded in California, but our mission is to facilitate access to
-                  information for the entire world, and in every language. To that end, we have
-                  offices in more than 60 countries, maintain more than 180 Internet domains, and
-                  serve more than half of our results to people living outside the United States.
-                  We offer Googleâs search interface in more than 130 languages, offer people the
-                  ability to restrict results to content written in their own language, and aim to
-                  provide the rest of our applications and products in as many languages and
-                  accessible formats as possible. Using our
-                  translation tools, people can discover content written on the other side of the
-                  world in languages they donât speak. With these tools and the help of volunteer
-                  translators, we have been able to greatly improve both the variety and quality of
-                  services we can offer in even the most farâflung corners of the globe.
-                
-                  You can be serious without a suit.
-                
-                  Our founders built Google around the idea that work should be challenging, and
-                  the challenge should be fun. We believe that great, creative things are more
-                  likely to happen with the right company cultureâand that doesnât just mean lava
-                  lamps and rubber balls. There is an emphasis on team achievements and pride in
-                  individual accomplishments that contribute to our overall success. We put great
-                  stock in our employeesâenergetic, passionate people from diverse backgrounds with
-                  creative approaches to work, play and life. Our atmosphere may be casual, but as
-                  new ideas emerge in a cafÃ© line, at a team meeting or at the gym, they are
-                  traded, tested and put into practice with dizzying speedâand they may be the
-                  launch pad for a new project destined for worldwide use.
-                
-                  Great just isnât good enough.
-                
-                  We see being great at something as a starting point, not an endpoint. We set
-                  ourselves goals we know we canât reach yet, because we know that by stretching to
-                  meet them we can get further than we expected. Through innovation and iteration,
-                  we aim to take things that work well and improve upon them in unexpected ways.
-                  For example, when one of our engineers saw that search worked well for properly
-                  spelled words, he wondered about how it handled typos. That led him to create an
-                  intuitive and more helpful spell checker.
-                
-                  Even if you donât know exactly what youâre looking for, finding an answer on the
-                  web is our problem, not yours. We try to anticipate needs not yet articulated by
-                  our global audience, and meet them with products and services that set new
-                  standards. When we launched Gmail, it had more storage space than any email
-                  service available. In retrospect offering that seems obviousâbut thatâs because
-                  now we have new standards for email storage. Those are the kinds of changes we
-                  seek to make, and weâre always looking for new places where we can make a
-                  difference. Ultimately, our constant dissatisfaction with the way things are
-                  becomes the driving force behind everything we do.
-                
-                Privacy
-              
-                Our Privacy Policy, tools and more about managing your information on Google.
-              
-More
-                Security
-              
-                Our approach to security, and how to report a security issue.
-              
-More
-                Software principles
-              
-                Our stand against deceptive Internet software.
-              
-More
-                Unwanted software policy
-              
-                Our criteria for user-friendly software on the web.
-              
-More
-                Supply chain
-              
-                Our commitment to responsible manufacturing.
-              
-More
-Company
-Who we are
-What we believe
-                
-What we do
-News
-Images and B-roll
-Blogs and Social Media
-Careers
-Search all jobs
-Office locations
-Teams & Roles
-Life at Google
-Investor relations
-News and events
-Financial information
-Corporate
-                  governance
+                  More about us 
 Contact us
-Google
-About Google
+Investor relations
+Careers
+Locations
+Blog
+Think with Google
+                  Press room 
+Press
+                      inquiries
+Social media directories
+Images & B-roll
+Permissions
+Speaker requests
+                  Policy 
+Application
+                      security
+Software principles
+Unwanted software policy
+Responsible manufacturing
+Conflict minerals policy
+Help
 Privacy
 Terms
+ 
+ 
