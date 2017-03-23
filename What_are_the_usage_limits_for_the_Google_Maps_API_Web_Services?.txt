@@ -607,7 +607,9 @@ Except as otherwise noted, the content of this page is licensed under the Creati
             简体中文
           
             한국어
-          TermsPrivacy
+          Terms
+         Privacy
+         
         Sign up for the Google Developers newsletter
       
         
