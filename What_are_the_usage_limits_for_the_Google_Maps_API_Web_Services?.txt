@@ -215,7 +215,8 @@ For Premium Plan customers with Gold-level support,
     critical issues (weekdays and weekends, including
     
     regional holidays).
-If you need access to technical support 24x7, contact sales
+If you need access to technical support 24x7,
+    contact sales
     to learn more about Gold-level support.
 For additional details, see the guide to
     support and resources.
@@ -498,7 +499,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated February 15, 2017.
+      Last updated April 7, 2017.
     
           
           
