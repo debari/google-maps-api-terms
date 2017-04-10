@@ -484,10 +484,10 @@ A signature has been specified but the associated
 Styling
 Why aren't businesses showing up on my map?
 When loading a map using the Google Maps JavaScript API and
-    including a client parameter, business listings on the map are
-    turned off by default. To turn them back on, you'll need to include some
-    styling code with your
-    map:
+    including your Premium Plan credentials
+    (either a key or client parameter), business listings
+    on the map are turned off by default. To turn them back on, you'll need to include
+    some styling code with your map:
 var styles = [
   {
     featureType: 'poi.business',
@@ -499,7 +499,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated April 7, 2017.
+      Last updated April 10, 2017.
     
           
           
