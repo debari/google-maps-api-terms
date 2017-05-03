@@ -26,6 +26,10 @@ Our products
                       
             Working at Google
           
+                    @media screen{.carousel-working-visible .carousel-slide-inner-5de4e6ba7f789f65fa898204f36a91d2{background-image:url(https://lh3.googleusercontent.com/PP1ITHMKngu39UiJHtfhI5S7jP5vjPns3Meqh0IgUNAdZ5uy49LWdKlnKpfMUygDPS31EQauQuFHLNsN2X1y7OG9KUHZyxkrIAMc=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-5de4e6ba7f789f65fa898204f36a91d2{background-image:url(https://lh3.googleusercontent.com/PP1ITHMKngu39UiJHtfhI5S7jP5vjPns3Meqh0IgUNAdZ5uy49LWdKlnKpfMUygDPS31EQauQuFHLNsN2X1y7OG9KUHZyxkrIAMc=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-5de4e6ba7f789f65fa898204f36a91d2{background-image:url(https://lh3.googleusercontent.com/PP1ITHMKngu39UiJHtfhI5S7jP5vjPns3Meqh0IgUNAdZ5uy49LWdKlnKpfMUygDPS31EQauQuFHLNsN2X1y7OG9KUHZyxkrIAMc=w742-h504-n-l80-sg-rj)}}
+                    
+                        Job spotlight: Teaching the Google Assistant to talk
+                      
                     @media screen{.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w742-h504-n-l80-sg-rj)}}
                     
                         Google internsâ first week
@@ -33,10 +37,6 @@ Our products
                     @media screen{.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w742-h504-n-l80-sg-rj)}}
                     
                         Increasing access to opportunity for everyone
-                      
-                    @media screen{.carousel-working-visible .carousel-slide-inner-72f92ef784ff47e743229eeb9bb61d72{background-image:url(https://lh3.googleusercontent.com/wt_Xs-sxANX6vAE5tlYVS56KomnxKEO2ZzF1v0fJXCnogUFVmifmlWwy7XU7cyOZTsPxKI1aeblRaPNwdENul1GOE2FCda25bnv4=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-72f92ef784ff47e743229eeb9bb61d72{background-image:url(https://lh3.googleusercontent.com/wt_Xs-sxANX6vAE5tlYVS56KomnxKEO2ZzF1v0fJXCnogUFVmifmlWwy7XU7cyOZTsPxKI1aeblRaPNwdENul1GOE2FCda25bnv4=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-72f92ef784ff47e743229eeb9bb61d72{background-image:url(https://lh3.googleusercontent.com/wt_Xs-sxANX6vAE5tlYVS56KomnxKEO2ZzF1v0fJXCnogUFVmifmlWwy7XU7cyOZTsPxKI1aeblRaPNwdENul1GOE2FCda25bnv4=w742-h504-n-l80-sg-rj)}}
-                    
-                        Our doors are open: See inside our London office
                       
 Explore Google Careers
             What the world is searching for now
