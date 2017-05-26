@@ -501,70 +501,70 @@ Except as otherwise noted, the content of this page is licensed under the Creati
     
           
           
-            Stack Overflow 
+            Stack Overflow
           
         Ask a question under the google-maps tag.
           
           
-            GitHub 
+            GitHub
           
         Fork our samples and try them yourself.
           
           
-            Blog 
+            Blog
           
         Read about the latest updates, customer stories, and tips.
           
           
-            Issue tracker 
+            Issue tracker
           
         Something wrong? Send us a bug report!Learn More
               
-                Tutorials 
+                Tutorials
               
             
               
-                Pricing and Plans 
+                Pricing and Plans
               
             
               
-                API Picker 
+                API Picker
               
             
               
-                Articles 
+                Articles
               
             Platforms
               
-                Android 
+                Android
               
             
               
-                iOS 
+                iOS
               
             
               
-                Web 
+                Web
               
             
               
-                Web Services 
+                Web Services
               
             Product Info
               
-                Contact sales 
+                Contact sales
               
             
               
-                Community support 
+                Community support
               
             
               
-                Paid support 
+                Paid support
               
             
               
-                Terms of Use 
+                Terms of Use
               
             
               
