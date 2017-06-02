@@ -519,73 +519,39 @@ Except as otherwise noted, the content of this page is licensed under the Creati
             Issue tracker
           
         Something wrong? Send us a bug report!Learn More
-              
                 Tutorials
-              
             
-              
                 Pricing and Plans
-              
             
-              
                 API Picker
-              
             
-              
                 Articles
-              
             Platforms
-              
                 Android
-              
             
-              
                 iOS
-              
             
-              
                 Web
-              
             
-              
                 Web Services
-              
             Product Info
-              
                 Contact sales
-              
             
-              
                 Community support
-              
             
-              
                 Paid support
-              
             
-              
                 Terms of Use
-              
             
-              
                 Android
-              
             
-              
                 Chrome
-              
             
-              
                 Firebase
-              
             
-              
                 Google Cloud Platform
-              
             
-              
                 All Products
-              
             
             Bahasa Indonesia
           
