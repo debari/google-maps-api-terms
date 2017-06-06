@@ -525,7 +525,7 @@ Except as otherwise noted, the content of this page is licensed under the Creati
             
                 API Picker
             
-                Articles
+                Maps APIs Overview
             Platforms
                 Android
             
