@@ -30,6 +30,10 @@ Our products
                     
                         Job spotlight: Bertrand Damiba teaches Google Assistant to talk
                       
+                    @media screen{.carousel-working-visible .carousel-slide-inner-7917616a533ba5ecdba3ed66a9f0ecdd{background-image:url(https://lh3.googleusercontent.com/68MoZqkPzfB5pBsvs-lfHk0NfvxktKdYna9ohXVUkFSL_Okfqjj1ZYRAcPYI5SWvkB0Z_6bOweFYuuv-8EXIkTNv2bC9Wk9XKHbjmg=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-7917616a533ba5ecdba3ed66a9f0ecdd{background-image:url(https://lh3.googleusercontent.com/68MoZqkPzfB5pBsvs-lfHk0NfvxktKdYna9ohXVUkFSL_Okfqjj1ZYRAcPYI5SWvkB0Z_6bOweFYuuv-8EXIkTNv2bC9Wk9XKHbjmg=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-7917616a533ba5ecdba3ed66a9f0ecdd{background-image:url(https://lh3.googleusercontent.com/68MoZqkPzfB5pBsvs-lfHk0NfvxktKdYna9ohXVUkFSL_Okfqjj1ZYRAcPYI5SWvkB0Z_6bOweFYuuv-8EXIkTNv2bC9Wk9XKHbjmg=w742-h504-n-l80-sg-rj)}}
+                    
+                        Inside our Seattle and Kirkland offices
+                      
                     @media screen{.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w742-h504-n-l80-sg-rj)}}
                     
                         Google internsâ first week
