@@ -52,6 +52,10 @@ Faites une pause
 Discover more Google Trends
             Our values in action
           
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-1205971c406cfd401b8a7d605e43baac{background-image:url(https://lh3.googleusercontent.com/XbUMpsFHZEDZo3-TsGHgugjOuQwfTooI1Bvwhi4uSbeqyejxlHwcyRlnRmDyjmWE9ExO0Vz0XpNdlyRTHvuWIoz-lXRqORco67T59w=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-1205971c406cfd401b8a7d605e43baac{background-image:url(https://lh3.googleusercontent.com/XbUMpsFHZEDZo3-TsGHgugjOuQwfTooI1Bvwhi4uSbeqyejxlHwcyRlnRmDyjmWE9ExO0Vz0XpNdlyRTHvuWIoz-lXRqORco67T59w=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-1205971c406cfd401b8a7d605e43baac{background-image:url(https://lh3.googleusercontent.com/XbUMpsFHZEDZo3-TsGHgugjOuQwfTooI1Bvwhi4uSbeqyejxlHwcyRlnRmDyjmWE9ExO0Vz0XpNdlyRTHvuWIoz-lXRqORco67T59w=w742-h504-n-l80-sg-rj)}}
+                    
+                        Discover Uluá¹u-Kata Tjuá¹¯a National Park
+                      
                     @media screen{.carousel-values-in-action-visible .carousel-slide-inner-840e9f6088025d5c14ecec2a6cbab7e0{background-image:url(https://lh3.googleusercontent.com/nH9Pn4ZwamOQdKaD6Y9jGoMpKhS-mvngicQO1Nd1psz8FJxVV-u4vXvQuKzfb9pOyBg1lCwH16W45y6QYH7wa7yxgReOLdeNzDsk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-840e9f6088025d5c14ecec2a6cbab7e0{background-image:url(https://lh3.googleusercontent.com/nH9Pn4ZwamOQdKaD6Y9jGoMpKhS-mvngicQO1Nd1psz8FJxVV-u4vXvQuKzfb9pOyBg1lCwH16W45y6QYH7wa7yxgReOLdeNzDsk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-840e9f6088025d5c14ecec2a6cbab7e0{background-image:url(https://lh3.googleusercontent.com/nH9Pn4ZwamOQdKaD6Y9jGoMpKhS-mvngicQO1Nd1psz8FJxVV-u4vXvQuKzfb9pOyBg1lCwH16W45y6QYH7wa7yxgReOLdeNzDsk=w742-h504-n-l80-sg-rj)}}
                     
                         Using technology to address gender bias in film
