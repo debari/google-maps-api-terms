@@ -131,8 +131,6 @@ What are the differences between an API key
     and a client ID?
 Do I need to use my Google Maps APIs Premium Plan credentials
     in my testing environment?
-How do I access Zagat features with the
-    Google Maps APIs Premium Plan?
 How do I access premium mobile features with
     the Google Maps APIs Premium Plan?
 Is the dynamic library available for Android
@@ -397,18 +395,6 @@ If you are load testing your app, you can run those tests against a mock API.
       See Perform load testing on your
       app in the Prelaunch Checklist.
     
-How do I access Zagat features with the
-  Google Maps APIs Premium Plan?
-Notice:
-Premium Data (Zagat) is
-deprecated as of May 2, 2016. Premium Data will be supported until May 2, 2017.
-After this time, Zagat ratings and reviews will no longer be available.
-With the Premium Plan, requests containing your
-    API key to the Google Places API Web Service return premium Zagat content.
-    To verify that you have access to Zagat content, send a request to the
-    Google Places API Web Service, with a key from the project created for you
-    during signup. Here's an example URL:
-https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants+in+mountain+View,+ca&key;=YOUR_API_KEY
 How do I access premium mobile features with the
   Google Maps APIs Premium Plan?
 You can access premium mobile features using the same SDKs available to
@@ -497,7 +483,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated June 7, 2017.
+      Last updated June 23, 2017.
     
           
           
