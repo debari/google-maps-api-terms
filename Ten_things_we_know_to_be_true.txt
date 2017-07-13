@@ -68,6 +68,10 @@ Discover more Google Trends
 Discover more Google Doodles
             Behind the scenes at Google
           
+                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-4b942af272a883e39729ab5ec8cb0cfc{background-image:url(https://lh3.googleusercontent.com/QmlXUmScXXYUQ3UjVdyfJFDm14ScXXNlq8pBYP7BqQaZGfDgUvMDdHae4iM9IFvfgxapJIW9kFjFZh7za6dWtufChDC_-yBZWSMpbg=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-4b942af272a883e39729ab5ec8cb0cfc{background-image:url(https://lh3.googleusercontent.com/QmlXUmScXXYUQ3UjVdyfJFDm14ScXXNlq8pBYP7BqQaZGfDgUvMDdHae4iM9IFvfgxapJIW9kFjFZh7za6dWtufChDC_-yBZWSMpbg=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-4b942af272a883e39729ab5ec8cb0cfc{background-image:url(https://lh3.googleusercontent.com/QmlXUmScXXYUQ3UjVdyfJFDm14ScXXNlq8pBYP7BqQaZGfDgUvMDdHae4iM9IFvfgxapJIW9kFjFZh7za6dWtufChDC_-yBZWSMpbg=w742-h504-n-l80-sg-rj)}}
+                    
+                        Computer Vision, Explained
+                      
                     @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-22ef4de3de1cf0776637e922229618e3{background-image:url(https://lh3.googleusercontent.com/hiibuQFurgNp_CgFOdG5RTlT3R5bOLJzAb5tQA2xxgZSeC8kcZUyeOApgE6ca01kGk0CBd4ExkZGuGARpB1sdEYKIruuispAyn-3Lyk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-22ef4de3de1cf0776637e922229618e3{background-image:url(https://lh3.googleusercontent.com/hiibuQFurgNp_CgFOdG5RTlT3R5bOLJzAb5tQA2xxgZSeC8kcZUyeOApgE6ca01kGk0CBd4ExkZGuGARpB1sdEYKIruuispAyn-3Lyk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-22ef4de3de1cf0776637e922229618e3{background-image:url(https://lh3.googleusercontent.com/hiibuQFurgNp_CgFOdG5RTlT3R5bOLJzAb5tQA2xxgZSeC8kcZUyeOApgE6ca01kGk0CBd4ExkZGuGARpB1sdEYKIruuispAyn-3Lyk=w742-h504-n-l80-sg-rj)}}
                     
                         How Google Earthâs incredible 3D imagery is created
