@@ -38,7 +38,8 @@ Take a break
 Pause einlegen
 Faites une pause
 Ð¡Ð´ÐµÐ»Ð°Ð¹ÑÐµ Ð¿ÐµÑÐµÑÑÐ²
-Discover more Google Trends
+Discover more Google
+            Trends
             Our values in action
           
                     @media screen{.carousel-values-in-action-visible .carousel-slide-inner-875fa04a825c730ba5d3e15d419d077f{background-image:url(https://lh3.googleusercontent.com/BkMDqmJ5DxsnWxXs3zEBW_WI9j2zzEoB1gUmiKabZLgoiB7iEh-WIrECxhWcAw__NIWgL5_oEMkNZLy7PCr4r99H7NiI3ZwzRSfK8w=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-875fa04a825c730ba5d3e15d419d077f{background-image:url(https://lh3.googleusercontent.com/BkMDqmJ5DxsnWxXs3zEBW_WI9j2zzEoB1gUmiKabZLgoiB7iEh-WIrECxhWcAw__NIWgL5_oEMkNZLy7PCr4r99H7NiI3ZwzRSfK8w=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-875fa04a825c730ba5d3e15d419d077f{background-image:url(https://lh3.googleusercontent.com/BkMDqmJ5DxsnWxXs3zEBW_WI9j2zzEoB1gUmiKabZLgoiB7iEh-WIrECxhWcAw__NIWgL5_oEMkNZLy7PCr4r99H7NiI3ZwzRSfK8w=w742-h504-n-l80-sg-rj)}}
@@ -91,7 +92,8 @@ Discover more Google Doodles
  
                 From the garage to the Googleplex
               
-Read our history
+Read our
+            history
 Back to top 
               Follow us on:
             
@@ -103,18 +105,18 @@ Locations
 Blog
 Think with Google
                   Press room 
-Press
-                      inquiries
+Press inquiries
 Social media directories
 Images & B-roll
 Permissions
 Speaker requests
                   Policy 
-Application
-                      security
+Application security
 Software principles
-Unwanted software policy
-Responsible manufacturing
+Unwanted software
+                      policy
+Responsible
+                      manufacturing
 Conflict minerals policy
 Help
 Privacy
