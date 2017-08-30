@@ -391,11 +391,12 @@ Belgium, Denmark, France, Germany, Israel, Luxembourg, Netherlands, and
                 contact them directly.
               
 Brazil
-                When you search for local listings in Brazil, your search results may include
+                When you search for local listings in Brazil, your search results may include (i)
                 content (including business listings and related information) that has been
-                supplied by TeleListas S/A. The intellectual property rights in this content are
+                supplied by TeleListas S/A; the intellectual property rights in this content are
                 owned by TeleListas or its licensors, and may only be used in accordance with these
-                Terms of Service and any applicable terms and conditions of TeleListas.
+                Terms of Service and any applicable terms and conditions of TeleListas; and/or (ii)
+                information provided by CNES which is public and freely accessible.
               
 Bulgaria
                 When you search for local listings in Bulgaria, your search results may include
