@@ -12,6 +12,10 @@ Our products
                       
                         How scientists and supercomputers could make oceans drinkable
                       
+                      @media screen{.carousel-slide-bg-8624925ab8b3d022cbcaea5be87ac427{background-image:url(https://lh3.googleusercontent.com/EQaYwXVKxw7S1J1LvxsliOtYoKzPFBCw7zAcsGCCqSn0lGfs8myAV0PoQ0p0kNLPGqxjN4hDKX_jhdwhSCmuv1awtIGLAJc4YI_ttw=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-8624925ab8b3d022cbcaea5be87ac427{background-image:url(https://lh3.googleusercontent.com/EQaYwXVKxw7S1J1LvxsliOtYoKzPFBCw7zAcsGCCqSn0lGfs8myAV0PoQ0p0kNLPGqxjN4hDKX_jhdwhSCmuv1awtIGLAJc4YI_ttw=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-8624925ab8b3d022cbcaea5be87ac427{background-image:url(https://lh3.googleusercontent.com/EQaYwXVKxw7S1J1LvxsliOtYoKzPFBCw7zAcsGCCqSn0lGfs8myAV0PoQ0p0kNLPGqxjN4hDKX_jhdwhSCmuv1awtIGLAJc4YI_ttw=w480-h220-n-l80-sg-rj)}}
+                      
+                        Meet the artist who photographed the world without leaving home
+                      
                       @media screen{.carousel-slide-bg-ed41f6c400a62e267f6311feb21aa68f{background-image:url(https://lh3.googleusercontent.com/MCLh0E45ExX0WAV3T6MmgtYcb9KuFS20DSYmmKF8AaWnc4mf2ZqEIPHW8OctWxaVqkHoRCS-ld_O6aeOX_PPhZrBFENbmKxKyNssG20=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-ed41f6c400a62e267f6311feb21aa68f{background-image:url(https://lh3.googleusercontent.com/MCLh0E45ExX0WAV3T6MmgtYcb9KuFS20DSYmmKF8AaWnc4mf2ZqEIPHW8OctWxaVqkHoRCS-ld_O6aeOX_PPhZrBFENbmKxKyNssG20=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-ed41f6c400a62e267f6311feb21aa68f{background-image:url(https://lh3.googleusercontent.com/MCLh0E45ExX0WAV3T6MmgtYcb9KuFS20DSYmmKF8AaWnc4mf2ZqEIPHW8OctWxaVqkHoRCS-ld_O6aeOX_PPhZrBFENbmKxKyNssG20=w480-h220-n-l80-sg-rj)}}
                       
                         Meet the researcher using Google Street View to help dementia patients with
@@ -20,10 +24,6 @@ Our products
                       @media screen{.carousel-slide-bg-edbfe69def83f5b2d5c88ea8c2d36a1a{background-image:url(https://lh3.googleusercontent.com/Y4lfLasqRhFj1AAGhEa_boMF3tnIke9lzisa4UluX_ouqLd5gBcy36l-uVtPVh3SNyYPmg4-qPGgr9K0QegzOrYlKjWbKEEbioNb2g=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-edbfe69def83f5b2d5c88ea8c2d36a1a{background-image:url(https://lh3.googleusercontent.com/Y4lfLasqRhFj1AAGhEa_boMF3tnIke9lzisa4UluX_ouqLd5gBcy36l-uVtPVh3SNyYPmg4-qPGgr9K0QegzOrYlKjWbKEEbioNb2g=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-edbfe69def83f5b2d5c88ea8c2d36a1a{background-image:url(https://lh3.googleusercontent.com/Y4lfLasqRhFj1AAGhEa_boMF3tnIke9lzisa4UluX_ouqLd5gBcy36l-uVtPVh3SNyYPmg4-qPGgr9K0QegzOrYlKjWbKEEbioNb2g=w480-h220-n-l80-sg-rj)}}
                       
                         Building a new industry
-                      
-                      @media screen{.carousel-slide-bg-651a2171a0c883cca82bc56038ec4947{background-image:url(https://lh3.googleusercontent.com/UBf5b4tO-sCNFI_4K2HCK-3hS7rr743lrVPUzsYYnqmosA2mJJJJI_AO8st6Jvj1odtGor4Us4n9cIrKqy9FRFR2Fh76haI2wQJN364=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-651a2171a0c883cca82bc56038ec4947{background-image:url(https://lh3.googleusercontent.com/UBf5b4tO-sCNFI_4K2HCK-3hS7rr743lrVPUzsYYnqmosA2mJJJJI_AO8st6Jvj1odtGor4Us4n9cIrKqy9FRFR2Fh76haI2wQJN364=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-651a2171a0c883cca82bc56038ec4947{background-image:url(https://lh3.googleusercontent.com/UBf5b4tO-sCNFI_4K2HCK-3hS7rr743lrVPUzsYYnqmosA2mJJJJI_AO8st6Jvj1odtGor4Us4n9cIrKqy9FRFR2Fh76haI2wQJN364=w480-h220-n-l80-sg-rj)}}
-                      
-                        The hi-res future of anti-pollution tech
                       
 See all
             stories
