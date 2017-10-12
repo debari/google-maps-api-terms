@@ -1,113 +1,93 @@
 
-      About Us | Google
+      Our latest | Google
     
     iframe.c1 {display:none;visibility:hidden;}
     
  
+  
+ 
+Our latest
 Our company
+Our commitments
 Our products
   
  
-                      @media screen{.carousel-slide-bg-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w1500-h350-l80-sg-rj-c0xffffff)}}@media screen and (min-resolution:192dpi){.carousel-slide-bg-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w3000-h700-l80-sg-rj-c0xffffff)}}@media screen and (min-width:600px){.carousel-slide-bg-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w1024-l80-sg-rj-c0xffffff)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.carousel-slide-bg-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w2048-l80-sg-rj-c0xffffff)}}@media screen and (min-width:1024px){.carousel-slide-bg-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w1440-l80-sg-rj-c0xffffff)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.carousel-slide-bg-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w2880-l80-sg-rj-c0xffffff)}}
-                      
-                        How scientists and supercomputers could make oceans drinkable
-                      
-                      @media screen{.carousel-slide-bg-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w480-h220-n-l80-sg-rj)}}
-                      
-                        Meet the artist who photographed the world without leaving home
-                      
-                      @media screen{.carousel-slide-bg-ed41f6c400a62e267f6311feb21aa68f{background-image:url(https://lh3.googleusercontent.com/MCLh0E45ExX0WAV3T6MmgtYcb9KuFS20DSYmmKF8AaWnc4mf2ZqEIPHW8OctWxaVqkHoRCS-ld_O6aeOX_PPhZrBFENbmKxKyNssG20=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-ed41f6c400a62e267f6311feb21aa68f{background-image:url(https://lh3.googleusercontent.com/MCLh0E45ExX0WAV3T6MmgtYcb9KuFS20DSYmmKF8AaWnc4mf2ZqEIPHW8OctWxaVqkHoRCS-ld_O6aeOX_PPhZrBFENbmKxKyNssG20=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-ed41f6c400a62e267f6311feb21aa68f{background-image:url(https://lh3.googleusercontent.com/MCLh0E45ExX0WAV3T6MmgtYcb9KuFS20DSYmmKF8AaWnc4mf2ZqEIPHW8OctWxaVqkHoRCS-ld_O6aeOX_PPhZrBFENbmKxKyNssG20=w480-h220-n-l80-sg-rj)}}
-                      
-                        Meet the researcher using Google Street View to help dementia patients with
-                        memory loss
-                      
-                      @media screen{.carousel-slide-bg-edbfe69def83f5b2d5c88ea8c2d36a1a{background-image:url(https://lh3.googleusercontent.com/Y4lfLasqRhFj1AAGhEa_boMF3tnIke9lzisa4UluX_ouqLd5gBcy36l-uVtPVh3SNyYPmg4-qPGgr9K0QegzOrYlKjWbKEEbioNb2g=w600-h600-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-slide-bg-edbfe69def83f5b2d5c88ea8c2d36a1a{background-image:url(https://lh3.googleusercontent.com/Y4lfLasqRhFj1AAGhEa_boMF3tnIke9lzisa4UluX_ouqLd5gBcy36l-uVtPVh3SNyYPmg4-qPGgr9K0QegzOrYlKjWbKEEbioNb2g=w320-h180-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-slide-bg-edbfe69def83f5b2d5c88ea8c2d36a1a{background-image:url(https://lh3.googleusercontent.com/Y4lfLasqRhFj1AAGhEa_boMF3tnIke9lzisa4UluX_ouqLd5gBcy36l-uVtPVh3SNyYPmg4-qPGgr9K0QegzOrYlKjWbKEEbioNb2g=w480-h220-n-l80-sg-rj)}}
-                      
-                        Building a new industry
-                      
-See all
-            stories
+                        @media screen{.pane-img-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w1500-h350-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w3000-h700-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w1024-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w2048-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w1440-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w2880-l100-sg-rj)}}
+                        
+                          Learn about our commitment to creating more opportunity for everyone
+                        
+                        @media screen{.pane-img-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w600-h600-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w1200-h1200-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w320-h180-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w640-h360-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w480-h220-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w960-h440-l100-sg-rj)}}
+                        
+                          Introducing Grow with Google: Free training, tools, and events to grow
+                          your skills
+                        
+                        @media screen{.pane-img-96da14994dac2a121b365ccd2040755a{background-image:url(https://lh3.googleusercontent.com/Mou-uVrbxQU4K8Oo5DcGWpoNv6DCS1XAeKJ5ysrTsb-Kr3VBeG3FnoBzjnzNef1k_x9F_n0FVyNq-pN2FEkkTn7nPmRlf0VGXAyB=w600-h600-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-96da14994dac2a121b365ccd2040755a{background-image:url(https://lh3.googleusercontent.com/Mou-uVrbxQU4K8Oo5DcGWpoNv6DCS1XAeKJ5ysrTsb-Kr3VBeG3FnoBzjnzNef1k_x9F_n0FVyNq-pN2FEkkTn7nPmRlf0VGXAyB=w1200-h1200-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-96da14994dac2a121b365ccd2040755a{background-image:url(https://lh3.googleusercontent.com/Mou-uVrbxQU4K8Oo5DcGWpoNv6DCS1XAeKJ5ysrTsb-Kr3VBeG3FnoBzjnzNef1k_x9F_n0FVyNq-pN2FEkkTn7nPmRlf0VGXAyB=w320-h180-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-96da14994dac2a121b365ccd2040755a{background-image:url(https://lh3.googleusercontent.com/Mou-uVrbxQU4K8Oo5DcGWpoNv6DCS1XAeKJ5ysrTsb-Kr3VBeG3FnoBzjnzNef1k_x9F_n0FVyNq-pN2FEkkTn7nPmRlf0VGXAyB=w640-h360-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-96da14994dac2a121b365ccd2040755a{background-image:url(https://lh3.googleusercontent.com/Mou-uVrbxQU4K8Oo5DcGWpoNv6DCS1XAeKJ5ysrTsb-Kr3VBeG3FnoBzjnzNef1k_x9F_n0FVyNq-pN2FEkkTn7nPmRlf0VGXAyB=w480-h220-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-96da14994dac2a121b365ccd2040755a{background-image:url(https://lh3.googleusercontent.com/Mou-uVrbxQU4K8Oo5DcGWpoNv6DCS1XAeKJ5ysrTsb-Kr3VBeG3FnoBzjnzNef1k_x9F_n0FVyNq-pN2FEkkTn7nPmRlf0VGXAyB=w960-h440-l100-sg-rj)}}
+                        
+                          How Google.org grantees are tackling complex global challenges
+                        
+                        @media screen{.pane-img-7203e81b572702ce6f18af46e22b176a{background-image:url(https://lh3.googleusercontent.com/q4dV1PHUvH3QUYvEcVa87TbSPL__SwK00tajEol9hsiAk7_uMOvtHpKro9m7fiRWhYlCXv6ENkuizTiWXDqHZD99xyUVxC7FgKBB=w600-h600-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-7203e81b572702ce6f18af46e22b176a{background-image:url(https://lh3.googleusercontent.com/q4dV1PHUvH3QUYvEcVa87TbSPL__SwK00tajEol9hsiAk7_uMOvtHpKro9m7fiRWhYlCXv6ENkuizTiWXDqHZD99xyUVxC7FgKBB=w1200-h1200-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-7203e81b572702ce6f18af46e22b176a{background-image:url(https://lh3.googleusercontent.com/q4dV1PHUvH3QUYvEcVa87TbSPL__SwK00tajEol9hsiAk7_uMOvtHpKro9m7fiRWhYlCXv6ENkuizTiWXDqHZD99xyUVxC7FgKBB=w320-h180-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-7203e81b572702ce6f18af46e22b176a{background-image:url(https://lh3.googleusercontent.com/q4dV1PHUvH3QUYvEcVa87TbSPL__SwK00tajEol9hsiAk7_uMOvtHpKro9m7fiRWhYlCXv6ENkuizTiWXDqHZD99xyUVxC7FgKBB=w640-h360-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-7203e81b572702ce6f18af46e22b176a{background-image:url(https://lh3.googleusercontent.com/q4dV1PHUvH3QUYvEcVa87TbSPL__SwK00tajEol9hsiAk7_uMOvtHpKro9m7fiRWhYlCXv6ENkuizTiWXDqHZD99xyUVxC7FgKBB=w480-h220-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-7203e81b572702ce6f18af46e22b176a{background-image:url(https://lh3.googleusercontent.com/q4dV1PHUvH3QUYvEcVa87TbSPL__SwK00tajEol9hsiAk7_uMOvtHpKro9m7fiRWhYlCXv6ENkuizTiWXDqHZD99xyUVxC7FgKBB=w960-h440-l100-sg-rj)}}
+                        
+                          The Dynamic Learning Project: Helping U.S. classrooms access the promise
+                          of tech
+                        
+See all stories
             Our values in action
           
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-d0fabef40ec9c8a770ea02fd1f417d1d{background-image:url(https://lh3.googleusercontent.com/D099hdNCPG2FkeC3eG-yrNSqBjzKOI6-aMTcLoGTjO9PBkHKWEOifb5luGLWg-thf_1fAFtgvfFE6dAEmtggosFUFDJAtZ46fCin9A=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-d0fabef40ec9c8a770ea02fd1f417d1d{background-image:url(https://lh3.googleusercontent.com/D099hdNCPG2FkeC3eG-yrNSqBjzKOI6-aMTcLoGTjO9PBkHKWEOifb5luGLWg-thf_1fAFtgvfFE6dAEmtggosFUFDJAtZ46fCin9A=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-d0fabef40ec9c8a770ea02fd1f417d1d{background-image:url(https://lh3.googleusercontent.com/D099hdNCPG2FkeC3eG-yrNSqBjzKOI6-aMTcLoGTjO9PBkHKWEOifb5luGLWg-thf_1fAFtgvfFE6dAEmtggosFUFDJAtZ46fCin9A=w742-h504-n-l80-sg-rj)}}
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w742-h504-n-l80-sg-rj)}}
                     
-                        Bringing studentsâ voices to life through technology
-                      
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-d430119b8235a35108987bfb126e9155{background-image:url(https://lh3.googleusercontent.com/giXGtfZ0rzDwpwBoTlnWRW7oeBqtCIpUVJMi01zLNN2QU76AyUsDy5JhDJOmow1fuP2gRRuVqbvR1NNe0wGmY473APeJ5bDTr90m0A=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-d430119b8235a35108987bfb126e9155{background-image:url(https://lh3.googleusercontent.com/giXGtfZ0rzDwpwBoTlnWRW7oeBqtCIpUVJMi01zLNN2QU76AyUsDy5JhDJOmow1fuP2gRRuVqbvR1NNe0wGmY473APeJ5bDTr90m0A=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-d430119b8235a35108987bfb126e9155{background-image:url(https://lh3.googleusercontent.com/giXGtfZ0rzDwpwBoTlnWRW7oeBqtCIpUVJMi01zLNN2QU76AyUsDy5JhDJOmow1fuP2gRRuVqbvR1NNe0wGmY473APeJ5bDTr90m0A=w742-h504-n-l80-sg-rj)}}
+                          Taking a data-based look at Americaâs history of lynching
+                        
+                          Lynching in America is an interactive experience from the Equal Justice
+                          Initiative, created with support from Google, that surfaces Americaâs
+                          history of racial terror.
+                        
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-90fe230fb53f0410436a79d712007a5c{background-image:url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-90fe230fb53f0410436a79d712007a5c{background-image:url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-90fe230fb53f0410436a79d712007a5c{background-image:url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w742-h504-n-l80-sg-rj)}}
                     
-                        #ProudToBe: Celebrate Pride with YouTube
-                      
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-875fa04a825c730ba5d3e15d419d077f{background-image:url(https://lh3.googleusercontent.com/BkMDqmJ5DxsnWxXs3zEBW_WI9j2zzEoB1gUmiKabZLgoiB7iEh-WIrECxhWcAw__NIWgL5_oEMkNZLy7PCr4r99H7NiI3ZwzRSfK8w=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-875fa04a825c730ba5d3e15d419d077f{background-image:url(https://lh3.googleusercontent.com/BkMDqmJ5DxsnWxXs3zEBW_WI9j2zzEoB1gUmiKabZLgoiB7iEh-WIrECxhWcAw__NIWgL5_oEMkNZLy7PCr4r99H7NiI3ZwzRSfK8w=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-875fa04a825c730ba5d3e15d419d077f{background-image:url(https://lh3.googleusercontent.com/BkMDqmJ5DxsnWxXs3zEBW_WI9j2zzEoB1gUmiKabZLgoiB7iEh-WIrECxhWcAw__NIWgL5_oEMkNZLy7PCr4r99H7NiI3ZwzRSfK8w=w742-h504-n-l80-sg-rj)}}
+                          Libraries across the U.S. are Ready to Code
+                        
+                          We partnered with the American Library Association to create Ready to
+                          Code, which equips librarians to offer coding programs to kids in their
+                          communities.
+                        
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-1071b62c47be9972656e5465c2aef6b5{background-image:url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-1071b62c47be9972656e5465c2aef6b5{background-image:url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-1071b62c47be9972656e5465c2aef6b5{background-image:url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w742-h504-n-l80-sg-rj)}}
                     
-                        Responding to the worldâs refugee crisis
-                      
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-840e9f6088025d5c14ecec2a6cbab7e0{background-image:url(https://lh3.googleusercontent.com/nH9Pn4ZwamOQdKaD6Y9jGoMpKhS-mvngicQO1Nd1psz8FJxVV-u4vXvQuKzfb9pOyBg1lCwH16W45y6QYH7wa7yxgReOLdeNzDsk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-840e9f6088025d5c14ecec2a6cbab7e0{background-image:url(https://lh3.googleusercontent.com/nH9Pn4ZwamOQdKaD6Y9jGoMpKhS-mvngicQO1Nd1psz8FJxVV-u4vXvQuKzfb9pOyBg1lCwH16W45y6QYH7wa7yxgReOLdeNzDsk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-840e9f6088025d5c14ecec2a6cbab7e0{background-image:url(https://lh3.googleusercontent.com/nH9Pn4ZwamOQdKaD6Y9jGoMpKhS-mvngicQO1Nd1psz8FJxVV-u4vXvQuKzfb9pOyBg1lCwH16W45y6QYH7wa7yxgReOLdeNzDsk=w742-h504-n-l80-sg-rj)}}
+                          Mapping the invisible: Street View cars add air pollution sensors
+                        
+                          To help utility companies and regulators track and measure pollution, we
+                          turned our Street View fleet into an environmental-sensing platform.
+                        
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-3c8ebffc98ad0904f016f8cc39caf38a{background-image:url(https://lh3.googleusercontent.com/R4uxFdKz-WmF0O2hVa4jbpBN8I4F-NMBgLvfG-7WRxxY826IbD3fCZEx8YPSeYCk8iLYhY5ilR3Bgri3JJEajZ0LYi1fcalHZDLdtIk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-3c8ebffc98ad0904f016f8cc39caf38a{background-image:url(https://lh3.googleusercontent.com/R4uxFdKz-WmF0O2hVa4jbpBN8I4F-NMBgLvfG-7WRxxY826IbD3fCZEx8YPSeYCk8iLYhY5ilR3Bgri3JJEajZ0LYi1fcalHZDLdtIk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-3c8ebffc98ad0904f016f8cc39caf38a{background-image:url(https://lh3.googleusercontent.com/R4uxFdKz-WmF0O2hVa4jbpBN8I4F-NMBgLvfG-7WRxxY826IbD3fCZEx8YPSeYCk8iLYhY5ilR3Bgri3JJEajZ0LYi1fcalHZDLdtIk=w742-h504-n-l80-sg-rj)}}
                     
-                        Using technology to address gender bias in film
-                      
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-1205971c406cfd401b8a7d605e43baac{background-image:url(https://lh3.googleusercontent.com/XbUMpsFHZEDZo3-TsGHgugjOuQwfTooI1Bvwhi4uSbeqyejxlHwcyRlnRmDyjmWE9ExO0Vz0XpNdlyRTHvuWIoz-lXRqORco67T59w=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-1205971c406cfd401b8a7d605e43baac{background-image:url(https://lh3.googleusercontent.com/XbUMpsFHZEDZo3-TsGHgugjOuQwfTooI1Bvwhi4uSbeqyejxlHwcyRlnRmDyjmWE9ExO0Vz0XpNdlyRTHvuWIoz-lXRqORco67T59w=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-1205971c406cfd401b8a7d605e43baac{background-image:url(https://lh3.googleusercontent.com/XbUMpsFHZEDZo3-TsGHgugjOuQwfTooI1Bvwhi4uSbeqyejxlHwcyRlnRmDyjmWE9ExO0Vz0XpNdlyRTHvuWIoz-lXRqORco67T59w=w742-h504-n-l80-sg-rj)}}
+                          Building a mobile platform to provide refugees with reliable information
+                        
+                          The International Rescue Committee, Mercy Corps, and Google launched a
+                          âCrisis Info Hubâ for refugees, providing information about safe
+                          movement, legal rights, and trustworthy services in Greece and the
+                          Balkans.
+                        
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-5e306d3f76f15e410e5313bff9234f3c{background-image:url(https://lh3.googleusercontent.com/gPf3uTywslm2iC7gsJGnW-kwu_ydQB-t9REsPxW1X2pto4LF--q_1kX9eHEAXvi0hvSgkg7v6K-aesOS1wKQ3ROULkwociyfFHa68pk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-5e306d3f76f15e410e5313bff9234f3c{background-image:url(https://lh3.googleusercontent.com/gPf3uTywslm2iC7gsJGnW-kwu_ydQB-t9REsPxW1X2pto4LF--q_1kX9eHEAXvi0hvSgkg7v6K-aesOS1wKQ3ROULkwociyfFHa68pk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-5e306d3f76f15e410e5313bff9234f3c{background-image:url(https://lh3.googleusercontent.com/gPf3uTywslm2iC7gsJGnW-kwu_ydQB-t9REsPxW1X2pto4LF--q_1kX9eHEAXvi0hvSgkg7v6K-aesOS1wKQ3ROULkwociyfFHa68pk=w742-h504-n-l80-sg-rj)}}
                     
-                        Discover Uluá¹u-Kata Tjuá¹¯a National Park
-                      
-            Working at Google
-          
-                    @media screen{.carousel-working-visible .carousel-slide-inner-11ba3b7b2e7308e6356ce4e696115af7{background-image:url(https://lh3.googleusercontent.com/DH7Z6j2h1p610RM7brxG6PALsOc7aLWAC0F86Swq73Ra-SXBWMxEzvGZqiCBoeFGgbq4JRS5rZLx2P7Od4eOMjHMifduPM_67oFs=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-11ba3b7b2e7308e6356ce4e696115af7{background-image:url(https://lh3.googleusercontent.com/DH7Z6j2h1p610RM7brxG6PALsOc7aLWAC0F86Swq73Ra-SXBWMxEzvGZqiCBoeFGgbq4JRS5rZLx2P7Od4eOMjHMifduPM_67oFs=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-11ba3b7b2e7308e6356ce4e696115af7{background-image:url(https://lh3.googleusercontent.com/DH7Z6j2h1p610RM7brxG6PALsOc7aLWAC0F86Swq73Ra-SXBWMxEzvGZqiCBoeFGgbq4JRS5rZLx2P7Od4eOMjHMifduPM_67oFs=w742-h504-n-l80-sg-rj)}}
-                    
-                        Job spotlight: Bertrand Damiba teaches Google Assistant to talk
-                      
-                    @media screen{.carousel-working-visible .carousel-slide-inner-7917616a533ba5ecdba3ed66a9f0ecdd{background-image:url(https://lh3.googleusercontent.com/68MoZqkPzfB5pBsvs-lfHk0NfvxktKdYna9ohXVUkFSL_Okfqjj1ZYRAcPYI5SWvkB0Z_6bOweFYuuv-8EXIkTNv2bC9Wk9XKHbjmg=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-7917616a533ba5ecdba3ed66a9f0ecdd{background-image:url(https://lh3.googleusercontent.com/68MoZqkPzfB5pBsvs-lfHk0NfvxktKdYna9ohXVUkFSL_Okfqjj1ZYRAcPYI5SWvkB0Z_6bOweFYuuv-8EXIkTNv2bC9Wk9XKHbjmg=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-7917616a533ba5ecdba3ed66a9f0ecdd{background-image:url(https://lh3.googleusercontent.com/68MoZqkPzfB5pBsvs-lfHk0NfvxktKdYna9ohXVUkFSL_Okfqjj1ZYRAcPYI5SWvkB0Z_6bOweFYuuv-8EXIkTNv2bC9Wk9XKHbjmg=w742-h504-n-l80-sg-rj)}}
-                    
-                        Inside our Seattle and Kirkland offices
-                      
-                    @media screen{.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-14fbbbeb1a80d67e9b65ca33f794f870{background-image:url(https://lh3.googleusercontent.com/v4DOsrjYin54U5NWzGcix_F0FArfulnuJvABgbDm56oC9vq3FTCEat9Q6KT3xcdI_iMDccTFg6zWlBZAxWg0nFbDLBBAqNrxYWl3=w742-h504-n-l80-sg-rj)}}
-                    
-                        Google internsâ first week
-                      
-                    @media screen{.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-working-visible .carousel-slide-inner-2f7d0f9623881656b56b118b83a94d49{background-image:url(https://lh3.googleusercontent.com/z9B5lc5fnHEQfpWXuX8qKCWb0t2fx7LvI76OUwOUn1BiNaqGWl-tPADsW3L02vLf6zrPulx2KS1-kf3fAY2F_dGd9sMMmONYz-H5Evo=w742-h504-n-l80-sg-rj)}}
-                    
-                        Increasing access to opportunity for everyone
-                      
-Explore Google Careers
+                          Promoting gender equality through emoji
+                        
+                          Not a lot of emoji highlight the diversity of womenâs careers. We worked
+                          closely with the Unicode Emoji Subcommittee to add 11 new professional
+                          emoji and added 33 male and female versions to the existing ones.
+                        
             What the world is searching for now
           
 Take a break
 Pause einlegen
 Faites une pause
 Ð¡Ð´ÐµÐ»Ð°Ð¹ÑÐµ Ð¿ÐµÑÐµÑÑÐ²
-Discover more Google
-            Trends
+Discover more Google Trends 
             Today in Doodle history
           
-{[::doodle.localizedDate]}{[::doodle.title]}
+                          {[::doodle.localizedDate]}
+                        
+                          {[::doodle.title]}
+                        
 {[doodleCtrl.doodleHistory[0].localizedDate]}{[doodleCtrl.doodleHistory[0].title]}
-Discover more Google Doodles
-            Behind the scenes at Google
-          
-                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-4b942af272a883e39729ab5ec8cb0cfc{background-image:url(https://lh3.googleusercontent.com/QmlXUmScXXYUQ3UjVdyfJFDm14ScXXNlq8pBYP7BqQaZGfDgUvMDdHae4iM9IFvfgxapJIW9kFjFZh7za6dWtufChDC_-yBZWSMpbg=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-4b942af272a883e39729ab5ec8cb0cfc{background-image:url(https://lh3.googleusercontent.com/QmlXUmScXXYUQ3UjVdyfJFDm14ScXXNlq8pBYP7BqQaZGfDgUvMDdHae4iM9IFvfgxapJIW9kFjFZh7za6dWtufChDC_-yBZWSMpbg=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-4b942af272a883e39729ab5ec8cb0cfc{background-image:url(https://lh3.googleusercontent.com/QmlXUmScXXYUQ3UjVdyfJFDm14ScXXNlq8pBYP7BqQaZGfDgUvMDdHae4iM9IFvfgxapJIW9kFjFZh7za6dWtufChDC_-yBZWSMpbg=w742-h504-n-l80-sg-rj)}}
-                    
-                        Computer Vision, Explained
-                      
-                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-22ef4de3de1cf0776637e922229618e3{background-image:url(https://lh3.googleusercontent.com/hiibuQFurgNp_CgFOdG5RTlT3R5bOLJzAb5tQA2xxgZSeC8kcZUyeOApgE6ca01kGk0CBd4ExkZGuGARpB1sdEYKIruuispAyn-3Lyk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-22ef4de3de1cf0776637e922229618e3{background-image:url(https://lh3.googleusercontent.com/hiibuQFurgNp_CgFOdG5RTlT3R5bOLJzAb5tQA2xxgZSeC8kcZUyeOApgE6ca01kGk0CBd4ExkZGuGARpB1sdEYKIruuispAyn-3Lyk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-22ef4de3de1cf0776637e922229618e3{background-image:url(https://lh3.googleusercontent.com/hiibuQFurgNp_CgFOdG5RTlT3R5bOLJzAb5tQA2xxgZSeC8kcZUyeOApgE6ca01kGk0CBd4ExkZGuGARpB1sdEYKIruuispAyn-3Lyk=w742-h504-n-l80-sg-rj)}}
-                    
-                        How Google Earthâs incredible 3D imagery is created
-                      
-                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-b36bb2a2a2b287b3287ed05d7ca76c16{background-image:url(https://lh3.googleusercontent.com/xObYGYgOLADPakho7nmoN39RoquSPDkXzE82ZPaXpQkto6P1VJW4EkP9o0PpASFCuHw8R2G_Qsw0vfR0wirNT8UfRyBqgfB7tpCV1A=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-b36bb2a2a2b287b3287ed05d7ca76c16{background-image:url(https://lh3.googleusercontent.com/xObYGYgOLADPakho7nmoN39RoquSPDkXzE82ZPaXpQkto6P1VJW4EkP9o0PpASFCuHw8R2G_Qsw0vfR0wirNT8UfRyBqgfB7tpCV1A=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-b36bb2a2a2b287b3287ed05d7ca76c16{background-image:url(https://lh3.googleusercontent.com/xObYGYgOLADPakho7nmoN39RoquSPDkXzE82ZPaXpQkto6P1VJW4EkP9o0PpASFCuHw8R2G_Qsw0vfR0wirNT8UfRyBqgfB7tpCV1A=w742-h504-n-l80-sg-rj)}}
-                    
-                        A Journey To The Bottom Of The Internet
-                      
-                    @media screen{.carousel-behind-the-scenes-visible .carousel-slide-inner-6d63c48b0373954af1036a7712087156{background-image:url(https://lh3.googleusercontent.com/pSH6mtprkU0tRYeIllzdm44287rgvWVRqol0NiNp9fghZgcRnJNnhNGhw-qeUo3TYi6kmiPOjlK7_RNwAfHTMF015I_mP3wQGCEIsQ=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-behind-the-scenes-visible .carousel-slide-inner-6d63c48b0373954af1036a7712087156{background-image:url(https://lh3.googleusercontent.com/pSH6mtprkU0tRYeIllzdm44287rgvWVRqol0NiNp9fghZgcRnJNnhNGhw-qeUo3TYi6kmiPOjlK7_RNwAfHTMF015I_mP3wQGCEIsQ=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-behind-the-scenes-visible .carousel-slide-inner-6d63c48b0373954af1036a7712087156{background-image:url(https://lh3.googleusercontent.com/pSH6mtprkU0tRYeIllzdm44287rgvWVRqol0NiNp9fghZgcRnJNnhNGhw-qeUo3TYi6kmiPOjlK7_RNwAfHTMF015I_mP3wQGCEIsQ=w742-h504-n-l80-sg-rj)}}
-                    
-                        Google Translate vs. âLa Bambaâ
-                      
-            Our story
-          
-              @media screen{.our-story-visible .our-story-05827e993cb5ab15be9545a419111761{background-image:url(https://lh3.googleusercontent.com/WYO6aJkpnUfEowFgIrmMXGEZrATN4l341NH1YSaSD07H4j4NZ37TLKlFtz3cZPkchRKrqBlnc_gHDnLxPJGjINkB6KDGbssjZGx5=w600-h350-l80-sg-rj)}}@media screen and (min-width:600px){.our-story-visible .our-story-05827e993cb5ab15be9545a419111761{background-image:url(https://lh3.googleusercontent.com/WYO6aJkpnUfEowFgIrmMXGEZrATN4l341NH1YSaSD07H4j4NZ37TLKlFtz3cZPkchRKrqBlnc_gHDnLxPJGjINkB6KDGbssjZGx5=w1024-h378-l80-sg-rj)}}@media screen and (min-width:1024px){.our-story-visible .our-story-05827e993cb5ab15be9545a419111761{background-image:url(https://lh3.googleusercontent.com/WYO6aJkpnUfEowFgIrmMXGEZrATN4l341NH1YSaSD07H4j4NZ37TLKlFtz3cZPkchRKrqBlnc_gHDnLxPJGjINkB6KDGbssjZGx5=w1440-l80-sg-rj)}}
-              
- 
-                Our story: from the garage to the Googleplex
-              
-Read
-            our history
+Discover more Google Doodles 
 Back to top 
               Follow us on:
             
@@ -129,9 +109,14 @@ Application security
 Software principles
 Unwanted software
                       policy
-Responsible
-                      manufacturing
-Conflict minerals policy
+Responsible supply chain
+                  Social responsibility 
+Google.org
+Environment
+Crisis response
+Diversity & Inclusion
+Accessibility
+Transparency
 Help
 Privacy
 Terms
