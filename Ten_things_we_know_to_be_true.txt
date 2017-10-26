@@ -33,6 +33,21 @@ Our products
 See all stories
             Our values in action
           
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w742-h504-n-l80-sg-rj)}}
+                    
+                          Learn about our commitment to creating more opportunity for everyone
+                        
+                          We recently announced $1 billion in grants, 1 million volunteer hours,
+                          and new training programs to expand opportunity for everyone.
+                        
+                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w742-h504-n-l80-sg-rj)}}
+                    
+                          Introducing Grow with Google: Free training, tools, and events to grow
+                          your skills
+                        
+                          Grow with Google aims to help everyone access the best of Googleâs
+                          training and tools to grow their skills, careers, and businesses.
+                        
                     @media screen{.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w742-h504-n-l80-sg-rj)}}
                     
                           Taking a data-based look at Americaâs history of lynching
@@ -55,23 +70,6 @@ See all stories
                         
                           To help utility companies and regulators track and measure pollution, we
                           turned our Street View fleet into an environmental-sensing platform.
-                        
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-3c8ebffc98ad0904f016f8cc39caf38a{background-image:url(https://lh3.googleusercontent.com/R4uxFdKz-WmF0O2hVa4jbpBN8I4F-NMBgLvfG-7WRxxY826IbD3fCZEx8YPSeYCk8iLYhY5ilR3Bgri3JJEajZ0LYi1fcalHZDLdtIk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-3c8ebffc98ad0904f016f8cc39caf38a{background-image:url(https://lh3.googleusercontent.com/R4uxFdKz-WmF0O2hVa4jbpBN8I4F-NMBgLvfG-7WRxxY826IbD3fCZEx8YPSeYCk8iLYhY5ilR3Bgri3JJEajZ0LYi1fcalHZDLdtIk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-3c8ebffc98ad0904f016f8cc39caf38a{background-image:url(https://lh3.googleusercontent.com/R4uxFdKz-WmF0O2hVa4jbpBN8I4F-NMBgLvfG-7WRxxY826IbD3fCZEx8YPSeYCk8iLYhY5ilR3Bgri3JJEajZ0LYi1fcalHZDLdtIk=w742-h504-n-l80-sg-rj)}}
-                    
-                          Building a mobile platform to provide refugees with reliable information
-                        
-                          The International Rescue Committee, Mercy Corps, and Google launched a
-                          âCrisis Info Hubâ for refugees, providing information about safe
-                          movement, legal rights, and trustworthy services in Greece and the
-                          Balkans.
-                        
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-5e306d3f76f15e410e5313bff9234f3c{background-image:url(https://lh3.googleusercontent.com/gPf3uTywslm2iC7gsJGnW-kwu_ydQB-t9REsPxW1X2pto4LF--q_1kX9eHEAXvi0hvSgkg7v6K-aesOS1wKQ3ROULkwociyfFHa68pk=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-5e306d3f76f15e410e5313bff9234f3c{background-image:url(https://lh3.googleusercontent.com/gPf3uTywslm2iC7gsJGnW-kwu_ydQB-t9REsPxW1X2pto4LF--q_1kX9eHEAXvi0hvSgkg7v6K-aesOS1wKQ3ROULkwociyfFHa68pk=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-5e306d3f76f15e410e5313bff9234f3c{background-image:url(https://lh3.googleusercontent.com/gPf3uTywslm2iC7gsJGnW-kwu_ydQB-t9REsPxW1X2pto4LF--q_1kX9eHEAXvi0hvSgkg7v6K-aesOS1wKQ3ROULkwociyfFHa68pk=w742-h504-n-l80-sg-rj)}}
-                    
-                          Promoting gender equality through emoji
-                        
-                          Not a lot of emoji highlight the diversity of womenâs careers. We worked
-                          closely with the Unicode Emoji Subcommittee to add 11 new professional
-                          emoji and added 33 male and female versions to the existing ones.
                         
             What the world is searching for now
           
