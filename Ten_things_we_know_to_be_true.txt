@@ -84,7 +84,10 @@ Discover more Google Trends
                         
                           {[::doodle.title]}
                         
-{[doodleCtrl.doodleHistory[0].localizedDate]}{[doodleCtrl.doodleHistory[0].title]}
+                  {[::doodleCtrl.doodleHistory[0].localizedDate]}
+                
+                  {[::doodleCtrl.doodleHistory[0].title]}
+                
 Discover more Google Doodles 
 Back to top 
               Follow us on:
