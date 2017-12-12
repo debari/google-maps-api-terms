@@ -30,7 +30,7 @@ Our products
                           Meet the researcher using Google Street View to help dementia patients
                           with memory loss
                         
-See all stories
+See more stories
             Our values in action
           
                     @media screen{.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w742-h504-n-l80-sg-rj)}}
