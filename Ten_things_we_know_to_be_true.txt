@@ -1,125 +1,310 @@
 
-      Our latest | Google
-    
-    iframe.c1 {display:none;visibility:hidden;}
-    
- 
+Our latest | Google
+            Our latest
+          
+            Our company
+          
+            Our commitments
+          
+            Our products
+          
+      @media screen  {
+ .pane-img-240c63c {
+          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1500-h350-l100-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+ .pane-img-240c63c {
+            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w3000-h700-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 600px) {
+ .pane-img-240c63c {
+          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1024-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+ .pane-img-240c63c {
+            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w2048-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+ .pane-img-240c63c {
+          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1440-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+ .pane-img-240c63c {
+            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w2880-l100-sg-rj);
+          }
+        }
   
- 
-Our
-              latest
-Our company
-Our commitments
-Our products
+See what the world searched for in 2017
+      @media screen  {
+ .pane-img-a744d67 {
+          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w600-h600-l100-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+ .pane-img-a744d67 {
+            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1200-h1200-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 600px) {
+ .pane-img-a744d67 {
+          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w320-h180-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+ .pane-img-a744d67 {
+            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w640-h360-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+ .pane-img-a744d67 {
+          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1480-h220-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+ .pane-img-a744d67 {
+            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w2960-h440-l100-sg-rj);
+          }
+        }
   
+A father uses YouTube to make his daughter a prosthetic eye.
+      @media screen  {
+ .pane-img-b982f94 {
+          background-image: url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w600-h600-l100-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+ .pane-img-b982f94 {
+            background-image: url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w1200-h1200-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 600px) {
+ .pane-img-b982f94 {
+          background-image: url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w320-h180-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+ .pane-img-b982f94 {
+            background-image: url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w640-h360-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+ .pane-img-b982f94 {
+          background-image: url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w1480-h220-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+ .pane-img-b982f94 {
+            background-image: url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w2960-h440-l100-sg-rj);
+          }
+        }
+  
+Meet the artist who photographed the world without leaving home
+      @media screen  {
+ .pane-img-ce44362 {
+          background-image: url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w600-h600-l100-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+ .pane-img-ce44362 {
+            background-image: url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w1200-h1200-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 600px) {
+ .pane-img-ce44362 {
+          background-image: url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w320-h180-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+ .pane-img-ce44362 {
+            background-image: url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w640-h360-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+ .pane-img-ce44362 {
+          background-image: url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w1480-h220-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+ .pane-img-ce44362 {
+            background-image: url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w2960-h440-l100-sg-rj);
+          }
+        }
+  
+How scientists and supercomputers could make oceans drinkable
  
-                        @media screen{.pane-img-efeae8517e55d73a3860a311709bcced{background-image:url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1500-h350-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-efeae8517e55d73a3860a311709bcced{background-image:url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w3000-h700-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-efeae8517e55d73a3860a311709bcced{background-image:url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1024-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-efeae8517e55d73a3860a311709bcced{background-image:url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w2048-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-efeae8517e55d73a3860a311709bcced{background-image:url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1440-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-efeae8517e55d73a3860a311709bcced{background-image:url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w2880-l100-sg-rj)}}
-                        
-                          See what the world searched for in 2017
-                        
-                        @media screen{.pane-img-fad09d46405fbdad728c31e2f59e1e20{background-image:url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w600-h600-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-fad09d46405fbdad728c31e2f59e1e20{background-image:url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1200-h1200-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-fad09d46405fbdad728c31e2f59e1e20{background-image:url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w320-h180-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-fad09d46405fbdad728c31e2f59e1e20{background-image:url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w640-h360-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-fad09d46405fbdad728c31e2f59e1e20{background-image:url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w480-h220-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-fad09d46405fbdad728c31e2f59e1e20{background-image:url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w960-h440-l100-sg-rj)}}
-                        
-                          A father uses YouTube to make his daughter a prosthetic eye.
-                        
-                        @media screen{.pane-img-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w600-h600-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w1200-h1200-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w320-h180-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w640-h360-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w480-h220-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-efc934cd04bf08e112e90162cc780883{background-image:url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w960-h440-l100-sg-rj)}}
-                        
-                          Meet the artist who photographed the world without leaving home
-                        
-                        @media screen{.pane-img-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w600-h600-l100-sg-rj)}}@media screen and (min-resolution:192dpi){.pane-img-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w1200-h1200-l100-sg-rj)}}@media screen and (min-width:600px){.pane-img-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w320-h180-l100-sg-rj)}}@media screen and (min-width:600px) and (min-resolution:192dpi){.pane-img-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w640-h360-l100-sg-rj)}}@media screen and (min-width:1024px){.pane-img-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w480-h220-l100-sg-rj)}}@media screen and (min-width:1024px) and (min-resolution:192dpi){.pane-img-b76a929c929dd0021928dc09a509eefa{background-image:url(https://lh3.googleusercontent.com/Z3EA1TYylXmGR37YSUTsH3pYpJ8sxLx3mqjVtWS3ZrXkkseCieaTctQeVxgixZa-sepPJIhI0KMBl8hJ-aegYubaj2hXxn6eFyQSNgg=w960-h440-l100-sg-rj)}}
-                        
-                          How scientists and supercomputers could make oceans drinkable
-                        
 See more stories
-            Our values in action
-          
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-61f3d5faf874cecb5b78d81f42cc4ee2{background-image:url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w742-h504-n-l80-sg-rj)}}
-                    
-                          Learn about our commitment to creating more opportunity for everyone
-                        
-                          We recently announced $1 billion in grants, 1 million volunteer hours,
-                          and new training programs to expand opportunity for everyone.
-                        
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-11668f4c668802bace5eeb11bacab95e{background-image:url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w742-h504-n-l80-sg-rj)}}
-                    
-                          Introducing Grow with Google: Free training, tools, and events to grow
-                          your skills
-                        
-                          Grow with Google aims to help everyone access the best of Googleâs
-                          training and tools to grow their skills, careers, and businesses.
-                        
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-688397b9bfa403463e43b0ed11feed63{background-image:url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w742-h504-n-l80-sg-rj)}}
-                    
-                          Taking a data-based look at Americaâs history of lynching
-                        
-                          Lynching in America is an interactive experience from the Equal Justice
-                          Initiative, created with support from Google, that surfaces Americaâs
-                          history of racial terror.
-                        
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-90fe230fb53f0410436a79d712007a5c{background-image:url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-90fe230fb53f0410436a79d712007a5c{background-image:url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-90fe230fb53f0410436a79d712007a5c{background-image:url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w742-h504-n-l80-sg-rj)}}
-                    
-                          Libraries across the U.S. are Ready to Code
-                        
-                          We partnered with the American Library Association to create Ready to
-                          Code, which equips librarians to offer coding programs to kids in their
-                          communities.
-                        
-                    @media screen{.carousel-values-in-action-visible .carousel-slide-inner-1071b62c47be9972656e5465c2aef6b5{background-image:url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w304-h304-n-l80-sg-rj)}}@media screen and (min-width:600px){.carousel-values-in-action-visible .carousel-slide-inner-1071b62c47be9972656e5465c2aef6b5{background-image:url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w487-h331-n-l80-sg-rj)}}@media screen and (min-width:1024px){.carousel-values-in-action-visible .carousel-slide-inner-1071b62c47be9972656e5465c2aef6b5{background-image:url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w742-h504-n-l80-sg-rj)}}
-                    
-                          Mapping the invisible: Street View cars add air pollution sensors
-                        
-                          To help utility companies and regulators track and measure pollution, we
-                          turned our Street View fleet into an environmental-sensing platform.
-                        
-            What the world is searching for now
-          
-Take a break
-Pause einlegen
-Faites une pause
-Ð¡Ð´ÐµÐ»Ð°Ð¹ÑÐµ Ð¿ÐµÑÐµÑÑÐ²
-Discover more Google Trends 
-            Today in Doodle history
-          
-                          {[::doodle.localizedDate]}
-                        
-                          {[::doodle.title]}
-                        
-                  {[::doodleCtrl.doodleHistory[0].localizedDate]}
-                
-                  {[::doodleCtrl.doodleHistory[0].title]}
-                
-Discover more Google Doodles 
-Back to top 
-              Follow us on:
-            
-                  More about us 
+Our values in action
+      @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
+          background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
+          background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
+          background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Learn about our commitment to creating more opportunity for everyone
+We recently announced $1 billion in grants, 1 million volunteer hours, and new training programs to expand opportunity for everyone.
+ 
+      @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-8b84c94 {
+          background-image: url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-8b84c94 {
+          background-image: url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-8b84c94 {
+          background-image: url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Introducing Grow with Google: Free training, tools, and events to grow your skills
+Grow with Google aims to help everyone access the best of Googleâs training and tools to grow their skills, careers, and businesses.
+ 
+      @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-bef697c {
+          background-image: url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-bef697c {
+          background-image: url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-bef697c {
+          background-image: url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Taking a data-based look at Americaâs history of lynching
+Lynching in America is an interactive experience from the Equal Justice Initiative, created with support from Google, that surfaces Americaâs history of racial terror.
+ 
+      @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-b62ecfb {
+          background-image: url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-b62ecfb {
+          background-image: url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-b62ecfb {
+          background-image: url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Libraries across the U.S. are Ready to Code
+We partnered with the American Library Association to create Ready to Code, which equips librarians to offer coding programs to kids in their communities.
+ 
+      @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-c04accd {
+          background-image: url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-c04accd {
+          background-image: url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-c04accd {
+          background-image: url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Mapping the invisible: Street View cars add air pollution sensors
+To help utility companies and regulators track and measure pollution, we turned our Street View fleet into an environmental-sensing platform.
+ 
+ 
+What the world is searching for now
+        Discover more Google Trends   
+Today in Doodle history
+{[::doodle.localizedDate]}
+{[::doodle.title]}
+ 
+{[::doodleCtrl.doodleHistory[0].localizedDate]}
+{[::doodleCtrl.doodleHistory[0].title]}
+        Discover more Google Doodles   
+      Back to top   
+Follow us on:
+More about us
+                  
 Contact us
+  
 Investor relations
+  
 Careers
+  
 Locations
+  
 Blog
+  
 Think with Google
-                  Press room 
+  
+ 
+Press room
+                  
 Press inquiries
+  
 Social media directories
+  
 Images & B-roll
+  
 Permissions
+  
 Speaker requests
-                  Policy 
+  
+ 
+Policy
+                  
 Application security
+  
 Software principles
-Unwanted software
-                      policy
+  
+Unwanted software policy
+  
 Responsible supply chain
-                  Responsibility 
+  
+ 
+Responsibility
+                  
 Google.org
+  
 Environment
+  
 Crisis response
-Diversity &
-                      Inclusion
+  
+Diversity & Inclusion
+  
 Accessibility
+  
 Transparency
+  
+ 
 Help
+  
 Privacy
+  
 Terms
+  
  
  
