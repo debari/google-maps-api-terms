@@ -9,69 +9,69 @@ Our latest | Google
             Our products
           
       @media screen  {
- .pane-img-240c63c {
-          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1500-h350-l100-sg-rj);
-        }
-      }
-        @media screen  and (min-resolution: 192dpi) {
- .pane-img-240c63c {
-            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w3000-h700-l100-sg-rj);
-          }
-        }
-      @media screen and (min-width: 600px) {
- .pane-img-240c63c {
-          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1024-l100-sg-rj);
-        }
-      }
-        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-240c63c {
-            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w2048-l100-sg-rj);
-          }
-        }
-      @media screen and (min-width: 1024px) {
- .pane-img-240c63c {
-          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1440-l100-sg-rj);
-        }
-      }
-        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-240c63c {
-            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w2880-l100-sg-rj);
-          }
-        }
-  
-See what the world searched for in 2017
-      @media screen  {
  .pane-img-a744d67 {
-          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w600-h600-l100-sg-rj);
+          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1500-h350-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
  .pane-img-a744d67 {
-            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1200-h1200-l100-sg-rj);
+            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w3000-h700-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
  .pane-img-a744d67 {
-          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w320-h180-l100-sg-rj);
+          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1024-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
  .pane-img-a744d67 {
-            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w640-h360-l100-sg-rj);
+            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w2048-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
  .pane-img-a744d67 {
-          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1480-h220-l100-sg-rj);
+          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1440-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
  .pane-img-a744d67 {
-            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w2960-h440-l100-sg-rj);
+            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w2880-l100-sg-rj);
           }
         }
   
 A father uses YouTube to make his daughter a prosthetic eye.
+      @media screen  {
+ .pane-img-240c63c {
+          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w600-h600-l100-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+ .pane-img-240c63c {
+            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1200-h1200-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 600px) {
+ .pane-img-240c63c {
+          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w320-h180-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+ .pane-img-240c63c {
+            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w640-h360-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+ .pane-img-240c63c {
+          background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w1480-h220-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+ .pane-img-240c63c {
+            background-image: url(https://lh3.googleusercontent.com/ooO9eQTg3pqfH_uiD0vHWDmPWp-xQKRTuESOlhJ5178rj7IPF27Sg3fgwd6noVm6CO-3JLJ3dZX24hS97ITVE1ed8otGwGo3o6hdmQ=w2960-h440-l100-sg-rj);
+          }
+        }
+  
+See what the world searched for in 2017
       @media screen  {
  .pane-img-b982f94 {
           background-image: url(https://lh3.googleusercontent.com/bjcnzX1pBHONh1IR1C76NPL7lVhyK1zQKmp3A_B8-5tC_CjSbQDGparxuhb2XYhJI09dBrZAzSkXg7POBL5rfTIYBgVT_gZavBMjVqQ=w600-h600-l100-sg-rj);
