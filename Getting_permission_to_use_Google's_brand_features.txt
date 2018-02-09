@@ -7,15 +7,13 @@ Home
           
 The Google logo
 Product graphics
-Google Maps, Google Earth & Street
-            View
+Google Maps, Google Earth & Street View
 Google in films/TV
 Sponsorships
 About trademarks
 Our trademarks
 Rules for proper usage
-Brand terms &
-                conditions
+Brand terms & conditions
 FAQ
           Welcome to Google Brand Permissions
         
@@ -37,6 +35,7 @@ FAQ
 Android
 YouTube
 Google Maps
+Firebase
           Still can't find what you're looking for? Read our FAQ or submit your request via our formal request form.
         
 Google
