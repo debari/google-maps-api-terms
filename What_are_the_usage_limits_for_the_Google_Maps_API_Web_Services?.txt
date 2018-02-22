@@ -489,28 +489,9 @@ var styles = [
   }
 ];
 map.setOptions({styles: styles});
-New API Keys
-What are those two new API keys in the console, named “Google Maps [...]: key for gme-[company];[...]”?
-Soon, the usage reports in the API console will show requests made with your Maps API client ID (e.g. gme-[company]) under two new API keys: 
-Traffic from the Maps JavaScript API will be reported through API key “Google Maps JS API [...]: key for gme-[company];[...]”.
-Traffic from the other Maps APIs will be reported through API key “Google Maps Web Services [...]: key for gme-[company];[...]”.
-Should I modify or delete any of these keys named “Google Maps [...]: key for gme-[company];[...]” in the API Console?
-No, these keys are automatically managed by Google. You will be able to modify or delete referrers and restrictions on them, but this will eventually cause traffic made with your Maps API client ID (e.g. gme-[company]) to break.
-Which URL verifications are applied to the Maps JavaScript API traffic made with Maps API client IDs?
-The Google Maps JavaScript API traffic is only authorized from specific URLs. The URLs authorized in the Google Cloud Support Portal for your client ID are used to restrict API usage made with your client ID.
-    They will be automatically copied over to the API key “Google Maps JS API [...]” in the Developers Console.
-    To authorize new domains to be used with your client ID, you should keep using the Google Cloud Support Portal.
-Which private cryptographic key should I use to sign requests made with a Maps API client ID?
-No changes: you need to use the cryptographic key associated with your Maps API client ID. If you've lost your private cryptographic key, log in to the Google Cloud Support Portal and click Maps: Manage Client ID to retrieve it.
- Which quota limits are applied to the usage made with Maps API client IDs?
-API usage made with Maps API client IDs is subject to the quota limits defined on the client ID. The quota limits defined in the API Console do not apply to traffic made with your client ID.
-Can we use these new API keys in our application? What happens if we do use them?
-It is not recommended to use these API keys directly in your application, as this may jeopardize the security of your client ID traffic. To load the Maps APIs with API keys, you should set up different keys, following the Getting Started guide for the API you plan to use.
-Does it mean that the client ID is deprecated?
-No, client IDs have some unique features (e.g. breaking down traffic by channel). You can continue using your client ID as before.
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated February 21, 2018.
+      Last updated February 22, 2018.
     
           
           
