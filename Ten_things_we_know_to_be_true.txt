@@ -39,7 +39,7 @@ Our latest | Google
           }
         }
   
-How a tribe is using old cell phones and machine learning to help stop deforestation.
+How a tribe is using old cell phones and machine learning to help stop deforestation
       @media screen  {
  .pane-img-0a4486d {
           background-image: url(https://lh3.googleusercontent.com/eLMNzyIrDqx5o1zAcehCeIEIKhmcLCEYMZa1dP7q0BzaG2ItopDyytTxqMq46EDV_FdTkIanR_m96K_mle-GzCDh84Z7Z4w6ZLUbFbM=w600-h600-l100-sg-rj);
@@ -71,7 +71,7 @@ How a tribe is using old cell phones and machine learning to help stop deforesta
           }
         }
   
-Searching for Gender Equality
+Searching for gender equality
       @media screen  {
  .pane-img-a744d67 {
           background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w600-h600-l100-sg-rj);
@@ -103,7 +103,7 @@ Searching for Gender Equality
           }
         }
   
-A father uses YouTube to make his daughter a prosthetic eye.
+A father uses YouTube to make his daughter a prosthetic eye
       @media screen  {
  .pane-img-b40f5e0 {
           background-image: url(https://lh3.googleusercontent.com/izY8kLQU3mbrQPcVA_KfYgOXhA2YwBK_BeXyWU-hZYR-MmyNFtKa1DC95S7m3Zu030buMjRF_7Zh_rFLNS7ak4Rr_ZbfppDwX83V=w600-h600-l100-sg-rj);
