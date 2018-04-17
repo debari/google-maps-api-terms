@@ -13,6 +13,52 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
       
         Documentation
       
+                        Android APIs
+                      
+                        Google Maps Android API
+                      
+                        Google Places API for Android
+                      
+                        iOS APIs
+                      
+                        Google Maps SDK for iOS
+                      
+                        Google Places API for iOS
+                      
+                        Web APIs
+                      
+                        Embed API
+                      
+                        JavaScript API
+                      
+                        Static Maps API
+                      
+                        Street View Image API
+                      
+                        Google Places API JavaScript Library
+                      
+                        Web Service APIs
+                      
+                        Directions API
+                      
+                        Distance Matrix API
+                      
+                        Elevation API
+                      
+                        Geocoding API
+                      
+                        Geolocation API
+                      
+                        Places API Web Service
+                      
+                        Roads API
+                      
+                        Time Zone API
+                      
+                        Google Maps APIs Premium Plan
+                      
+                        Documentation
+                      
         Pricing and Plans
       All Products
   
@@ -35,6 +81,7 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
       
         Documentation
       
+Index
         Overview
       
         Guides
@@ -50,6 +97,47 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
         All Products
       
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistOptimizing Web Service UsageTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
+Android APIs
+                Google Maps Android API
+              
+                Google Places API for Android
+              
+iOS APIs
+                Google Maps SDK for iOS
+              
+                Google Places API for iOS
+              
+Web APIs
+                Embed API
+              
+                JavaScript API
+              
+                Static Maps API
+              
+                Street View Image API
+              
+                Google Places API JavaScript Library
+              
+Web Service APIs
+                Directions API
+              
+                Distance Matrix API
+              
+                Elevation API
+              
+                Geocoding API
+              
+                Geolocation API
+              
+                Places API Web Service
+              
+                Roads API
+              
+                Time Zone API
+              
+Google Maps APIs Premium Plan
+                Documentation
+              
 Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistOptimizing Web Service UsageTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
     
     
