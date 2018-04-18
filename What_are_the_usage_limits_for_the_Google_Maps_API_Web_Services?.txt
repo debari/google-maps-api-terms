@@ -96,7 +96,6 @@ Index
       
         All Products
       
-Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and TroubleshootingFAQ for Premium Plan CustomersPre-Launch ChecklistOptimizing Web Service UsageTroubleshooting AuthorizationLicense RenewalsFAQ for License RenewalsSummary of Changes
 Android APIs
                 Google Maps Android API
               
