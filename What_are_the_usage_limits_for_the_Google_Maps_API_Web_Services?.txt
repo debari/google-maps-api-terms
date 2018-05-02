@@ -4,63 +4,63 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
     
     
       
-        Google Maps APIs
+        Google Maps Platform
       
     
     
     
-        Home
+        Overview
+      
+        Products
+      
+        Pricing
       
         Documentation
       
-                        Android APIs
+                        Maps
                       
-                        Google Maps Android API
+                        Maps SDK for Android
                       
-                        Google Places API for Android
-                      
-                        iOS APIs
-                      
-                        Google Maps SDK for iOS
-                      
-                        Google Places API for iOS
-                      
-                        Web APIs
+                        Maps SDK for iOS
                       
                         Embed API
                       
                         JavaScript API
                       
-                        Static Maps API
+                        Maps Static API
                       
                         Street View Image API
                       
-                        Google Places API JavaScript Library
+                        Maps URLs
                       
-                        Web Service APIs
+                        Routes
                       
                         Directions API
                       
                         Distance Matrix API
                       
-                        Elevation API
+                        Roads API
+                      
+                        Places
+                      
+                        Places API for Web
+                      
+                        Places SDK for Android
+                      
+                        Places SDK for iOS
+                      
+                        Places Library, Maps JavaScript API
                       
                         Geocoding API
                       
                         Geolocation API
-                      
-                        Places API Web Service
-                      
-                        Roads API
                       
                         Time Zone API
                       
                         Google Maps APIs Premium Plan
                       
                         Documentation
-                      
-        Pricing and Plans
-      All Products
+                      All Products
   
   Sign in
     
@@ -77,7 +77,11 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
       
         Previous Licenses
       
-        Home
+        Overview
+      
+        Products
+      
+        Pricing
       
         Documentation
       
@@ -92,45 +96,42 @@ Index
       
         All Products
       
-        Pricing and Plans
-      
         All Products
       
-Android APIs
-                Google Maps Android API
+Maps
+                Maps SDK for Android
               
-                Google Places API for Android
+                Maps SDK for iOS
               
-iOS APIs
-                Google Maps SDK for iOS
-              
-                Google Places API for iOS
-              
-Web APIs
                 Embed API
               
                 JavaScript API
               
-                Static Maps API
+                Maps Static API
               
                 Street View Image API
               
-                Google Places API JavaScript Library
+                Maps URLs
               
-Web Service APIs
+Routes
                 Directions API
               
                 Distance Matrix API
               
-                Elevation API
+                Roads API
+              
+Places
+                Places API for Web
+              
+                Places SDK for Android
+              
+                Places SDK for iOS
+              
+                Places Library, Maps JavaScript API
               
                 Geocoding API
               
                 Geolocation API
-              
-                Places API Web Service
-              
-                Roads API
               
                 Time Zone API
               
@@ -146,7 +147,7 @@ Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and Trouble
     
     
     
-      Google Maps APIs
+      Google Maps Platform
     
     
     
@@ -206,7 +207,7 @@ How can I estimate my application's usage of
     Maps APIs Credits?
 What happens if I use all of my Maps APIs
     Credits?
-Why are Google Places API Details
+Why are Places SDK Details
     requests charged 2 Maps APIs Credits while Place Autocomplete requests are
     charged only 0.1 credits?
 Developing your application
@@ -223,11 +224,11 @@ How do I access premium mobile features with
 Is the dynamic library available for Android
     with the
   Google Maps APIs Premium Plan?
-How do I access the Google Maps JavaScript API using a
+How do I access the Maps JavaScript API using a
   Google Maps APIs Premium Plan client ID, from a page that's loaded over HTTPS
     (SSL)?
 How do I load the
-    Google Maps JavaScript API over HTTPS (SSL) when using the Common Loader
+    Maps JavaScript API over HTTPS (SSL) when using the Common Loader
     base_domain parameter?
 KML
 How do I render KML files that are hosted on
@@ -260,22 +261,22 @@ The following Google products are included in
     
       Google Maps APIs Premium Plan SLA, and are eligible for
     technical support:
-Google Maps JavaScript API
-Google Static Maps API
-Google Street View Image API
-Google Maps Geocoding API
-Google Maps Geolocation API
-Google Maps Elevation API
-Google Maps Directions API
-Google Maps Distance Matrix API
-Google Maps Time Zone API
-Google Maps Roads API
-Google Places API Web Service and
+Maps JavaScript API
+Maps Static API
+Street View API
+Maps Geocoding API
+Geolocation API
+Elevation API
+Directions API
+Distance Matrix API
+Time Zone API
+Roads API
+Places API for Web and
       the Places library of
-      the Google Maps JavaScript API *
-Google Maps Android API
-Google Maps SDK for iOS
-* The Google Places API is not included with the
+      the Maps JavaScript API *
+Maps SDK for Android
+Maps SDK for iOS
+* The Places SDK is not included with the
     Premium Plan Asset Tracking license. If you have an Asset Tracking
     license and want to use the Places API, please contact the
      Google Maps Sales team.
@@ -283,11 +284,11 @@ The following APIs are not covered by Google Maps APIs Premium Plan.
     Applications that use these APIs must do so in compliance with the
     published Terms of Service for these APIs, and are not covered by the
     Google Maps APIs Premium Plan SLA or eligible for technical support:
-Google Maps Android API
+Maps SDK for Android
       v1 (deprecated)
-Google Maps Embed API
-Google Places API for Android
-Google Places API for iOS
+Maps Embed API
+Places SDK for Android
+Places SDK for iOS
   How do I contact technical support for Google Maps APIs Premium Plan?
 Google Maps APIs Premium Plan customers can open a new support case with
     Google Support using the Google Cloud Support Portal at:
@@ -378,7 +379,7 @@ With the Google Maps APIs Premium Plan, your application consumes quota at
     based on an estimate of your application's annual usage. All of your
     application's requests for Maps APIs consume credits from the pool of
     credits you purchased. For example, if your application uses the
-    Google Maps JavaScript API to display a map, it consumes credits for
+    Maps JavaScript API to display a map, it consumes credits for
     the Maps JavaScript API
     map loads. If your
     application consumes all of the credits in the pool, you can purchase
@@ -405,10 +406,10 @@ If you run out of Maps APIs Credits, your application's requests will
     this case, you'll need to renew your Google Maps APIs Premium Plan license as
     soon as possible to avoid a suspension of your account. Google will notify
     you via email once you've used up 85% of your quota.
-Why are Google Places API Details requests
+Why are Places SDK Details requests
   charged 2 Maps APIs Credits while Place
   Autocomplete requests are charged only 0.1 credits?
-The Google Places API uses an extensive database of business and other
+The Places SDK uses an extensive database of business and other
     place data. It takes a lot of time and effort to keep this database
     accurate, as businesses open and close frequently. Therefore, we need to
     charge more for Places Details requests. For Place Autocomplete, we realize
@@ -429,17 +430,17 @@ Yes, with the Premium Plan, we automatically
     need features such as Maps API Analytics, usage reports by channel, and
     historical report data beyond the 30 days, you can use your client ID
     instead of the API key for most of the APIs. (The client ID does not work
-    with the Google Places API, Google Maps Geolocation API,
-    Google Maps Roads API, Google Maps Android API, or
-    Google Maps SDK for iOS.)
+    with the Places SDK, Geolocation API,
+    Roads API, Maps SDK for Android, or
+    Maps SDK for iOS.)
 What are the differences between an API key and a client ID?
 With your project ID, you can generate API keys in
   the Google API Console. Here are the
   primary differences between the use of API keys and your client ID:
 API support: You can use an API key with any Maps API. Alternatively, you
-    can use your client ID with any API, except  the Google Places API,
-    Google Maps Geolocation API, Google Maps Roads API, Google Maps Android API, and
-    Google Maps SDK for iOS.
+    can use your client ID with any API, except  the Places SDK,
+    Geolocation API, Roads API, Maps SDK for Android, and
+    Maps SDK for iOS.
 Reporting: Your API keys provide
     real-time usage reports and historical usage data for up to 30 days. If you
     need features such as Maps API Analytics, usage reports by channel, and
@@ -494,8 +495,8 @@ How do I access premium mobile features with the
   Google Maps APIs Premium Plan?
 You can access premium mobile features using the same SDKs available to
     users of the standard API: the
-    Google Maps SDK for iOS and the
-    Google Maps Android API.
+    Maps SDK for iOS and the
+    Maps SDK for Android.
     To access premium features, make sure you use the API key from the project
     created for you during signup. To verify that you have access to premium
     mobile features, load a map using the static library. For more information,
@@ -506,19 +507,19 @@ You can access premium mobile features using the same SDKs available to
 Is the dynamic library available for Android with the
   Google Maps APIs Premium Plan?
 Yes, with the Premium Plan, you can also use the
-    dynamic library for the Google Maps Android API instead of the static
+    dynamic library for the Maps SDK for Android instead of the static
     library. For more information, see the guide to getting started with the
     Premium Plan
     on Android.
-  How do I access the Google Maps JavaScript API using a
+  How do I access the Maps JavaScript API using a
   Google Maps APIs Premium Plan client ID, from a page that's loaded over
   HTTPS (SSL)?
-To access the Google Maps JavaScript API from a page that's loaded
+To access the Maps JavaScript API from a page that's loaded
     over HTTPS, you must first
     authorize
     the HTTPS URLs on which you wish to use the API.
   
-  How do I load the Google Maps JavaScript API over HTTPS (SSL) when using
+  How do I load the Maps JavaScript API over HTTPS (SSL) when using
   the Common Loader base_domain parameter?
 It is not possible to load the Maps JavaScript API over SSL using the
     common loader with the base_domain parameter set.
@@ -535,7 +536,7 @@ How do I render KML files that are hosted on intranet
   sites on a map?
 The 
 KmlLayer class that generates KML overlays in the
-    Google Maps JavaScript API uses a Google hosted service to retrieve and
+    Maps JavaScript API uses a Google hosted service to retrieve and
     parse KML files for rendering. Consequently it is not possible to display
     KML files that are not hosted at a URL that is available publicly
     accessible, or that require authentication to access.
@@ -562,7 +563,7 @@ A signature has been specified but the associated
       Google Maps APIs Premium Plan client ID has not been specified.
 Styling
 Why aren't businesses showing up on my map?
-When loading a map using the Google Maps JavaScript API and
+When loading a map using the Maps JavaScript API and
     including your Premium Plan credentials
     (either a key or client parameter), business listings
     on the map are turned off by default. To turn them back on, you'll need to include
@@ -578,7 +579,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated April 13, 2018.
+      Last updated May 2, 2018.
     
           
           
