@@ -264,7 +264,7 @@ The following Google products are included in
 Maps JavaScript API
 Maps Static API
 Street View API
-Maps Geocoding API
+Geocoding API
 Geolocation API
 Elevation API
 Directions API
