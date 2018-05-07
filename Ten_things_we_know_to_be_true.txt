@@ -8,6 +8,40 @@ Our latest | Google
               
                 Our products
               
+      @media screen and (min-width: 600px) {
+.main-visible .hero-single-a6a0be1 {
+          background-image: url(https://lh3.googleusercontent.com/h4rynYvfypu1hDKXepdCULAVIUoGTUkc02E2jvoc5aXFvvqDwCP-Tv8SChKT4KT6o7NiQnzYch6JIn2jHYqaaBpceaaULOvpakkYIQ=w1080-h378-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-a6a0be1 {
+            background-image: url(https://lh3.googleusercontent.com/h4rynYvfypu1hDKXepdCULAVIUoGTUkc02E2jvoc5aXFvvqDwCP-Tv8SChKT4KT6o7NiQnzYch6JIn2jHYqaaBpceaaULOvpakkYIQ=w2160-h756-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+.main-visible .hero-single-a6a0be1 {
+          background-image: url(https://lh3.googleusercontent.com/h4rynYvfypu1hDKXepdCULAVIUoGTUkc02E2jvoc5aXFvvqDwCP-Tv8SChKT4KT6o7NiQnzYch6JIn2jHYqaaBpceaaULOvpakkYIQ=w1440-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-a6a0be1 {
+            background-image: url(https://lh3.googleusercontent.com/h4rynYvfypu1hDKXepdCULAVIUoGTUkc02E2jvoc5aXFvvqDwCP-Tv8SChKT4KT6o7NiQnzYch6JIn2jHYqaaBpceaaULOvpakkYIQ=w2880-l100-sg-rj);
+          }
+        }
+  
+      @media screen  {
+.main-visible .hero-single-77099d4 {
+          background-image: url(https://lh3.googleusercontent.com/FtxZyA9Fe0B1K_5ogpGpBG29dzlVpc5mMLllRIU5ju885vwpsejeXk92AvUm46O8MQlRPxRY_1S4u8ufUHV2Ls5kMwYf0qn95e3W7Q=w600-h350-l100-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+.main-visible .hero-single-77099d4 {
+            background-image: url(https://lh3.googleusercontent.com/FtxZyA9Fe0B1K_5ogpGpBG29dzlVpc5mMLllRIU5ju885vwpsejeXk92AvUm46O8MQlRPxRY_1S4u8ufUHV2Ls5kMwYf0qn95e3W7Q=w1200-h700-l100-sg-rj);
+          }
+        }
+  
+Get ready for Google I/O 2018
+ Our stories
       @media screen  {
  .pane-img-0a2d724 {
           background-image: url(https://lh3.googleusercontent.com/S-3r1sb6UXK-6hPfEomEVLv59DwV3HE0hw2dDgq6bjePpYmdvVjuk85JaSkKjy4sHVAPQHID_7IjvnUiqoOrQkWRWJjShbbWYtbE3w=w1500-h350-l100-sg-rj);
