@@ -174,6 +174,25 @@ A father uses YouTube to make his daughter a prosthetic eye
 See more stories
 Our values in action
       @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-4f5d286 {
+          background-image: url(https://lh3.googleusercontent.com/NmWwrdxYnFOoC83Oh3EwB2zReSwyvKJepTDMs_D_Al3Ve6EVluGnjfu9-0IguYqR3uAUa_KqjdYxJJNCRtEqzkmD4Nue1H-DbjjjeQ=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-4f5d286 {
+          background-image: url(https://lh3.googleusercontent.com/NmWwrdxYnFOoC83Oh3EwB2zReSwyvKJepTDMs_D_Al3Ve6EVluGnjfu9-0IguYqR3uAUa_KqjdYxJJNCRtEqzkmD4Nue1H-DbjjjeQ=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-4f5d286 {
+          background-image: url(https://lh3.googleusercontent.com/NmWwrdxYnFOoC83Oh3EwB2zReSwyvKJepTDMs_D_Al3Ve6EVluGnjfu9-0IguYqR3uAUa_KqjdYxJJNCRtEqzkmD4Nue1H-DbjjjeQ=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Supporting Digital Wellbeing
+See how Google is creating tools and features to help everyone find a balance with technology thatâs right for them.
+ 
+      @media screen  {
 .carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
           background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj);
         }
@@ -249,25 +268,6 @@ Lynching in America is an interactive experience from the Equal Justice Initiati
 Libraries across the U.S. are Ready to Code
 We partnered with the American Library Association to create Ready to Code, which equips librarians to offer coding programs to kids in their communities.
  
-      @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-c04accd {
-          background-image: url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w304-h304-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-c04accd {
-          background-image: url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w487-h331-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-c04accd {
-          background-image: url(https://lh3.googleusercontent.com/ntNWxKASV0wQFIbM0qCnMOKYU1YmRsqkKyQJpsnZn4CpAQKc0b3q4otagEPfijxDMmMLewH2MBG0inzSMlr15KLtj0q0U47gija5bt0=w742-h504-n-l80-sg-rj);
-        }
-      }
-  
-Mapping the invisible: Street View cars add air pollution sensors
-To help utility companies and regulators track and measure pollution, we turned our Street View fleet into an environmental-sensing platform.
- 
  
 What the world is searching for now
         Discover more Google Trends   
@@ -332,6 +332,8 @@ Diversity & Inclusion
 Accessibility
   
 Transparency
+  
+Digital Wellbeing
   
  
 Help
