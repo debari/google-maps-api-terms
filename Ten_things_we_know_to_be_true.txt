@@ -159,6 +159,26 @@ Supporting Digital Wellbeing
 See how Google is creating tools and features to help everyone find a balance with technology thatâs right for them.
  
       @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-14a2de1 {
+          background-image: url(https://lh3.googleusercontent.com/F1bLEqB27w7WuvCsZKuY39XwrLdr0GrUAjMvNeP2MlOCXEBkFMEJmKSEC583np17ibogLYPnWbqGBE3vwLDCW6_gsPUjbq257iII=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-14a2de1 {
+          background-image: url(https://lh3.googleusercontent.com/F1bLEqB27w7WuvCsZKuY39XwrLdr0GrUAjMvNeP2MlOCXEBkFMEJmKSEC583np17ibogLYPnWbqGBE3vwLDCW6_gsPUjbq257iII=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-14a2de1 {
+          background-image: url(https://lh3.googleusercontent.com/F1bLEqB27w7WuvCsZKuY39XwrLdr0GrUAjMvNeP2MlOCXEBkFMEJmKSEC583np17ibogLYPnWbqGBE3vwLDCW6_gsPUjbq257iII=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Sara Blevins: Learning to code
+Sara recently received a Developer Scholarship from Google, 
+and is pursuing her dream of becoming a web developer.
+ 
+      @media screen  {
 .carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
           background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj);
         }
