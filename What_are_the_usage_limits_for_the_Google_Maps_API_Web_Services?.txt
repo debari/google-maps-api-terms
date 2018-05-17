@@ -23,15 +23,15 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
                       
                         Maps SDK for iOS
                       
-                        Embed API
-                      
-                        JavaScript API
-                      
                         Maps Static API
                       
-                        Street View Image API
+                        Maps JavaScript API
+                      
+                        Street View API
                       
                         Maps URLs
+                      
+                        Maps Embed API
                       
                         Routes
                       
@@ -43,7 +43,7 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
                       
                         Places
                       
-                        Places API for Web
+                        Places API
                       
                         Places SDK for Android
                       
@@ -104,15 +104,15 @@ Index
                   
                     Maps SDK for iOS
                   
-                    Embed API
-                  
-                    JavaScript API
-                  
                     Maps Static API
                   
-                    Street View Image API
+                    Maps JavaScript API
+                  
+                    Street View API
                   
                     Maps URLs
+                  
+                    Maps Embed API
                   
                     Routes
                   
@@ -124,7 +124,7 @@ Index
                   
                     Places
                   
-                    Places API for Web
+                    Places API
                   
                     Places SDK for Android
                   
