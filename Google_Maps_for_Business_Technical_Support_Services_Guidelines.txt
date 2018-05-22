@@ -1,320 +1,291 @@
 
-      Technical Support Guidelines - Google Maps
+      Google Maps APIs: Technical Support Services Guidelines
     
     iframe.c1 {display:none;visibility:hidden}
     
-        Google Maps : Technical Support Services Guidelines
+        Google Maps APIs: Technical Support Services Guidelines
       
-Introduction
-        Google will make available technical support services for Customerâs Google Maps
-        Products and Services ("Products and Services") as provided in this
-        Technical Support Service Guideline ("TSSG"). This TSSG supplements the
-        Google Maps Products and Services terms and conditions as entered into between
-        Google and Customer (the "Agreement").
+        Introduction
       
-        1. Covered Products and Services
-        Except as otherwise provided below, Google will, upon Customerâs payment of all applicable
-        fees, provide technical support services for the Products and Services identified in
-        Section 2. Please note that not all technical support services are available for all
-        Products and Services.
+        Google will make available technical support services for Customerâs Google Maps APIs
+        Products and Services ("Products and Services") as provided in this Technical Support
+        Service Guideline ("TSSG") and Customer's applicable agreement. This TSSG supplements the
+        Google Maps Products and Services terms and conditions as entered into between Google and
+        Customer (the "Agreement").
       
-        2. Technical Support Service Request Submission
-          A. Support Levels. Google will provide Customer either Basic, Standard,
-          or Premium Support, as indicated in the applicable ordering document. If the ordering
-          document does not identify a specific Support Level, then Google will provide Basic
-          Support or Standard Support, as described here:
-        
-              Product
+              1. Covered Products and Services
             
-              Basic
-            
-              Standard1
-              Premium
-            
-              Google Maps API for Business
-            
-              â
-            
-              â2
-              Google Maps Tracks API
-            
-              â
-            
-              Google Maps Engine
-            
-              â
-            
-              Google Earth Enterprise
-            
-              â
-            
-              Google Maps Coordinate
-            
-              â
-            
-              â1
-              Google Maps Engine Pro
-            
-              â
-            
-              â1
-              Google Earth Pro
-            
-              â
-            
-              â1
-              Google Maps Data (including Imagery)
-            
-              â
-            
-          1. A minimum purchase is required to qualify for Standard Support Level for all Products
-          and Services.
-        
-          2. Please see Target Initial Response Times below and contact Google for more
-          information. Premium is available for purchase at an additional charge.
-        
-          B. Customer Efforts to Fix Issues. Prior to making a Request, Customer
-          will use reasonable efforts to resolve any error, bug, malfunction or network
-          connectivity defect without escalation to Google. After making this initial effort, a
-          Customer Contact may submit a written request for technical support services through the
-          GES Site or, if authorized, make a request by phone.
-        
-          C. Characterization of Requests. Customers determine issue Priority
-          (please use this chart)
-          upon Request submission. Upon receiving a Request from a Customer Contact, Google will
-          confirm whether the Request is a "Service Unusable," "Standard Request" or a "Feature
-          Request". Any such determination made by Google is final and binding on Customer. Google
-          reserves the right to change Customer's priority designation if Google believes that
-          Customer's designation is incorrect and will inform Customer of any such change. Customer
-          may appeal any such reclassification to Google's technical support service personnel as
-          provided in the GES Site.
-        
-          D. Procedures for Acknowledgement and Request Resolution. When making a
-          Request, Customer will provide requested diagnostic information including, but not
-          limited to:
-        
-Customer's product domain name or names, or other Google product identifiers such as
-          API keys and Client ID strings;
+Except as otherwise provided below, Google will, upon Customerâs payment of all
+          applicable fees, provide technical support services for the Products and Services
+          identified in Section 2. Please note that not all technical support services are
+          available for all Products and Services.
           
+              2. Technical Support Service Request Submission
+            
+A. Support Levels. Google will provide Customer either Silver
+                Support or Gold Support, as indicated in the applicable ordering document. If the
+                ordering document does not identify a specific Support Level, then Google will
+                provide Silver Support, as described here:
+                
+                      Product
+                    
+                      Silver1
+                      Gold2
+                      Google Maps APIs Premium Plan
+                    
+                      Default
+                    
+                      Available as upgrade
+                    
+                      Google Maps Tile API
+                    
+                      Default
+                    
+                      Available as upgrade
+                    
+1. Please see Section 5 for details regarding Silver Support.
+2. Please see Target Initial Response Times below and contact Google for
+                  more information. Gold Support is available for purchase at an additional charge.
+                  Please see Section 6 for details regarding Gold Support.
+B. Customer Efforts to Fix Issues. Prior to making a Request,
+                Customer will use reasonable efforts to resolve any error, bug, malfunction or
+                network connectivity defect without escalation to Google. Thereafter, a Customer
+                Contact may submit a written request for technical support services through the GWS
+                Site or, if authorized, make a request by phone.
+              
+C. Characterization of Requests. Customers determine issue
+                Priority upon Request submission. Upon receiving a Request from a Customer Contact,
+                Google will confirm whether the Request is a "Service Unusable," "Standard Request"
+                or a "Feature Request". Any such determination made by Google is final and binding
+                on Customer. Google reserves the right to change Customer's priority designation if
+                Google believes that Customer's designation is incorrect and will inform Customer
+                of any such change. Customer may appeal any such reclassification to Google's
+                technical support service personnel as provided in the GWS Site.
+              
+D. Procedures for Acknowledgement and Request Resolution. When
+                making a Request, Customer will provide requested diagnostic information including,
+                but not limited to:
+                
+Customer's product domain name or names, or other Google product identifiers
+                  such as API keys and Client ID strings;
+                  
 Customer's software version, serial, and/or order numbers, when available;
-          
-Customerâs machine, network, and/or hardware specifications and configuration, when
-          relevant;
-          
+                  
+Customerâs machine, network, and/or hardware specifications and
+                  configuration, when relevant;
+                  
 Description of the issue, including any error messages and
-          
-Description of Customerâs efforts to resolve the issue (see Section B above) prior to
-          contacting Google.
-          
-          Customer Contact commits to further communication via email or telephone to answer
-          questions and assist Google support personnel as needed. If Customer does not provide
-          timely communication the Request will be considered resolved.
-        
-          E. Feature Requests. If Google deems a Request to be a Feature Request,
-          Google will log such Request for consideration and will consider the Request resolved.
-          Google is under no obligation to respond to or enact any Feature Request or to include
-          any such Feature Request in any future update or release.
-        
-          F. Custom Implementations and Errors in Data. Google reserves the sole
-          right to determine whether to respond to Requests regarding: (i) general or custom
-          implementations that do not adhere to the documented and supported Product and Service
-          configurations; (ii) underlying errors in data; and (iii) cases where user account data
-          or address locations are incorrect or missing.
-        
-          G. Request Acknowledgement. Google may respond to a Request by
-          acknowledging the Requestâs receipt. Customer agrees that Google may be unable to provide
-          answers to, or resolve, all Requests.
-        
-          H. Supported Product Version. Unless otherwise specified in writing by
-          Google, (i) Google will support the current and one immediately previous official version
-          of the Products and Services, and (ii) Google will only support the most recent official
-          version of these products for Android and other mobile software. Where applicable,
-          Customerâs hardware must meet all system requirements for the Product and Services as
-          documented.
-        
-        3. Accessing Technical Support Services
-          A. Support Site. Customer must contact Google via the GES Site, or via
-          the phone contact information published in the GES Site, to receive Standard or Premium
-          technical support. Customer may use product-specific Help Center forms to receive Basic
-          technical support. Requests submitted via personal email, posts to forums, âSend
-          Feedbackâ forms, or other channels may not be responded to and are not covered by this
-          TSSG.
-        
-          B. Phone. For products which offer phone support, Customer must be able
-          to access the GES Site to retrieve phone contact information and, where applicable,
-          Customer PINs.
-        
-          C. Designated Customer Contacts. Customer Contacts will provide
-          first-level support to internal Customer end users. Google will provide second-level
-          technical support services to Customer Contacts only. Customer may edit the Customer
-          Contact information in the GES Site, where possible. If Customer is not able to use the
-          GES Site for this purpose, Customer will notify Google of changes via a Request. All
-          Customer Contact changes must be made at least five Business Days before the change
-          becomes effective.
-        
-          D. Support Hours. Google will process Requests during the Hours of
-          Operation, unless otherwise indicated here. Any Requests received outside of the Hours of
-          Operation will be logged and processed at the beginning of the next Business Day.
-        
-          E. Target Initial Response Times. Google will make commercially
-          reasonable efforts to respond to Requests as determined by Service Level:
-        
-              Basic
+                  
+Description of Customerâs efforts to resolve the issue (see Section B above)
+                  prior to contacting Google.
+                  
+Customer Contact commits to further communication via email or telephone to
+                answer questions and assist Google support personnel as needed. If Customer does
+                not provide timely communication the Request will be considered resolved.
+              
+E. Feature Requests. If Google deems a Request to be a Feature
+                Request, Google will log such Request for consideration and will consider the
+                Request resolved. Google is under no obligation to respond to or enact any Feature
+                Request or to include any such Feature Request in any future update or release.
+              
+F. Custom Implementations and Errors in Data. Google reserves the
+                sole right to determine whether to respond to Requests regarding: (i) general or
+                custom implementations that do not adhere to the documented and supported Product
+                and Service configurations; (ii) underlying errors in data; and (iii) cases where
+                user account data or address locations are incorrect or missing.
+              
+G. Request Acknowledgement. Google may respond to a Request by
+                acknowledging the Requestâs receipt. Customer agrees that Google may be unable to
+                provide answers to, or resolve, all Requests.
+              
+H. Supported Product Version. Unless otherwise specified in
+                writing by Google, (i) Google will support the current and one immediately previous
+                official version of the Products and Services, and (ii) Google will only support
+                the most recent official version of these products for Android and other mobile
+                software. Where applicable, Customerâs hardware must meet all system requirements
+                for the Product and Services as documented.
+              
+              3. Accessing Technical Support Services
             
-              Standard
+A. Support Site. Customer must contact Google via the GWS Site, or
+                via the phone contact information published in the GWS Site, to receive Silver
+                Support or Gold Support. Requests submitted via personal email, posts to forums,
+                âSend Feedbackâ forms, product-specific Help Centers, or other channels may not be
+                responded to and are not covered by this TSSG. For more information on contacting
+                Support, visit https://developers.google.com/maps/support/contact-support.
+              
+B. Phone. For products which offer phone support, Customer must be
+                able to access the GWS Site to retrieve phone contact information and, where
+                applicable, Customer PINs.
+              
+C. Designated Customer Contacts. Customer Contacts will provide
+                first-level support to internal Customer end users. Google will provide
+                second-level technical support services to Customer Contacts only. Customer may
+                edit the Customer Contact information in the GWS Site, where possible. If Customer
+                is not able to use the GWS Site for this purpose, Customer will notify Google of
+                changes via a Request. All Customer Contact changes must be made at least five
+                Business Days before the change becomes effective.
+              
+D. Support Hours. Google will process Requests during the Hours of
+                Operation, unless otherwise indicated here. Any Requests received outside of the
+                Hours of Operation will be logged and processed at the beginning of the next
+                Business Day.
+              
+E. Target Initial Response Times. Google will make commercially
+                reasonable efforts to respond to Requests as determined by Service Level:
+                
+                      Silver
+                    
+                      Gold
+                    
+                      Service Unusable first Response: 24x7 Pager
+                    
+                      Not available
+                    
+                      1 hour
+                    
+                      Service Unusable First Response: Phone3
+                      4 hours
+                    
+                      1 hour
+                    
+                      Service Unusable First Response: Web or Email
+                    
+                      4 hours
+                    
+                      2 hours
+                    
+                      Standard Request First Response
+                    
+                      24 hours
+                    
+                      24 hours
+                    
+                      Feature Request First Response
+                    
+                      48 hours
+                    
+                      48 hours
+                    
+3. Requests submitted via phone will be dispatched by our call centers and
+                  responded via email or an outbound phone call.
+                  Notes: Response times shown in Business Hours/Days, which fall within the Hours
+                  of Operation.
+                
+              4. General Provisions
             
-              Premium
+Violation of Acceptable Use Policy (AUP). Technical support
+                services are not provided to Customers that violate the AUP. Unless otherwise
+                indicated by Google in writing, the AUP governing Product and Services use and
+                support is located at https://enterprise.google.com/maps/terms/universal_aup.html.
+TSSG Updates. Google may update this TSSG from time to time upon
+                notice to Customer.
+              
+Maintenance. If Google expects planned Maintenance to negatively
+                affect Product and Services availability or functionality, Google will use
+                commercially reasonable efforts to provide advanced notice of the Maintenance. In
+                addition, Google may perform emergency unscheduled Maintenance at any time. If
+                Google expects such emergency unscheduled Maintenance to negatively affect the
+                technical support services availability or functionality, Google will use
+                commercially reasonable efforts to provide advance notice of such Maintenance.
+                Maintenance notices will be provided via the GWS Site. In addition, Customers who
+                subscribe may also be able to receive email and/or RSS Feed notifications of
+                Maintenance.
+              
+Language. The parties agree that all technical support services
+                provided by Google to Customer pursuant to this TSSG will be provided in the
+                English language.
+              
+Term of Support. Google will only provide the technical support
+                services described in this TSSG during the term of the Agreement and will have no
+                obligation to provide any technical support services to Customer after the
+                Agreementâs expiration or termination.
+              
+              5. Silver Support
             
-              Service Unusable First Response: 24x7 Pager
+              All Customers that pay for technical support services will receive Silver Support,
+              which includes the following:
             
-              N/A
-            
-              N/A
-            
-              1 hour
-            
-              Service Unusable First Response: Phone3
-              N/A
-            
-              4 hours
-            
-              1 hour
-            
-              Service Unusable First Response: Web/Email
-            
-              24 hours
-            
-              4 hours
-            
-              2 hours
-            
-              Standard Request First Response
-            
-              72 hours
-            
-              24 hours
-            
-              24 hours
-            
-              Feature Request First Response
-            
-              5 days
-            
-              48 hours
-            
-              48 hours
-            
-          3. Requests submitted via phone will be dispatched by our call centers and responded via
-          email or an outbound phone call.
-        
-          Notes:
-        
-Response times shown in Business Hours/Days, which fall within the Hours of
-          Operation.
-          
-No phone support is provided for Google Maps Coordinate, Google Earth Pro, Google
-          Maps Engine Pro, and Google Maps Data (including Imagery).
-          
-        4. General Provisions
-          A. Violation of Acceptable Use Policy (AUP). Technical support services
-          are not provided to Customers that violate the AUP. Unless otherwise indicated by Google
-          in writing, the AUP governing Product and Services use and support is located here.
-        
-          B. TSSG Updates. Google may update this TSSG from time to time upon
-          notice to Customer.
-        
-          C. Maintenance. If Google expects planned Maintenance to negatively
-          affect Product and Services availability or functionality, Google will use commercially
-          reasonable efforts to provide advanced notice of the Maintenance. In addition, Google may
-          perform emergency unscheduled Maintenance at any time. If Google expects such emergency
-          unscheduled Maintenance to negatively affect the technical support services availability
-          or functionality, Google will use commercially reasonable efforts to provide advance
-          notice of such Maintenance. Maintenance notices will be provided via the GES Site. In
-          addition, Customers who subscribe may also be able to receive email and/or RSS Feed
-          notifications of Maintenance.
-        
-          D. Language. The parties agree that all technical support services
-          provided by Google to Customer pursuant to this TSSG will be provided in the English
-          language.
-        
-          E. Term of Support. Google will only provide the technical support
-          services described in this TSSG during the term of the Agreement and will have no
-          obligation to provide any technical support services to Customer after the Agreementâs
-          expiration or termination.
-        
-        5. Basic and Standard Support
-          All Customers that pay for technical support services will receive Basic or Standard
-          Support, which includes the following:
-        
-Access to technical support services through the GES Site or Google Help Centers.
-          
-Basic or Standard Support Response Times indicated in Section 2 above.
-          
+Access to technical support services through the GWS Site and Google Help
+              Centers.
+              
+Silver Support Response Times indicated in Section 2 above.
+              
 Maintenance updates of the Products and Services.
-          
-        6. Premium Support (Fees apply)
-          Premium Support includes all of the items set forth in Section 5 above as well as the
-          following:
-        
-24x7 pager response to Service Unusable Requests that affect a live, production
-          application serving results to Customer end users.
-          
-Premium Support Response Times indicated in Section 3(E) above.
-          
-        7. Defined Terms
-        For the purpose of this TSSG, the capitalized terms below will have the following meanings:
-      
-"Business Day" means any day other than Saturday, Sunday or regional
-          holidays as documented in the GES Site.
-        
-"Business Hour" means a time period of one hour within the Hours of
-          Operation.
-        
+              
+              6. Gold Support (Fees apply)
+            
+              Gold Support includes all of the items set forth in Section 5 above as well as the
+              following:
+            
+24 hour by 7 days per week (24x7) pager response to Service Unusable Requests
+              that affect a live, production application serving results to Customer end users.
+              
+Gold Support Response Times indicated in Section 3(E) above.
+              
+              7. Defined Terms
+            
+              For the purpose of this TSSG, the capitalized terms below will have the following
+              meanings:
+            
+"Business Day" means any day other than Saturday, Sunday or
+              regional holidays as documented in the GWS Site.
+              
+"Business Hour" means a time period of one hour within the Hours
+              of Operation.
+              
 "Customer Contacts" means one or two administrators or technical
-          employees designated by Customer in writing who are allowed to contact Google for
-          technical support services.
-        
-"Feature Request" means a Request to incorporate a new feature or
-          enhance an existing feature of the Products and Services that is currently not available.
-        
-"GES Site" means the Google Enterprise technical support services site,
-          currently located at www.google.com/work/portal (or such other URL that may
-          be provided by Google).
-        
-"Hours of Operation" means either: (A) for Customers located in Europe,
-          Middle East and Africa, 9:00 - 17:00 GMT (Greenwich Mean Time) on Business Days; (B) for
-          Customers located in Japan, Australia, New Zealand, and Southern/Eastern Asia, 9:00 to
-          17:00 JST (Japan Standard Time) on Business Days; or (C) for Customers located in all
-          other countries or regions, 9:00 to 17:00 Pacific Time on Business Days. Hours of
-          Operation are subject to change as provided in this TSSG.
-        
-"Maintenance" means maintenance work that is performed on hardware,
-          software or other technical infrastructure delivering the Products and Services.
-        
-"Priority" means the level of impact a Request is having on Customerâs
-          operations and is used to establish target response times. Use this chart to
-          determine Priority.
-        
-"Request" means a request from a Customer Contact to Google technical
-          support service personnel for technical support services to address a question or problem
-          regarding the Products and Services.
-        
-"Seat" represents a configured Customer end user who will be or has been
-          given access to the Products and Services.
-        
+              employees designated by Customer in writing who are allowed to contact Google for
+              technical support services.
+              
+"Feature Request" means a Request to incorporate a new feature
+              or enhance an existing feature of the Products and Services that is currently not
+              available.
+              
+"GWS Site" means the Google Cloud Support site, currently
+              located at https://www.google.com/work/portal (or such other URL that may be provided
+              by Google).
+              
+"Gold Support" is defined above in Section 6.
+              
+"Hours of Operation" means either:
+                
+for Customers located in Europe, Middle East and Africa, 9:00 - 17:00 GMT
+                  (Greenwich Mean Time) on Business Days;
+                  
+for Customers located in Japan, Australia, New Zealand, and Southern/Eastern
+                  Asia, 9:00 to 17:00 JST (Japan Standard Time) on Business Days; or
+                  
+for Customers located in all other countries or regions, 9:00 to 17:00
+                  Pacific Time on Business Days.
+                  
+Hours of Operation are subject to change as provided in this TSSG.
+              
+"Maintenance" means maintenance work that is performed on
+              hardware, software or other technical infrastructure delivering the Products and
+              Services.
+              
+"Priority" means the level of impact a Request is having on
+              Customerâs operations and is used to establish target response times. Priority level
+              definitions are documented here: https://support.google.com/work/answer/184028?hl=en.
+              
+"Request" means a request from a Customer Contact to Google
+              technical support service personnel for technical support services to address a
+              question or problem regarding the Products and Services.
+              
 "Service Unusable" is any situation where Customer, adhering to
-          published technical guidelines for and documented correct usage of the Products and
-          Services, is unable to access or use the Products and Services for the majority of its
-          end users for a period of time greater than fifteen (15) minutes. Customer must identify
-          a Request as Service Unusable as provided in the Priority chart.
-        
-"Standard Request" means a Request made by Customer to Google that is
-          not a Service Unusable Request or Feature Request.
-        
-"Basic Support", "Standard Support" are defined above
-          in Section 5.
-        
-"Support Level" is a set of characteristics regarding the technical
-          support service that will be provided to Customer (i.e. available contact methods for
-          Requests; target initial response times).
-        
+              published technical guidelines for and documented correct usage of the Products and
+              Services, is unable to access or use the Products and Services for the majority of
+              its end users for a period of time greater than fifteen (15) minutes. Customer must
+              identify a Request as Service Unusable as provided in the Priority chart.
+              
+"Standard Request" means a Request made by Customer to Google
+              that is not a Service Unusable Request or Feature Request.
+              
+"Silver Support" is defined above in Section 5.
+              
+"Support Level" is a set of characteristics regarding the
+              technical support service that will be provided to Customer (i.e. available contact
+              methods for Requests; target initial response times).
+              
+Last updated: 2017-10-18
