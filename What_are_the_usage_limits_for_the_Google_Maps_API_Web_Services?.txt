@@ -177,8 +177,8 @@ Premium SupportCommunity SupportPremium Plan Terms of UsePreparation and Trouble
   
 This FAQ covers questions specific to
   Google Maps APIs Premium Plan.
-Please refer to the Google Maps APIs FAQ
-  for questions common to all Google Maps APIs.
+Please refer to the Google Maps Platform FAQ
+  for questions common to all Google Maps Platform.
 Getting started
 What is the Google Maps APIs Premium Plan?
 Which APIs are included in
@@ -215,9 +215,9 @@ Why are Places SDK Details
     requests charged 2 Maps APIs Credits while Place Autocomplete requests are
     charged only 0.1 credits?
 Developing your application
-Will I be issued both a Google API Console
+Will I be issued both a Google Cloud Platform Console
     project ID and a client ID?
-Will the Google API Console project I'm provided
+Will the Google Cloud Platform Console project I'm provided
     have all available APIs enabled?
 What are the differences between an API key
     and a client ID?
@@ -275,7 +275,7 @@ Directions API
 Distance Matrix API
 Time Zone API
 Roads API
-Places API for Web and
+Places API and
       the Places library of
       the Maps JavaScript API *
 Maps SDK for Android
@@ -322,7 +322,7 @@ For additional details, see the guide to
     page.
   What are the Terms of Service for the Google Maps APIs Premium Plan?
 If you are a Google Maps APIs Premium Plan customer, please refer to your
-    agreement for the terms that govern your use of the Google Maps APIs.
+    agreement for the terms that govern your use of the Google Maps Platform.
     For more information, see the
     Google Maps APIs Premium Plan
     terms of use.
@@ -349,10 +349,10 @@ You should purchase the Premium Plan if your
   business or organization requires any of the following:
 An SLA with 24-hour technical support
 Ability to sell a product or service with embedded Google Maps
-Ability to use Google Maps APIs for an internal application or website
+Ability to use Google Maps Platform for an internal application or website
   
 A specific amount of quota
- Ability to use Google Maps APIs for asset tracking applications
+ Ability to use Google Maps Platform for asset tracking applications
 Premium features available with your existing Maps APIs for Work
     license
   
@@ -362,7 +362,7 @@ Contact your Google sales representative for details on purchasing the
   an estimate of your application’s usage.
 Do I need a Google Account with the
   Google Maps APIs Premium Plan?
-Yes, you'll need a Google Account to access the Google Maps APIs available
+Yes, you'll need a Google Account to access the Google Maps Platform available
   on the 
 Google API Console.
 Usage limits
@@ -420,14 +420,14 @@ The Places SDK uses an extensive database of business and other
     that users often need to type several characters to find a place, so we are
     charging only a fractional credit for each request.
 Developing your application
-Will I be issued both a Google API Console project ID
+Will I be issued both a Google Cloud Platform Console project ID
   and a client ID?
-Yes, your welcome letter will include your Google API Console project ID
+Yes, your welcome letter will include your Google Cloud Platform Console project ID
   and your client ID. 
-Will the Google API Console project I'm provided have all
+Will the Google Cloud Platform Console project I'm provided have all
   available APIs enabled?
 Yes, with the Premium Plan, we automatically
-    provision all of our APIs for the same Google API Console project. You can
+    provision all of our APIs for the same Google Cloud Platform Console project. You can
     access all the APIs in one project. APIs on the same platform (Web, Web
     Services, Android, or iOS) can share the same API key. Your API keys provide
     real-time usage reports and historical usage data for up to 30 days. If you
@@ -439,7 +439,7 @@ Yes, with the Premium Plan, we automatically
     Maps SDK for iOS.)
 What are the differences between an API key and a client ID?
 With your project ID, you can generate API keys in
-  the Google API Console. Here are the
+  the Google Cloud Platform Console. Here are the
   primary differences between the use of API keys and your client ID:
 API support: You can use an API key with any Maps API. Alternatively, you
     can use your client ID with any API, except  the Places SDK,
@@ -472,7 +472,7 @@ If you use your client ID, make sure you keep your cryptographic key (which you 
         key.
 Do I need to use my Google Maps APIs Premium Plan credentials
     in my testing environment?
-All Google Maps APIs require authentication, with an API key or client ID. When developing
+All Google Maps Platform require authentication, with an API key or client ID. When developing
   your application in your test environment, consider the following:
 If you need access to technical support for your test environment, you must use a
       credential from your Premium Plan (client ID or API key). Note
@@ -480,7 +480,7 @@ If you need access to technical support for your test environment, you must use 
       usage rates and limits.
     If you do not want your testing environment to consume your plan's Maps APIs Credits,
       you may use standard credentials (an API key, set up in the
-      Google API Console)—however,
+      Google Cloud Platform Console)—however,
       in this case, your test environment will not be eligible for technical support.
       If you choose to use standard credentials, your app or website will be subject to the
       standard usage limits for each API. For more information on standard usage limits, see
@@ -583,7 +583,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated May 10, 2018.
+      Last updated June 4, 2018.
     
           
           
