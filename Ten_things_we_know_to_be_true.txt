@@ -9,33 +9,65 @@ Our latest | Google
                 Our products
               
       @media screen  {
+ .pane-img-c20d0af {
+          background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w1500-h350-l100-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+ .pane-img-c20d0af {
+            background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w3000-h700-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 600px) {
+ .pane-img-c20d0af {
+          background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w1024-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+ .pane-img-c20d0af {
+            background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w2048-l100-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+ .pane-img-c20d0af {
+          background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w1440-l100-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+ .pane-img-c20d0af {
+            background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w2880-l100-sg-rj);
+          }
+        }
+  
+How a veteran is building a more inclusive world with open source tech
+      @media screen  {
  .pane-img-234b769 {
-          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w1500-h350-l100-sg-rj);
+          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w600-h600-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
  .pane-img-234b769 {
-            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w3000-h700-l100-sg-rj);
+            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w1200-h1200-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
  .pane-img-234b769 {
-          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w1024-l100-sg-rj);
+          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w320-h180-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
  .pane-img-234b769 {
-            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w2048-l100-sg-rj);
+            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w640-h360-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
  .pane-img-234b769 {
-          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w1440-l100-sg-rj);
+          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w1480-h220-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
  .pane-img-234b769 {
-            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w2880-l100-sg-rj);
+            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w2960-h440-l100-sg-rj);
           }
         }
   
@@ -104,38 +136,6 @@ How a tribe is using old cell phones and machine learning to help stop deforesta
         }
   
 Searching for gender equality
-      @media screen  {
- .pane-img-a744d67 {
-          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w600-h600-l100-sg-rj);
-        }
-      }
-        @media screen  and (min-resolution: 192dpi) {
- .pane-img-a744d67 {
-            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1200-h1200-l100-sg-rj);
-          }
-        }
-      @media screen and (min-width: 600px) {
- .pane-img-a744d67 {
-          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w320-h180-l100-sg-rj);
-        }
-      }
-        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-a744d67 {
-            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w640-h360-l100-sg-rj);
-          }
-        }
-      @media screen and (min-width: 1024px) {
- .pane-img-a744d67 {
-          background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w1480-h220-l100-sg-rj);
-        }
-      }
-        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-a744d67 {
-            background-image: url(https://lh3.googleusercontent.com/rxf1ltZlJG3Nz3nQxBxVOOip8wTYZ8uGfYQLBbqwcR6YjWVR-mmEtxHyz-fakSDJlJxcBdDekHS4tuwmbu5QcFcMc214C_m7s77vkg=w2960-h440-l100-sg-rj);
-          }
-        }
-  
-A father uses YouTube to make his daughter a prosthetic eye
  
 See more stories
 Our values in action
