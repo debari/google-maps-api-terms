@@ -9,33 +9,33 @@ Our latest | Google
                 Our products
               
       @media screen  {
- .pane-img-c20d0af {
-          background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w1500-h350-l100-sg-rj);
+ .pane-img-e0b0dab {
+          background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w1500-h350-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
- .pane-img-c20d0af {
-            background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w3000-h700-l100-sg-rj);
+ .pane-img-e0b0dab {
+            background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w3000-h700-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
- .pane-img-c20d0af {
-          background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w1024-l100-sg-rj);
+ .pane-img-e0b0dab {
+          background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w1024-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-c20d0af {
-            background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w2048-l100-sg-rj);
+ .pane-img-e0b0dab {
+            background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w2048-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
- .pane-img-c20d0af {
-          background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w1440-l100-sg-rj);
+ .pane-img-e0b0dab {
+          background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w1440-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-c20d0af {
-            background-image: url(https://lh3.googleusercontent.com/z9AT6i90So9EWa3FLb6b2m8gI4pndAuP7XiO6FGUZocx1R1y7gyvXSjzRkndgeOhWvwwF5SrhkyC0xjuz3adOnG7Ju873DgYNRlr=w2880-l100-sg-rj);
+ .pane-img-e0b0dab {
+            background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w2880-l100-sg-rj);
           }
         }
   
@@ -73,33 +73,33 @@ How a veteran is building a more inclusive world with open source tech
   
 How a young music lover is using sound to understand his world
       @media screen  {
- .pane-img-0a2d724 {
-          background-image: url(https://lh3.googleusercontent.com/S-3r1sb6UXK-6hPfEomEVLv59DwV3HE0hw2dDgq6bjePpYmdvVjuk85JaSkKjy4sHVAPQHID_7IjvnUiqoOrQkWRWJjShbbWYtbE3w=w600-h600-l100-sg-rj);
+ .pane-img-f348123 {
+          background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w600-h600-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
- .pane-img-0a2d724 {
-            background-image: url(https://lh3.googleusercontent.com/S-3r1sb6UXK-6hPfEomEVLv59DwV3HE0hw2dDgq6bjePpYmdvVjuk85JaSkKjy4sHVAPQHID_7IjvnUiqoOrQkWRWJjShbbWYtbE3w=w1200-h1200-l100-sg-rj);
+ .pane-img-f348123 {
+            background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w1200-h1200-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
- .pane-img-0a2d724 {
-          background-image: url(https://lh3.googleusercontent.com/S-3r1sb6UXK-6hPfEomEVLv59DwV3HE0hw2dDgq6bjePpYmdvVjuk85JaSkKjy4sHVAPQHID_7IjvnUiqoOrQkWRWJjShbbWYtbE3w=w320-h180-l100-sg-rj);
+ .pane-img-f348123 {
+          background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w320-h180-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-0a2d724 {
-            background-image: url(https://lh3.googleusercontent.com/S-3r1sb6UXK-6hPfEomEVLv59DwV3HE0hw2dDgq6bjePpYmdvVjuk85JaSkKjy4sHVAPQHID_7IjvnUiqoOrQkWRWJjShbbWYtbE3w=w640-h360-l100-sg-rj);
+ .pane-img-f348123 {
+            background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w640-h360-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
- .pane-img-0a2d724 {
-          background-image: url(https://lh3.googleusercontent.com/S-3r1sb6UXK-6hPfEomEVLv59DwV3HE0hw2dDgq6bjePpYmdvVjuk85JaSkKjy4sHVAPQHID_7IjvnUiqoOrQkWRWJjShbbWYtbE3w=w1480-h220-l100-sg-rj);
+ .pane-img-f348123 {
+          background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w1480-h220-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-0a2d724 {
-            background-image: url(https://lh3.googleusercontent.com/S-3r1sb6UXK-6hPfEomEVLv59DwV3HE0hw2dDgq6bjePpYmdvVjuk85JaSkKjy4sHVAPQHID_7IjvnUiqoOrQkWRWJjShbbWYtbE3w=w2960-h440-l100-sg-rj);
+ .pane-img-f348123 {
+            background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w2960-h440-l100-sg-rj);
           }
         }
   
@@ -179,6 +179,44 @@ Sara recently received a Developer Scholarship from Google,
 and is pursuing her dream of becoming a web developer.
  
       @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-bd9fd9f {
+          background-image: url(https://lh3.googleusercontent.com/IvU6oQzVU7xg4XhCmYkrLhj-EKQNHdB2Drv3Be7rcnM89UfnH-7Ssfsk4L_jC6J-VWcf-3VyRzXOEy9Cu6oFKwjUSaGajKNsSMxj=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-bd9fd9f {
+          background-image: url(https://lh3.googleusercontent.com/IvU6oQzVU7xg4XhCmYkrLhj-EKQNHdB2Drv3Be7rcnM89UfnH-7Ssfsk4L_jC6J-VWcf-3VyRzXOEy9Cu6oFKwjUSaGajKNsSMxj=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-bd9fd9f {
+          background-image: url(https://lh3.googleusercontent.com/IvU6oQzVU7xg4XhCmYkrLhj-EKQNHdB2Drv3Be7rcnM89UfnH-7Ssfsk4L_jC6J-VWcf-3VyRzXOEy9Cu6oFKwjUSaGajKNsSMxj=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+New York Times: Using AI to host better conversations
+To moderate comments, New York Times uses Perspective, an API that uses machine learning to spot toxic language.
+ 
+      @media screen  {
+.carousel-values-in-action-visible .carousel-slide-inner-dd90d27 {
+          background-image: url(https://lh3.googleusercontent.com/s3hCf4l_FBEXhp5XrNTtA0Uyrkpc9cyT4SCY02nrUMIyiLrhr-IiGxoqf97g2E5fcLmMy5PxrhznWcfnb0g6XVuzNurN8d9T_9qO=w304-h304-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 600px) {
+.carousel-values-in-action-visible .carousel-slide-inner-dd90d27 {
+          background-image: url(https://lh3.googleusercontent.com/s3hCf4l_FBEXhp5XrNTtA0Uyrkpc9cyT4SCY02nrUMIyiLrhr-IiGxoqf97g2E5fcLmMy5PxrhznWcfnb0g6XVuzNurN8d9T_9qO=w487-h331-n-l80-sg-rj);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+.carousel-values-in-action-visible .carousel-slide-inner-dd90d27 {
+          background-image: url(https://lh3.googleusercontent.com/s3hCf4l_FBEXhp5XrNTtA0Uyrkpc9cyT4SCY02nrUMIyiLrhr-IiGxoqf97g2E5fcLmMy5PxrhznWcfnb0g6XVuzNurN8d9T_9qO=w742-h504-n-l80-sg-rj);
+        }
+      }
+  
+Recognizing Teachers
+We are enormously grateful for the hard work that teachers do every day to ignite curiosity in the next generation. See what we did to celebrate Teacher Appreciation Week this year.
+ 
+      @media screen  {
 .carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
           background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj);
         }
@@ -215,44 +253,6 @@ We recently announced $1 billion in grants, 1 million volunteer hours, and new t
   
 Introducing Grow with Google: Free training, tools, and events to grow your skills
 Grow with Google aims to help everyone access the best of Googleâs training and tools to grow their skills, careers, and businesses.
- 
-      @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-bef697c {
-          background-image: url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w304-h304-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-bef697c {
-          background-image: url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w487-h331-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-bef697c {
-          background-image: url(https://lh3.googleusercontent.com/nYKWBeS2SVGnonTt4M8u_O53IErEBw3INnfvMyufzo0hzOoUsaV_5fXrFC3cZqnSJhqdyYSZX02v-BlIuC_-0hu4dwKK90D1Rf5WYw=w742-h504-n-l80-sg-rj);
-        }
-      }
-  
-Taking a data-based look at Americaâs history of lynching
-Lynching in America is an interactive experience from the Equal Justice Initiative, created with support from Google, that surfaces Americaâs history of racial terror.
- 
-      @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-b62ecfb {
-          background-image: url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w304-h304-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-b62ecfb {
-          background-image: url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w487-h331-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-b62ecfb {
-          background-image: url(https://lh3.googleusercontent.com/ThoZAdCKI_I2L2npv8QwM020TpsxAXqj-MYsKC8gORXmUF0LrR2Us2t5D0r7IcMgT4V02wWFEOfvqO5fNKGmtBqZ406WArxfeAXU9Q=w742-h504-n-l80-sg-rj);
-        }
-      }
-  
-Libraries across the U.S. are Ready to Code
-We partnered with the American Library Association to create Ready to Code, which equips librarians to offer coding programs to kids in their communities.
  
  
 What the world is searching for now
