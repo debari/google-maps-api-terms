@@ -9,58 +9,58 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
     
     
     
-        Overview
-      
-        Products
-      
-        Pricing
-      
-        Documentation
-      
-                        Maps
-                      
-                        Maps SDK for Android
-                      
-                        Maps SDK for iOS
-                      
-                        Maps Static API
-                      
-                        Maps JavaScript API
-                      
-                        Street View API
-                      
-                        Maps URLs
-                      
-                        Maps Embed API
-                      
-                        Routes
-                      
-                        Directions API
-                      
-                        Distance Matrix API
-                      
-                        Roads API
-                      
-                        Places
-                      
-                        Places API
-                      
-                        Places SDK for Android
-                      
-                        Places SDK for iOS
-                      
-                        Places Library, Maps JavaScript API
-                      
-                        Geocoding API
-                      
-                        Geolocation API
-                      
-                        Time Zone API
-                      
-                        Google Maps APIs Premium Plan
-                      
-                        Documentation
-                      All Products
+          Overview
+        
+          Products
+        
+          Pricing
+        
+          Documentation
+        
+                          Maps
+                        
+                          Maps SDK for Android
+                        
+                          Maps SDK for iOS
+                        
+                          Maps Static API
+                        
+                          Maps JavaScript API
+                        
+                          Street View API
+                        
+                          Maps URLs
+                        
+                          Maps Embed API
+                        
+                          Routes
+                        
+                          Directions API
+                        
+                          Distance Matrix API
+                        
+                          Roads API
+                        
+                          Places
+                        
+                          Places API
+                        
+                          Places SDK for Android
+                        
+                          Places SDK for iOS
+                        
+                          Places Library, Maps JavaScript API
+                        
+                          Geocoding API
+                        
+                          Geolocation API
+                        
+                          Time Zone API
+                        
+                          Google Maps APIs Premium Plan
+                        
+                          Documentation
+                        All Products
   
   Sign in
     
@@ -69,31 +69,31 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
     
     
     
-        Overview
-      
-        Guides
-      
-        Support
-      
-        Previous Licenses
-      
-        Overview
-      
-        Products
-      
-        Pricing
-      
-        Documentation
-      
+          Overview
+        
+          Guides
+        
+          Support
+        
+          Previous Licenses
+        
+          Overview
+        
+          Products
+        
+          Pricing
+        
+          Documentation
+        
 Index
-        Overview
-      
-        Guides
-      
-        Support
-      
-        Previous Licenses
-      
+          Overview
+        
+          Guides
+        
+          Support
+        
+          Previous Licenses
+        
         All Products
       
         All Products
