@@ -264,6 +264,7 @@ Today in Doodle history
 {[::doodleCtrl.doodleHistory[0].localizedDate]}
 {[::doodleCtrl.doodleHistory[0].title]}
         Discover more Google Doodles   
+ 
       Back to top   
 Follow us on:
 More about us
