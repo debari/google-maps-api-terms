@@ -1,269 +1,262 @@
 
 Our latest | Google
-                Our latest
-              
-                Our company
-              
-                Our commitments
+                About
               
                 Our products
               
+                Our commitments
+              
+                Our stories
+              
+Our mission is to organize the worldâs information and make it universally accessible and useful.
+Company news
+{[feed.network === newsFeedCtrl.network.GOOGLE_PLUS ? '+' : '@']}{[::feed.account | stripSpaces]}
+{[feed.account]}
+{[feed.network === newsFeedCtrl.network.GOOGLE_PLUS ? '+' : '@']}{[::feed.account|stripSpaces]}
+{[::feed.published_at|date:'mediumDate']}
+ 
       @media screen  {
- .pane-img-e0b0dab {
-          background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w1500-h350-l100-sg-rj);
+.main-visible .hero-single-ff0bc14 {
+          background-image: url(https://lh3.googleusercontent.com/Jp2xO1NxkfI7QGuKriGGIjlDO8YPFxXtA4nk8x5XDg994GayWgBNwTJU97AYkYvBXLlA6mGIWOkgOQlOlE_mEDkm-1bgUw3mwPyYgl4=w600-h350-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
- .pane-img-e0b0dab {
-            background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w3000-h700-l100-sg-rj);
+.main-visible .hero-single-ff0bc14 {
+            background-image: url(https://lh3.googleusercontent.com/Jp2xO1NxkfI7QGuKriGGIjlDO8YPFxXtA4nk8x5XDg994GayWgBNwTJU97AYkYvBXLlA6mGIWOkgOQlOlE_mEDkm-1bgUw3mwPyYgl4=w1200-h700-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
- .pane-img-e0b0dab {
-          background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w1024-l100-sg-rj);
+.main-visible .hero-single-ff0bc14 {
+          background-image: url(https://lh3.googleusercontent.com/Jp2xO1NxkfI7QGuKriGGIjlDO8YPFxXtA4nk8x5XDg994GayWgBNwTJU97AYkYvBXLlA6mGIWOkgOQlOlE_mEDkm-1bgUw3mwPyYgl4=w1080-h378-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-e0b0dab {
-            background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w2048-l100-sg-rj);
+.main-visible .hero-single-ff0bc14 {
+            background-image: url(https://lh3.googleusercontent.com/Jp2xO1NxkfI7QGuKriGGIjlDO8YPFxXtA4nk8x5XDg994GayWgBNwTJU97AYkYvBXLlA6mGIWOkgOQlOlE_mEDkm-1bgUw3mwPyYgl4=w2160-h756-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
- .pane-img-e0b0dab {
-          background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w1440-l100-sg-rj);
+.main-visible .hero-single-ff0bc14 {
+          background-image: url(https://lh3.googleusercontent.com/Jp2xO1NxkfI7QGuKriGGIjlDO8YPFxXtA4nk8x5XDg994GayWgBNwTJU97AYkYvBXLlA6mGIWOkgOQlOlE_mEDkm-1bgUw3mwPyYgl4=w1440-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-e0b0dab {
-            background-image: url(https://lh3.googleusercontent.com/TG-ZPUZzFjkP9LawDud5U5mwcTQQYEtv5RMKlD10097gD7PVoDvc4_CE6EedJg5ezo5CMnTb7-Wowgei9s-lZ2NDYvuTyKZowewy=w2880-l100-sg-rj);
+.main-visible .hero-single-ff0bc14 {
+            background-image: url(https://lh3.googleusercontent.com/Jp2xO1NxkfI7QGuKriGGIjlDO8YPFxXtA4nk8x5XDg994GayWgBNwTJU97AYkYvBXLlA6mGIWOkgOQlOlE_mEDkm-1bgUw3mwPyYgl4=w2880-l100-sg-rj);
           }
         }
   
-How a veteran is building a more inclusive world with open source tech
+Our Products
+Hi, how can we help?
+See what we build
       @media screen  {
- .pane-img-234b769 {
-          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w600-h600-l100-sg-rj);
+.main-visible .hero-single-479f2bf {
+          background-image: url(https://lh3.googleusercontent.com/JJUoP5F05UKCKErhRqI7RcIgULnCPqsfGH0gBBqDKIW-CLG9i4tQ8OCgfcPPzJuJVgLz6v6McmTJbNMKdBxR9TymtQUWOHm8RtNfsvc=w600-h350-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
- .pane-img-234b769 {
-            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w1200-h1200-l100-sg-rj);
+.main-visible .hero-single-479f2bf {
+            background-image: url(https://lh3.googleusercontent.com/JJUoP5F05UKCKErhRqI7RcIgULnCPqsfGH0gBBqDKIW-CLG9i4tQ8OCgfcPPzJuJVgLz6v6McmTJbNMKdBxR9TymtQUWOHm8RtNfsvc=w1200-h700-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
- .pane-img-234b769 {
-          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w320-h180-l100-sg-rj);
+.main-visible .hero-single-479f2bf {
+          background-image: url(https://lh3.googleusercontent.com/JJUoP5F05UKCKErhRqI7RcIgULnCPqsfGH0gBBqDKIW-CLG9i4tQ8OCgfcPPzJuJVgLz6v6McmTJbNMKdBxR9TymtQUWOHm8RtNfsvc=w1080-h378-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-234b769 {
-            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w640-h360-l100-sg-rj);
+.main-visible .hero-single-479f2bf {
+            background-image: url(https://lh3.googleusercontent.com/JJUoP5F05UKCKErhRqI7RcIgULnCPqsfGH0gBBqDKIW-CLG9i4tQ8OCgfcPPzJuJVgLz6v6McmTJbNMKdBxR9TymtQUWOHm8RtNfsvc=w2160-h756-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
- .pane-img-234b769 {
-          background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w1480-h220-l100-sg-rj);
+.main-visible .hero-single-479f2bf {
+          background-image: url(https://lh3.googleusercontent.com/JJUoP5F05UKCKErhRqI7RcIgULnCPqsfGH0gBBqDKIW-CLG9i4tQ8OCgfcPPzJuJVgLz6v6McmTJbNMKdBxR9TymtQUWOHm8RtNfsvc=w1440-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-234b769 {
-            background-image: url(https://lh3.googleusercontent.com/hRtjrr_HrYy6e0abh5zt4hXZv4iZfS3F2EKChgsaCnGuWHqC7cNgApygZfYA48vBJiqPkOmYPN6kiv_GXZT-hIWdhD0xzDPjbuiIj6U=w2960-h440-l100-sg-rj);
+.main-visible .hero-single-479f2bf {
+            background-image: url(https://lh3.googleusercontent.com/JJUoP5F05UKCKErhRqI7RcIgULnCPqsfGH0gBBqDKIW-CLG9i4tQ8OCgfcPPzJuJVgLz6v6McmTJbNMKdBxR9TymtQUWOHm8RtNfsvc=w2880-l100-sg-rj);
           }
         }
   
-How a young music lover is using sound to understand his world
+Our Commitments
+We are dedicated to creating opportunity for everyone
+How we contribute
       @media screen  {
- .pane-img-f348123 {
-          background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w600-h600-l100-sg-rj);
+.main-visible .hero-single-674a87f {
+          background-image: url(https://lh3.googleusercontent.com/uhgyZHPAqDaAY4yoPgcL3cSqbUrXEnx9qcfDk-pTbIr98AV2HjAki3hcmbp_s1CYSo-0dE6PqXVmcnKooloUWpU3mC_B2Wkjfkng=w600-h350-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
- .pane-img-f348123 {
-            background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w1200-h1200-l100-sg-rj);
+.main-visible .hero-single-674a87f {
+            background-image: url(https://lh3.googleusercontent.com/uhgyZHPAqDaAY4yoPgcL3cSqbUrXEnx9qcfDk-pTbIr98AV2HjAki3hcmbp_s1CYSo-0dE6PqXVmcnKooloUWpU3mC_B2Wkjfkng=w1200-h700-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
- .pane-img-f348123 {
-          background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w320-h180-l100-sg-rj);
+.main-visible .hero-single-674a87f {
+          background-image: url(https://lh3.googleusercontent.com/uhgyZHPAqDaAY4yoPgcL3cSqbUrXEnx9qcfDk-pTbIr98AV2HjAki3hcmbp_s1CYSo-0dE6PqXVmcnKooloUWpU3mC_B2Wkjfkng=w1080-h378-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-f348123 {
-            background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w640-h360-l100-sg-rj);
+.main-visible .hero-single-674a87f {
+            background-image: url(https://lh3.googleusercontent.com/uhgyZHPAqDaAY4yoPgcL3cSqbUrXEnx9qcfDk-pTbIr98AV2HjAki3hcmbp_s1CYSo-0dE6PqXVmcnKooloUWpU3mC_B2Wkjfkng=w2160-h756-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
- .pane-img-f348123 {
-          background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w1480-h220-l100-sg-rj);
+.main-visible .hero-single-674a87f {
+          background-image: url(https://lh3.googleusercontent.com/uhgyZHPAqDaAY4yoPgcL3cSqbUrXEnx9qcfDk-pTbIr98AV2HjAki3hcmbp_s1CYSo-0dE6PqXVmcnKooloUWpU3mC_B2Wkjfkng=w1440-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-f348123 {
-            background-image: url(https://lh3.googleusercontent.com/eApQK8F-k-5udEQRcHdmRfwGsPaIfSAA2AEcrzDeqdMH3U806yFiAWUCkIuBHM67dc04fhFwbmY8OfQtreXljYDvdkuB9WkcMaZ4iA=w2960-h440-l100-sg-rj);
+.main-visible .hero-single-674a87f {
+            background-image: url(https://lh3.googleusercontent.com/uhgyZHPAqDaAY4yoPgcL3cSqbUrXEnx9qcfDk-pTbIr98AV2HjAki3hcmbp_s1CYSo-0dE6PqXVmcnKooloUWpU3mC_B2Wkjfkng=w2880-l100-sg-rj);
           }
         }
   
-How a tribe is using old cell phones and machine learning to help stop deforestation
+Our Stories
+The best part about technology is seeing what the world does with it
+Explore our stories
       @media screen  {
- .pane-img-0a4486d {
-          background-image: url(https://lh3.googleusercontent.com/eLMNzyIrDqx5o1zAcehCeIEIKhmcLCEYMZa1dP7q0BzaG2ItopDyytTxqMq46EDV_FdTkIanR_m96K_mle-GzCDh84Z7Z4w6ZLUbFbM=w600-h600-l100-sg-rj);
+.main-visible .hero-single-a644d00 {
+          background-image: url(https://lh3.googleusercontent.com/AmOJz6Mxv9pCihuMeV6w4vC3s_8qS3qzpKMoWcqQIisf4Ms_BEWbH8Dtgw2B8XMmQ-YfpZeyyI7WkqRB_kIOGR_AGwWI9CNlatpM=w600-h350-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
- .pane-img-0a4486d {
-            background-image: url(https://lh3.googleusercontent.com/eLMNzyIrDqx5o1zAcehCeIEIKhmcLCEYMZa1dP7q0BzaG2ItopDyytTxqMq46EDV_FdTkIanR_m96K_mle-GzCDh84Z7Z4w6ZLUbFbM=w1200-h1200-l100-sg-rj);
+.main-visible .hero-single-a644d00 {
+            background-image: url(https://lh3.googleusercontent.com/AmOJz6Mxv9pCihuMeV6w4vC3s_8qS3qzpKMoWcqQIisf4Ms_BEWbH8Dtgw2B8XMmQ-YfpZeyyI7WkqRB_kIOGR_AGwWI9CNlatpM=w1200-h700-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
- .pane-img-0a4486d {
-          background-image: url(https://lh3.googleusercontent.com/eLMNzyIrDqx5o1zAcehCeIEIKhmcLCEYMZa1dP7q0BzaG2ItopDyytTxqMq46EDV_FdTkIanR_m96K_mle-GzCDh84Z7Z4w6ZLUbFbM=w320-h180-l100-sg-rj);
+.main-visible .hero-single-a644d00 {
+          background-image: url(https://lh3.googleusercontent.com/AmOJz6Mxv9pCihuMeV6w4vC3s_8qS3qzpKMoWcqQIisf4Ms_BEWbH8Dtgw2B8XMmQ-YfpZeyyI7WkqRB_kIOGR_AGwWI9CNlatpM=w1080-h378-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
- .pane-img-0a4486d {
-            background-image: url(https://lh3.googleusercontent.com/eLMNzyIrDqx5o1zAcehCeIEIKhmcLCEYMZa1dP7q0BzaG2ItopDyytTxqMq46EDV_FdTkIanR_m96K_mle-GzCDh84Z7Z4w6ZLUbFbM=w640-h360-l100-sg-rj);
+.main-visible .hero-single-a644d00 {
+            background-image: url(https://lh3.googleusercontent.com/AmOJz6Mxv9pCihuMeV6w4vC3s_8qS3qzpKMoWcqQIisf4Ms_BEWbH8Dtgw2B8XMmQ-YfpZeyyI7WkqRB_kIOGR_AGwWI9CNlatpM=w2160-h756-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
- .pane-img-0a4486d {
-          background-image: url(https://lh3.googleusercontent.com/eLMNzyIrDqx5o1zAcehCeIEIKhmcLCEYMZa1dP7q0BzaG2ItopDyytTxqMq46EDV_FdTkIanR_m96K_mle-GzCDh84Z7Z4w6ZLUbFbM=w1480-h220-l100-sg-rj);
+.main-visible .hero-single-a644d00 {
+          background-image: url(https://lh3.googleusercontent.com/AmOJz6Mxv9pCihuMeV6w4vC3s_8qS3qzpKMoWcqQIisf4Ms_BEWbH8Dtgw2B8XMmQ-YfpZeyyI7WkqRB_kIOGR_AGwWI9CNlatpM=w1440-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
- .pane-img-0a4486d {
-            background-image: url(https://lh3.googleusercontent.com/eLMNzyIrDqx5o1zAcehCeIEIKhmcLCEYMZa1dP7q0BzaG2ItopDyytTxqMq46EDV_FdTkIanR_m96K_mle-GzCDh84Z7Z4w6ZLUbFbM=w2960-h440-l100-sg-rj);
+.main-visible .hero-single-a644d00 {
+            background-image: url(https://lh3.googleusercontent.com/AmOJz6Mxv9pCihuMeV6w4vC3s_8qS3qzpKMoWcqQIisf4Ms_BEWbH8Dtgw2B8XMmQ-YfpZeyyI7WkqRB_kIOGR_AGwWI9CNlatpM=w2880-l100-sg-rj);
           }
         }
   
-Searching for gender equality
- 
-See more stories
-Our values in action
+Careers at Google
+Join us
       @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-4f5d286 {
-          background-image: url(https://lh3.googleusercontent.com/NmWwrdxYnFOoC83Oh3EwB2zReSwyvKJepTDMs_D_Al3Ve6EVluGnjfu9-0IguYqR3uAUa_KqjdYxJJNCRtEqzkmD4Nue1H-DbjjjeQ=w304-h304-n-l80-sg-rj);
+.main-visible .hero-single-bec02a9 {
+          background-image: url(https://lh3.googleusercontent.com/V-kIlZqqICN3uzpQevNCmXY_lo0zz3aHUWKajzNgAqIe0fXkoBUOklgE9SZGjzEOn1zUqhbOZdMBzBd-XiCqAbMgal2YYoqiF7utTw=w600-h350-l100-sg-rj);
         }
       }
+        @media screen  and (min-resolution: 192dpi) {
+.main-visible .hero-single-bec02a9 {
+            background-image: url(https://lh3.googleusercontent.com/V-kIlZqqICN3uzpQevNCmXY_lo0zz3aHUWKajzNgAqIe0fXkoBUOklgE9SZGjzEOn1zUqhbOZdMBzBd-XiCqAbMgal2YYoqiF7utTw=w1200-h700-l100-sg-rj);
+          }
+        }
       @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-4f5d286 {
-          background-image: url(https://lh3.googleusercontent.com/NmWwrdxYnFOoC83Oh3EwB2zReSwyvKJepTDMs_D_Al3Ve6EVluGnjfu9-0IguYqR3uAUa_KqjdYxJJNCRtEqzkmD4Nue1H-DbjjjeQ=w487-h331-n-l80-sg-rj);
+.main-visible .hero-single-bec02a9 {
+          background-image: url(https://lh3.googleusercontent.com/V-kIlZqqICN3uzpQevNCmXY_lo0zz3aHUWKajzNgAqIe0fXkoBUOklgE9SZGjzEOn1zUqhbOZdMBzBd-XiCqAbMgal2YYoqiF7utTw=w1080-h378-l100-sg-rj);
         }
       }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-bec02a9 {
+            background-image: url(https://lh3.googleusercontent.com/V-kIlZqqICN3uzpQevNCmXY_lo0zz3aHUWKajzNgAqIe0fXkoBUOklgE9SZGjzEOn1zUqhbOZdMBzBd-XiCqAbMgal2YYoqiF7utTw=w2160-h756-l100-sg-rj);
+          }
+        }
       @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-4f5d286 {
-          background-image: url(https://lh3.googleusercontent.com/NmWwrdxYnFOoC83Oh3EwB2zReSwyvKJepTDMs_D_Al3Ve6EVluGnjfu9-0IguYqR3uAUa_KqjdYxJJNCRtEqzkmD4Nue1H-DbjjjeQ=w742-h504-n-l80-sg-rj);
+.main-visible .hero-single-bec02a9 {
+          background-image: url(https://lh3.googleusercontent.com/V-kIlZqqICN3uzpQevNCmXY_lo0zz3aHUWKajzNgAqIe0fXkoBUOklgE9SZGjzEOn1zUqhbOZdMBzBd-XiCqAbMgal2YYoqiF7utTw=w1440-l100-sg-rj);
         }
       }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-bec02a9 {
+            background-image: url(https://lh3.googleusercontent.com/V-kIlZqqICN3uzpQevNCmXY_lo0zz3aHUWKajzNgAqIe0fXkoBUOklgE9SZGjzEOn1zUqhbOZdMBzBd-XiCqAbMgal2YYoqiF7utTw=w2880-l100-sg-rj);
+          }
+        }
   
-Supporting Digital Wellbeing
-See how Google is creating tools and features to help everyone find a balance with technology thatâs right for them.
- 
+Google locations
+Find us
       @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-14a2de1 {
-          background-image: url(https://lh3.googleusercontent.com/F1bLEqB27w7WuvCsZKuY39XwrLdr0GrUAjMvNeP2MlOCXEBkFMEJmKSEC583np17ibogLYPnWbqGBE3vwLDCW6_gsPUjbq257iII=w304-h304-n-l80-sg-rj);
+.main-visible .hero-single-1aa8a13 {
+          background-image: url(https://lh3.googleusercontent.com/ho247qiiUAqmTqAWIUb7SyvwHWS7NjJbhg97CjgNugW-gELjlrP0EZ1fK98s2iDRzcEbnssuDV0PuBQW95REk8NYpy0EGgYMYMQL=w600-h350-l100-sg-rj);
         }
       }
+        @media screen  and (min-resolution: 192dpi) {
+.main-visible .hero-single-1aa8a13 {
+            background-image: url(https://lh3.googleusercontent.com/ho247qiiUAqmTqAWIUb7SyvwHWS7NjJbhg97CjgNugW-gELjlrP0EZ1fK98s2iDRzcEbnssuDV0PuBQW95REk8NYpy0EGgYMYMQL=w1200-h700-l100-sg-rj);
+          }
+        }
       @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-14a2de1 {
-          background-image: url(https://lh3.googleusercontent.com/F1bLEqB27w7WuvCsZKuY39XwrLdr0GrUAjMvNeP2MlOCXEBkFMEJmKSEC583np17ibogLYPnWbqGBE3vwLDCW6_gsPUjbq257iII=w487-h331-n-l80-sg-rj);
+.main-visible .hero-single-1aa8a13 {
+          background-image: url(https://lh3.googleusercontent.com/ho247qiiUAqmTqAWIUb7SyvwHWS7NjJbhg97CjgNugW-gELjlrP0EZ1fK98s2iDRzcEbnssuDV0PuBQW95REk8NYpy0EGgYMYMQL=w1080-h378-l100-sg-rj);
         }
       }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-1aa8a13 {
+            background-image: url(https://lh3.googleusercontent.com/ho247qiiUAqmTqAWIUb7SyvwHWS7NjJbhg97CjgNugW-gELjlrP0EZ1fK98s2iDRzcEbnssuDV0PuBQW95REk8NYpy0EGgYMYMQL=w2160-h756-l100-sg-rj);
+          }
+        }
       @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-14a2de1 {
-          background-image: url(https://lh3.googleusercontent.com/F1bLEqB27w7WuvCsZKuY39XwrLdr0GrUAjMvNeP2MlOCXEBkFMEJmKSEC583np17ibogLYPnWbqGBE3vwLDCW6_gsPUjbq257iII=w742-h504-n-l80-sg-rj);
+.main-visible .hero-single-1aa8a13 {
+          background-image: url(https://lh3.googleusercontent.com/ho247qiiUAqmTqAWIUb7SyvwHWS7NjJbhg97CjgNugW-gELjlrP0EZ1fK98s2iDRzcEbnssuDV0PuBQW95REk8NYpy0EGgYMYMQL=w1440-l100-sg-rj);
         }
       }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-1aa8a13 {
+            background-image: url(https://lh3.googleusercontent.com/ho247qiiUAqmTqAWIUb7SyvwHWS7NjJbhg97CjgNugW-gELjlrP0EZ1fK98s2iDRzcEbnssuDV0PuBQW95REk8NYpy0EGgYMYMQL=w2880-l100-sg-rj);
+          }
+        }
   
-Sara Blevins: Learning to code
-Sara recently received a Developer Scholarship from Google, 
-and is pursuing her dream of becoming a web developer.
- 
+From the garage to the Googleplex
+Our history
       @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-bd9fd9f {
-          background-image: url(https://lh3.googleusercontent.com/IvU6oQzVU7xg4XhCmYkrLhj-EKQNHdB2Drv3Be7rcnM89UfnH-7Ssfsk4L_jC6J-VWcf-3VyRzXOEy9Cu6oFKwjUSaGajKNsSMxj=w304-h304-n-l80-sg-rj);
+.main-visible .hero-single-15ad2bb {
+          background-image: url(https://lh3.googleusercontent.com/9uvOTQoul3NKPv4dAP_uTrm8h8tN40U6h9valNA4HUIjy689a5HQGnrLDFY3eQnQ5sTHzsdZlL6WZs-BooJpRKCBqdCJODigxIQe=w600-h350-l100-sg-rj);
         }
       }
+        @media screen  and (min-resolution: 192dpi) {
+.main-visible .hero-single-15ad2bb {
+            background-image: url(https://lh3.googleusercontent.com/9uvOTQoul3NKPv4dAP_uTrm8h8tN40U6h9valNA4HUIjy689a5HQGnrLDFY3eQnQ5sTHzsdZlL6WZs-BooJpRKCBqdCJODigxIQe=w1200-h700-l100-sg-rj);
+          }
+        }
       @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-bd9fd9f {
-          background-image: url(https://lh3.googleusercontent.com/IvU6oQzVU7xg4XhCmYkrLhj-EKQNHdB2Drv3Be7rcnM89UfnH-7Ssfsk4L_jC6J-VWcf-3VyRzXOEy9Cu6oFKwjUSaGajKNsSMxj=w487-h331-n-l80-sg-rj);
+.main-visible .hero-single-15ad2bb {
+          background-image: url(https://lh3.googleusercontent.com/9uvOTQoul3NKPv4dAP_uTrm8h8tN40U6h9valNA4HUIjy689a5HQGnrLDFY3eQnQ5sTHzsdZlL6WZs-BooJpRKCBqdCJODigxIQe=w1080-h378-l100-sg-rj);
         }
       }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-15ad2bb {
+            background-image: url(https://lh3.googleusercontent.com/9uvOTQoul3NKPv4dAP_uTrm8h8tN40U6h9valNA4HUIjy689a5HQGnrLDFY3eQnQ5sTHzsdZlL6WZs-BooJpRKCBqdCJODigxIQe=w2160-h756-l100-sg-rj);
+          }
+        }
       @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-bd9fd9f {
-          background-image: url(https://lh3.googleusercontent.com/IvU6oQzVU7xg4XhCmYkrLhj-EKQNHdB2Drv3Be7rcnM89UfnH-7Ssfsk4L_jC6J-VWcf-3VyRzXOEy9Cu6oFKwjUSaGajKNsSMxj=w742-h504-n-l80-sg-rj);
+.main-visible .hero-single-15ad2bb {
+          background-image: url(https://lh3.googleusercontent.com/9uvOTQoul3NKPv4dAP_uTrm8h8tN40U6h9valNA4HUIjy689a5HQGnrLDFY3eQnQ5sTHzsdZlL6WZs-BooJpRKCBqdCJODigxIQe=w1440-l100-sg-rj);
         }
       }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-15ad2bb {
+            background-image: url(https://lh3.googleusercontent.com/9uvOTQoul3NKPv4dAP_uTrm8h8tN40U6h9valNA4HUIjy689a5HQGnrLDFY3eQnQ5sTHzsdZlL6WZs-BooJpRKCBqdCJODigxIQe=w2880-l100-sg-rj);
+          }
+        }
   
-New York Times: Using AI to host better conversations
-To moderate comments, New York Times uses Perspective, an API that uses machine learning to spot toxic language.
- 
-      @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-dd90d27 {
-          background-image: url(https://lh3.googleusercontent.com/s3hCf4l_FBEXhp5XrNTtA0Uyrkpc9cyT4SCY02nrUMIyiLrhr-IiGxoqf97g2E5fcLmMy5PxrhznWcfnb0g6XVuzNurN8d9T_9qO=w304-h304-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-dd90d27 {
-          background-image: url(https://lh3.googleusercontent.com/s3hCf4l_FBEXhp5XrNTtA0Uyrkpc9cyT4SCY02nrUMIyiLrhr-IiGxoqf97g2E5fcLmMy5PxrhznWcfnb0g6XVuzNurN8d9T_9qO=w487-h331-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-dd90d27 {
-          background-image: url(https://lh3.googleusercontent.com/s3hCf4l_FBEXhp5XrNTtA0Uyrkpc9cyT4SCY02nrUMIyiLrhr-IiGxoqf97g2E5fcLmMy5PxrhznWcfnb0g6XVuzNurN8d9T_9qO=w742-h504-n-l80-sg-rj);
-        }
-      }
-  
-Recognizing Teachers
-We are enormously grateful for the hard work that teachers do every day to ignite curiosity in the next generation. See what we did to celebrate Teacher Appreciation Week this year.
- 
-      @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
-          background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w304-h304-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
-          background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w487-h331-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-bba9faf {
-          background-image: url(https://lh3.googleusercontent.com/pBUYH87Qs6XC_MmA8jXtxK35dFpkLquJA9tFh2lFPRWIwcJOosRQKybRXEQRsRRdlJz9lp3_klF36_SyMY6GGinAUAuIjxy3hE0o=w742-h504-n-l80-sg-rj);
-        }
-      }
-  
-Learn about our commitment to creating more opportunity for everyone
-We recently announced $1 billion in grants, 1 million volunteer hours, and new training programs to expand opportunity for everyone.
- 
-      @media screen  {
-.carousel-values-in-action-visible .carousel-slide-inner-8b84c94 {
-          background-image: url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w304-h304-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 600px) {
-.carousel-values-in-action-visible .carousel-slide-inner-8b84c94 {
-          background-image: url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w487-h331-n-l80-sg-rj);
-        }
-      }
-      @media screen and (min-width: 1024px) {
-.carousel-values-in-action-visible .carousel-slide-inner-8b84c94 {
-          background-image: url(https://lh3.googleusercontent.com/iT5nTUjtrqk-N7HxV_8TuVT4z7aG_8yxhARyl8JYoS_F4nuG26PWOZnlYTfHDGRFg10HwOO8Ns3udxOHrgjtT_oM9HTGuWuZ1VAo=w742-h504-n-l80-sg-rj);
-        }
-      }
-  
-Introducing Grow with Google: Free training, tools, and events to grow your skills
-Grow with Google aims to help everyone access the best of Googleâs training and tools to grow their skills, careers, and businesses.
- 
- 
-What the world is searching for now
-        Discover more Google Trends   
-Today in Doodle history
+An âownerâs manualâ for shareholders
+Our foundersâ letter
+Todayâs Doodle
 {[::doodle.localizedDate]}
 {[::doodle.title]}
  
 {[::doodleCtrl.doodleHistory[0].localizedDate]}
 {[::doodleCtrl.doodleHistory[0].title]}
-        Discover more Google Doodles   
+        Discover more Google Doodles
+      
  
       Back to top   
 Follow us on:
@@ -312,7 +305,7 @@ Google.org
   
 Environment
   
-Crisis response
+Crisis Response
   
 Diversity & Inclusion
   
