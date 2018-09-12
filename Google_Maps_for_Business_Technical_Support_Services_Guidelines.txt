@@ -267,7 +267,7 @@ Hours of Operation are subject to change as provided in this TSSG.
               
 "Priority" means the level of impact a Request is having on
               Customerâs operations and is used to establish target response times. Priority level
-              definitions are documented here: https://support.google.com/work/answer/184028?hl=en.
+              definitions are documented here: https://support.google.com/googlecloud/answer/184028.
               
 "Request" means a request from a Customer Contact to Google
               technical support service personnel for technical support services to address a
@@ -288,4 +288,4 @@ Hours of Operation are subject to change as provided in this TSSG.
               technical support service that will be provided to Customer (i.e. available contact
               methods for Requests; target initial response times).
               
-Last updated: 2017-10-18
+Last updated: 2018-09-12
