@@ -10,39 +10,39 @@ Our latest | Google
               
 Our mission is to organize the worldâs information and make it universally accessible and useful.
       @media screen  {
-.main-visible .hero-single-f508abc {
-          background-image: url(https://lh3.googleusercontent.com/M1zKy_sAij8NmqsBht1S88g6hFwYRZOskV19nVMh_qxHWi8OuafZiwlFpnuE48VuTQttbgTsoM-H9scpeydNNtGjjDkyjgdXEXI_=w600-h350-l100-sg-rj);
+.main-visible .hero-single-4b78263 {
+          background-image: url(https://lh3.googleusercontent.com/PumP3ggSngYlt1l_kUykOxZ3pPqyXphCOJa3Ce1Df7QJ4sPZK1m1BYOOnxRUJfAlY3My6KqG96p9j_iLn8mPaAlmlgAhk3_6w0vRTw=w600-h350-l100-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
-.main-visible .hero-single-f508abc {
-            background-image: url(https://lh3.googleusercontent.com/M1zKy_sAij8NmqsBht1S88g6hFwYRZOskV19nVMh_qxHWi8OuafZiwlFpnuE48VuTQttbgTsoM-H9scpeydNNtGjjDkyjgdXEXI_=w1200-h700-l100-sg-rj);
+.main-visible .hero-single-4b78263 {
+            background-image: url(https://lh3.googleusercontent.com/PumP3ggSngYlt1l_kUykOxZ3pPqyXphCOJa3Ce1Df7QJ4sPZK1m1BYOOnxRUJfAlY3My6KqG96p9j_iLn8mPaAlmlgAhk3_6w0vRTw=w1200-h700-l100-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
-.main-visible .hero-single-f508abc {
-          background-image: url(https://lh3.googleusercontent.com/M1zKy_sAij8NmqsBht1S88g6hFwYRZOskV19nVMh_qxHWi8OuafZiwlFpnuE48VuTQttbgTsoM-H9scpeydNNtGjjDkyjgdXEXI_=w1080-h378-l100-sg-rj);
+.main-visible .hero-single-4b78263 {
+          background-image: url(https://lh3.googleusercontent.com/PumP3ggSngYlt1l_kUykOxZ3pPqyXphCOJa3Ce1Df7QJ4sPZK1m1BYOOnxRUJfAlY3My6KqG96p9j_iLn8mPaAlmlgAhk3_6w0vRTw=w1080-h378-l100-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-f508abc {
-            background-image: url(https://lh3.googleusercontent.com/M1zKy_sAij8NmqsBht1S88g6hFwYRZOskV19nVMh_qxHWi8OuafZiwlFpnuE48VuTQttbgTsoM-H9scpeydNNtGjjDkyjgdXEXI_=w2160-h756-l100-sg-rj);
+.main-visible .hero-single-4b78263 {
+            background-image: url(https://lh3.googleusercontent.com/PumP3ggSngYlt1l_kUykOxZ3pPqyXphCOJa3Ce1Df7QJ4sPZK1m1BYOOnxRUJfAlY3My6KqG96p9j_iLn8mPaAlmlgAhk3_6w0vRTw=w2160-h756-l100-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
-.main-visible .hero-single-f508abc {
-          background-image: url(https://lh3.googleusercontent.com/M1zKy_sAij8NmqsBht1S88g6hFwYRZOskV19nVMh_qxHWi8OuafZiwlFpnuE48VuTQttbgTsoM-H9scpeydNNtGjjDkyjgdXEXI_=w1440-l100-sg-rj);
+.main-visible .hero-single-4b78263 {
+          background-image: url(https://lh3.googleusercontent.com/PumP3ggSngYlt1l_kUykOxZ3pPqyXphCOJa3Ce1Df7QJ4sPZK1m1BYOOnxRUJfAlY3My6KqG96p9j_iLn8mPaAlmlgAhk3_6w0vRTw=w1440-l100-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-f508abc {
-            background-image: url(https://lh3.googleusercontent.com/M1zKy_sAij8NmqsBht1S88g6hFwYRZOskV19nVMh_qxHWi8OuafZiwlFpnuE48VuTQttbgTsoM-H9scpeydNNtGjjDkyjgdXEXI_=w2880-l100-sg-rj);
+.main-visible .hero-single-4b78263 {
+            background-image: url(https://lh3.googleusercontent.com/PumP3ggSngYlt1l_kUykOxZ3pPqyXphCOJa3Ce1Df7QJ4sPZK1m1BYOOnxRUJfAlY3My6KqG96p9j_iLn8mPaAlmlgAhk3_6w0vRTw=w2880-l100-sg-rj);
           }
         }
   
 Search On
-An original documentary series
-Watch now
+An originaldocumentary series
+Explore our stories
 Company news
 {[feed.network === newsFeedCtrl.network.GOOGLE_PLUS ? '+' : '@']}{[::feed.account | stripSpaces]}
 {[feed.account]}
