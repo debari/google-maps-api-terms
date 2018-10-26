@@ -9,39 +9,6 @@ About | Google
                 Our stories
               
 Our mission is to organize the worldâs information and make it universally accessible and useful.
-      @media screen  {
-.main-visible .hero-single-2174b43 {
-          background-image: url(https://lh3.googleusercontent.com/jOXswfQirCXVSoHSzvXKFQSBFNg_MNvzjCxUOuNwf0e12yeDxDv-Liz4CFviOSe_SedD_nj8IlSuafZ4nWyrInqyMq9oTcLOhkTsWXY=w600-h350-l100-sg-rj);
-        }
-      }
-        @media screen  and (min-resolution: 192dpi) {
-.main-visible .hero-single-2174b43 {
-            background-image: url(https://lh3.googleusercontent.com/jOXswfQirCXVSoHSzvXKFQSBFNg_MNvzjCxUOuNwf0e12yeDxDv-Liz4CFviOSe_SedD_nj8IlSuafZ4nWyrInqyMq9oTcLOhkTsWXY=w1200-h700-l100-sg-rj);
-          }
-        }
-      @media screen and (min-width: 600px) {
-.main-visible .hero-single-2174b43 {
-          background-image: url(https://lh3.googleusercontent.com/jOXswfQirCXVSoHSzvXKFQSBFNg_MNvzjCxUOuNwf0e12yeDxDv-Liz4CFviOSe_SedD_nj8IlSuafZ4nWyrInqyMq9oTcLOhkTsWXY=w1080-h378-l100-sg-rj);
-        }
-      }
-        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-2174b43 {
-            background-image: url(https://lh3.googleusercontent.com/jOXswfQirCXVSoHSzvXKFQSBFNg_MNvzjCxUOuNwf0e12yeDxDv-Liz4CFviOSe_SedD_nj8IlSuafZ4nWyrInqyMq9oTcLOhkTsWXY=w2160-h756-l100-sg-rj);
-          }
-        }
-      @media screen and (min-width: 1024px) {
-.main-visible .hero-single-2174b43 {
-          background-image: url(https://lh3.googleusercontent.com/jOXswfQirCXVSoHSzvXKFQSBFNg_MNvzjCxUOuNwf0e12yeDxDv-Liz4CFviOSe_SedD_nj8IlSuafZ4nWyrInqyMq9oTcLOhkTsWXY=w1440-l100-sg-rj);
-        }
-      }
-        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-2174b43 {
-            background-image: url(https://lh3.googleusercontent.com/jOXswfQirCXVSoHSzvXKFQSBFNg_MNvzjCxUOuNwf0e12yeDxDv-Liz4CFviOSe_SedD_nj8IlSuafZ4nWyrInqyMq9oTcLOhkTsWXY=w2880-l100-sg-rj);
-          }
-        }
-  
-A few new things Made by Google
-See what's new
 Company news
 {[feed.network === newsFeedCtrl.network.GOOGLE_PLUS ? '+' : '@']}{[::feed.account | stripSpaces]}
 {[feed.account]}
