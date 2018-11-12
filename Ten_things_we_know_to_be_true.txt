@@ -9,6 +9,39 @@ About | Google
                 Our stories
               
 Our mission is to organize the worldâs information and make it universally accessible and useful.
+      @media screen  {
+.main-visible .hero-single-5e66de6 {
+          background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w600-h350-l90-sg-rj);
+        }
+      }
+        @media screen  and (min-resolution: 192dpi) {
+.main-visible .hero-single-5e66de6 {
+            background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w1200-h700-l90-sg-rj);
+          }
+        }
+      @media screen and (min-width: 600px) {
+.main-visible .hero-single-5e66de6 {
+          background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w1080-h378-l90-sg-rj);
+        }
+      }
+        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-5e66de6 {
+            background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w2160-h756-l90-sg-rj);
+          }
+        }
+      @media screen and (min-width: 1024px) {
+.main-visible .hero-single-5e66de6 {
+          background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w1440-l90-sg-rj);
+        }
+      }
+        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+.main-visible .hero-single-5e66de6 {
+            background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w2880-l90-sg-rj);
+          }
+        }
+  
+Listening is honoring. Preserving the stories of our nationâs veterans.
+See the story
 Company news
 {[feed.network === newsFeedCtrl.network.GOOGLE_PLUS ? '+' : '@']}{[::feed.account | stripSpaces]}
 {[feed.account]}
