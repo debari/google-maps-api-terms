@@ -9,39 +9,6 @@ About | Google
                 Our stories
               
 Our mission is to organize the worldâs information and make it universally accessible and useful.
-      @media screen  {
-.main-visible .hero-single-5e66de6 {
-          background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w600-h350-l90-sg-rj);
-        }
-      }
-        @media screen  and (min-resolution: 192dpi) {
-.main-visible .hero-single-5e66de6 {
-            background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w1200-h700-l90-sg-rj);
-          }
-        }
-      @media screen and (min-width: 600px) {
-.main-visible .hero-single-5e66de6 {
-          background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w1080-h378-l90-sg-rj);
-        }
-      }
-        @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-5e66de6 {
-            background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w2160-h756-l90-sg-rj);
-          }
-        }
-      @media screen and (min-width: 1024px) {
-.main-visible .hero-single-5e66de6 {
-          background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w1440-l90-sg-rj);
-        }
-      }
-        @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-5e66de6 {
-            background-image: url(https://lh3.googleusercontent.com/auRtMc49JS535fju6FHGXANCMblqmt2wFtVpqqc7DKcPTbvTPw4Mej1czPOmr1tCs-18zxvLKPIFEhEysR4VMWcihw2H1fHYgJlFPg=w2880-l90-sg-rj);
-          }
-        }
-  
-Listening is honoring. Preserving the stories of our nationâs veterans.
-See the story
 Company news
 {[feed.network === newsFeedCtrl.network.GOOGLE_PLUS ? '+' : '@']}{[::feed.account | stripSpaces]}
 {[feed.account]}
@@ -151,33 +118,33 @@ Our Commitments
 We are dedicated to creating opportunity for everyone
 How we contribute
       @media screen  {
-.main-visible .hero-single-5c4ff8d {
-          background-image: url(https://lh3.googleusercontent.com/4sMCiLiyztVJFzysOOydOKr2vHD26FbJwqfYUIYyKfj-Hik58oyhKhpLo4cbN0VBHAt4U9Pn643vtVo6xCa8c0AAzJ3R5J0csi32Xw=w600-h350-l90-sg-rj);
+.main-visible .hero-single-e80bbff {
+          background-image: url(https://lh3.googleusercontent.com/XCiFXv22ZbnCqJJ4MAO6bhib8MPAvsCrP23VpnSXNP_Jx2cNgcVxmTwHhr4x9xB4HY-vnAxmwVVcH4eXuCi5zZGefz5wOg5tbSkT=w600-h350-l90-sg-rj);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
-.main-visible .hero-single-5c4ff8d {
-            background-image: url(https://lh3.googleusercontent.com/4sMCiLiyztVJFzysOOydOKr2vHD26FbJwqfYUIYyKfj-Hik58oyhKhpLo4cbN0VBHAt4U9Pn643vtVo6xCa8c0AAzJ3R5J0csi32Xw=w1200-h700-l90-sg-rj);
+.main-visible .hero-single-e80bbff {
+            background-image: url(https://lh3.googleusercontent.com/XCiFXv22ZbnCqJJ4MAO6bhib8MPAvsCrP23VpnSXNP_Jx2cNgcVxmTwHhr4x9xB4HY-vnAxmwVVcH4eXuCi5zZGefz5wOg5tbSkT=w1200-h700-l90-sg-rj);
           }
         }
       @media screen and (min-width: 600px) {
-.main-visible .hero-single-5c4ff8d {
-          background-image: url(https://lh3.googleusercontent.com/4sMCiLiyztVJFzysOOydOKr2vHD26FbJwqfYUIYyKfj-Hik58oyhKhpLo4cbN0VBHAt4U9Pn643vtVo6xCa8c0AAzJ3R5J0csi32Xw=w1080-h378-l90-sg-rj);
+.main-visible .hero-single-e80bbff {
+          background-image: url(https://lh3.googleusercontent.com/XCiFXv22ZbnCqJJ4MAO6bhib8MPAvsCrP23VpnSXNP_Jx2cNgcVxmTwHhr4x9xB4HY-vnAxmwVVcH4eXuCi5zZGefz5wOg5tbSkT=w1080-h378-l90-sg-rj);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-5c4ff8d {
-            background-image: url(https://lh3.googleusercontent.com/4sMCiLiyztVJFzysOOydOKr2vHD26FbJwqfYUIYyKfj-Hik58oyhKhpLo4cbN0VBHAt4U9Pn643vtVo6xCa8c0AAzJ3R5J0csi32Xw=w2160-h756-l90-sg-rj);
+.main-visible .hero-single-e80bbff {
+            background-image: url(https://lh3.googleusercontent.com/XCiFXv22ZbnCqJJ4MAO6bhib8MPAvsCrP23VpnSXNP_Jx2cNgcVxmTwHhr4x9xB4HY-vnAxmwVVcH4eXuCi5zZGefz5wOg5tbSkT=w2160-h756-l90-sg-rj);
           }
         }
       @media screen and (min-width: 1024px) {
-.main-visible .hero-single-5c4ff8d {
-          background-image: url(https://lh3.googleusercontent.com/4sMCiLiyztVJFzysOOydOKr2vHD26FbJwqfYUIYyKfj-Hik58oyhKhpLo4cbN0VBHAt4U9Pn643vtVo6xCa8c0AAzJ3R5J0csi32Xw=w1440-l90-sg-rj);
+.main-visible .hero-single-e80bbff {
+          background-image: url(https://lh3.googleusercontent.com/XCiFXv22ZbnCqJJ4MAO6bhib8MPAvsCrP23VpnSXNP_Jx2cNgcVxmTwHhr4x9xB4HY-vnAxmwVVcH4eXuCi5zZGefz5wOg5tbSkT=w1440-l90-sg-rj);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-5c4ff8d {
-            background-image: url(https://lh3.googleusercontent.com/4sMCiLiyztVJFzysOOydOKr2vHD26FbJwqfYUIYyKfj-Hik58oyhKhpLo4cbN0VBHAt4U9Pn643vtVo6xCa8c0AAzJ3R5J0csi32Xw=w2880-l90-sg-rj);
+.main-visible .hero-single-e80bbff {
+            background-image: url(https://lh3.googleusercontent.com/XCiFXv22ZbnCqJJ4MAO6bhib8MPAvsCrP23VpnSXNP_Jx2cNgcVxmTwHhr4x9xB4HY-vnAxmwVVcH4eXuCi5zZGefz5wOg5tbSkT=w2880-l90-sg-rj);
           }
         }
   
