@@ -60,7 +60,9 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
                           Google Maps APIs Premium Plan
                         
                           Documentation
-                        All Products
+                        
+          Blog
+        All Products
   
   Sign in
     
@@ -96,6 +98,8 @@ Index
         
         All Products
       
+          Blog
+        
         All Products
       
                     Maps
