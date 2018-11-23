@@ -57,6 +57,26 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
                         
                           Time Zone API
                         
+                          Additional Resources
+                        
+                          FAQ
+                        
+                          API Picker
+                        
+                          API Key Best Practices
+                        
+                          Important Updates
+                        
+                          Understanding Billing for GMP
+                        
+                          Optimization Guide
+                        
+                          Map Coverage Details
+                        
+                          Google Maps API Root CA Migration FAQ
+                        
+                          Understanding Public Programs
+                        
                           Google Maps APIs Premium Plan
                         
                           Documentation
@@ -141,6 +161,26 @@ Index
                     Geolocation API
                   
                     Time Zone API
+                  
+                    Additional Resources
+                  
+                    FAQ
+                  
+                    API Picker
+                  
+                    API Key Best Practices
+                  
+                    Important Updates
+                  
+                    Understanding Billing for GMP
+                  
+                    Optimization Guide
+                  
+                    Map Coverage Details
+                  
+                    Google Maps API Root CA Migration FAQ
+                  
+                    Understanding Public Programs
                   
                     Google Maps APIs Premium Plan
                   
@@ -375,10 +415,11 @@ How is Google Maps APIs Premium Plan usage
 Have a previous
   Maps APIs for Work or Maps API for Business license?
   See our Maps APIs for Work
-  Licenses guide. To determine whether you have a previous license: In the
-  Google Cloud Support Portal,
-  click Maps: Usage Report on the left. If the ID at the top of the report
-  is in the following format, you have the new Premium Plan:
+  Licenses guide. To determine whether you have a previous license:
+  > In the Google Cloud Support Portal,
+  click Maps: Usage Report on the left.
+  > If the ID at the top of the report is in the following format, you have the new
+  Premium Plan:    
   gme-[company] & proj-[number] ([type])
   Otherwise, you have a previous license.
 With the Google Maps APIs Premium Plan, your application consumes quota at
@@ -588,7 +629,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated September 25, 2018.
+      Last updated November 23, 2018.
     
           
           
