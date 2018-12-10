@@ -27,7 +27,7 @@ Frequently Asked Questions  |  Google Maps APIs Premium Plan
                         
                           Maps JavaScript API
                         
-                          Street View API
+                          Street View Static API
                         
                           Maps URLs
                         
@@ -132,7 +132,7 @@ Index
                   
                     Maps JavaScript API
                   
-                    Street View API
+                    Street View Static API
                   
                     Maps URLs
                   
