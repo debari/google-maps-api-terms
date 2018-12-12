@@ -311,7 +311,7 @@ The following Google products are included in
     technical support:
 Maps JavaScript API
 Maps Static API
-Street View API
+Street View Static API
 Geocoding API
 Geolocation API
 Elevation API
@@ -412,16 +412,14 @@ Google Cloud Platform Console.
 Usage limits
 How is Google Maps APIs Premium Plan usage
   calculated?
-Have a previous
-  Maps APIs for Work or Maps API for Business license?
-  See our Maps APIs for Work
-  Licenses guide. To determine whether you have a previous license:
+Have the Premium Plan or a previous license?
+  To determine which license you have (for Maps APIs for Work or Maps API for Business):
   > In the Google Cloud Support Portal,
   click Maps: Usage Report on the left.
-  > If the ID at the top of the report is in the following format, you have the new
-  Premium Plan:    
-  gme-[company] & proj-[number] ([type])
-  Otherwise, you have a previous license.
+  > Does the ID at the top of the report have the following format? 
+     gme-[company] & proj-[number] ([type])
+If yes, you have the Premium Plan.
+If no, you have a previous license.
 With the Google Maps APIs Premium Plan, your application consumes quota at
     different rates, depending on the APIs it requests. You purchase
     quota—called Maps APIs Credits—for one or more years,
@@ -629,7 +627,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated November 23, 2018.
+      Last updated December 12, 2018.
     
           
           
