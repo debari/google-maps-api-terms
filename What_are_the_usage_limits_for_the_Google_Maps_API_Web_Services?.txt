@@ -255,7 +255,7 @@ How can I estimate my application's usage of
     Maps APIs Credits?
 What happens if I use all of my Maps APIs
     Credits?
-Why are Places SDK Details
+Why are Places API Details
     requests charged 2 Maps APIs Credits while Place Autocomplete requests are
     charged only 0.1 credits?
 Developing your application
@@ -324,7 +324,7 @@ Places API and
       the Maps JavaScript API *
 Maps SDK for Android
 Maps SDK for iOS
-* The Places SDK is not included with the
+* The Places API is not included with the
     Premium Plan Asset Tracking license. If you have an Asset Tracking
     license and want to use the Places API, please contact the
      Google Maps Sales team.
@@ -453,10 +453,10 @@ If you run out of Maps APIs Credits, your application's requests will
     this case, you'll need to renew your Google Maps APIs Premium Plan license as
     soon as possible to avoid a suspension of your account. Google will notify
     you via email once you've used up 85% of your quota.
-Why are Places SDK Details requests
+Why are Places API Details requests
   charged 2 Maps APIs Credits while Place
   Autocomplete requests are charged only 0.1 credits?
-The Places SDK uses an extensive database of business and other
+The Places API uses an extensive database of business and other
     place data. It takes a lot of time and effort to keep this database
     accurate, as businesses open and close frequently. Therefore, we need to
     charge more for Places Details requests. For Place Autocomplete, we realize
@@ -477,7 +477,7 @@ Yes, with the Premium Plan, we automatically
     need features such as Maps API Analytics, usage reports by channel, and
     historical report data beyond the 30 days, you can use your client ID
     instead of the API key for most of the APIs. (The client ID does not work
-    with the Places SDK, Geolocation API,
+    with the Places API, Geolocation API,
     Roads API, Maps SDK for Android, or
     Maps SDK for iOS.)
 What are the differences between an API key and a client ID?
@@ -485,7 +485,7 @@ With your project ID, you can generate API keys in
   the Google Cloud Platform Console. Here are the
   primary differences between the use of API keys and your client ID:
 API support: You can use an API key with any Maps API. Alternatively, you
-    can use your client ID with any API, except  the Places SDK,
+    can use your client ID with any API, except  the Places API,
     Geolocation API, Roads API, Maps SDK for Android, and
     Maps SDK for iOS.
 Reporting: Your API keys provide
@@ -627,7 +627,7 @@ var styles = [
 map.setOptions({styles: styles});
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
       
-      Last updated December 12, 2018.
+      Last updated December 19, 2018.
     
           
           
