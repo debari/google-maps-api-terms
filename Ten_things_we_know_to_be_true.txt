@@ -10,39 +10,39 @@ About | Google
               
 Our mission is to organize the worldâs information and make it universally accessible and useful.
       @media screen  {
-.main-visible .hero-single-ac8bc03 {
-          background-image: url(https://lh3.googleusercontent.com/7nihJBbwv3W53THV_EdkGVGT52zqQhsTeqTG2TbybyutU9WRjbyqSyO6UfmTeLazk5_3G54I0iJQMHxxMM4Xm1mcb-jzGKNNT8bbUQ=w600-h350-l80-sg-rj-c0xffffff);
+.main-visible .hero-single-809f59d {
+          background-image: url(https://lh3.googleusercontent.com/0FHBq1WvekY44faRA1iv0PKT5euN_8PXWndntjT2VVamrd0x5NaYM6p-FiCp0oEsBHXAsoyojBuox81PRhmaGS98FtaIO_yJgqdXbW8=w600-h350-l80-sg-rj-c0xffffff);
         }
       }
         @media screen  and (min-resolution: 192dpi) {
-.main-visible .hero-single-ac8bc03 {
-            background-image: url(https://lh3.googleusercontent.com/7nihJBbwv3W53THV_EdkGVGT52zqQhsTeqTG2TbybyutU9WRjbyqSyO6UfmTeLazk5_3G54I0iJQMHxxMM4Xm1mcb-jzGKNNT8bbUQ=w1200-h700-l80-sg-rj-c0xffffff);
+.main-visible .hero-single-809f59d {
+            background-image: url(https://lh3.googleusercontent.com/0FHBq1WvekY44faRA1iv0PKT5euN_8PXWndntjT2VVamrd0x5NaYM6p-FiCp0oEsBHXAsoyojBuox81PRhmaGS98FtaIO_yJgqdXbW8=w1200-h700-l80-sg-rj-c0xffffff);
           }
         }
       @media screen and (min-width: 600px) {
-.main-visible .hero-single-ac8bc03 {
-          background-image: url(https://lh3.googleusercontent.com/7nihJBbwv3W53THV_EdkGVGT52zqQhsTeqTG2TbybyutU9WRjbyqSyO6UfmTeLazk5_3G54I0iJQMHxxMM4Xm1mcb-jzGKNNT8bbUQ=w1080-h378-l80-sg-rj-c0xffffff);
+.main-visible .hero-single-809f59d {
+          background-image: url(https://lh3.googleusercontent.com/0FHBq1WvekY44faRA1iv0PKT5euN_8PXWndntjT2VVamrd0x5NaYM6p-FiCp0oEsBHXAsoyojBuox81PRhmaGS98FtaIO_yJgqdXbW8=w1080-h378-l80-sg-rj-c0xffffff);
         }
       }
         @media screen and (min-width: 600px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-ac8bc03 {
-            background-image: url(https://lh3.googleusercontent.com/7nihJBbwv3W53THV_EdkGVGT52zqQhsTeqTG2TbybyutU9WRjbyqSyO6UfmTeLazk5_3G54I0iJQMHxxMM4Xm1mcb-jzGKNNT8bbUQ=w2160-h756-l80-sg-rj-c0xffffff);
+.main-visible .hero-single-809f59d {
+            background-image: url(https://lh3.googleusercontent.com/0FHBq1WvekY44faRA1iv0PKT5euN_8PXWndntjT2VVamrd0x5NaYM6p-FiCp0oEsBHXAsoyojBuox81PRhmaGS98FtaIO_yJgqdXbW8=w2160-h756-l80-sg-rj-c0xffffff);
           }
         }
       @media screen and (min-width: 1024px) {
-.main-visible .hero-single-ac8bc03 {
-          background-image: url(https://lh3.googleusercontent.com/7nihJBbwv3W53THV_EdkGVGT52zqQhsTeqTG2TbybyutU9WRjbyqSyO6UfmTeLazk5_3G54I0iJQMHxxMM4Xm1mcb-jzGKNNT8bbUQ=w1440-l80-sg-rj-c0xffffff);
+.main-visible .hero-single-809f59d {
+          background-image: url(https://lh3.googleusercontent.com/0FHBq1WvekY44faRA1iv0PKT5euN_8PXWndntjT2VVamrd0x5NaYM6p-FiCp0oEsBHXAsoyojBuox81PRhmaGS98FtaIO_yJgqdXbW8=w1440-l80-sg-rj-c0xffffff);
         }
       }
         @media screen and (min-width: 1024px) and (min-resolution: 192dpi) {
-.main-visible .hero-single-ac8bc03 {
-            background-image: url(https://lh3.googleusercontent.com/7nihJBbwv3W53THV_EdkGVGT52zqQhsTeqTG2TbybyutU9WRjbyqSyO6UfmTeLazk5_3G54I0iJQMHxxMM4Xm1mcb-jzGKNNT8bbUQ=w2880-l80-sg-rj-c0xffffff);
+.main-visible .hero-single-809f59d {
+            background-image: url(https://lh3.googleusercontent.com/0FHBq1WvekY44faRA1iv0PKT5euN_8PXWndntjT2VVamrd0x5NaYM6p-FiCp0oEsBHXAsoyojBuox81PRhmaGS98FtaIO_yJgqdXbW8=w2880-l80-sg-rj-c0xffffff);
           }
         }
   
-Game of the Year
-A quiz based on the most popular searches of 2018
-Play the game
+Year in Search 2018
+See the good the world searched for this year.
+Watch the film
 Company news
 {[feed.network === newsFeedCtrl.network.GOOGLE_PLUS ? '+' : '@']}{[::feed.account | stripSpaces]}
 {[feed.account]}
