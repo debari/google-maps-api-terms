@@ -1,16 +1,696 @@
 
-      Google Maps and Earth Universal Acceptable Use Policy
+Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platform Terms
+       |  Google CloudGoogle Cloud
+          Google Cloud
+        
+          Why Google
+        
+                          One Cloud, endless possibilities
+                        
+                          Google Cloud delivers secure, open, intelligent, and transformative tools to help enterprises modernize for today's digital world.
+                        
+                          Learn more
+                        
+                          Why Google Cloud
+                        
+                          Choosing Google Cloud
+                        
+                          Reasons why people choose us
+                        
+                          Trust and security
+                        
+                          Keep your data secure and compliant
+                        
+                          Open cloud
+                        
+                          Scale with open, flexible technology
+                        
+                          Customers and case studies
+                        
+                          Learn how businesses use Google Cloud
+                        
+                          Analyst reports
+                        
+                          See how Google Cloud ranks
+                        
+                          close
+                        
+                          Data centers and network
+                        
+                          Build on the same infrastructure Google uses
+                        
+                          Google Cloud Blog
+                        
+                          Read the latest stories and product updates
+                        
+          Solutions
+        
+                          By business need
+                        
+                          Artificial intelligence solutions
+                        
+                          Pre-packaged and build-your-own AI
+                        
+                          Big data analytics
+                        
+                          Integrated, serverless analytics
+                        
+                          Business intelligence
+                        
+                          Make insights accessible
+                        
+                          Collaboration and productivity
+                        
+                          Transform how teams work
+                        
+                          Continuous delivery
+                        
+                          Achieve end-to-end automation
+                        
+                          Device management
+                        
+                          Deploy and manage devices easily
+                        
+                          Internet of things
+                        
+                          Unlock insights from your IoT network
+                        
+                          Manage hybrid cloud
+                        
+                          Modernize in place with our open cloud
+                        
+                          Migrate workloads
+                        
+                          Choose your path to the cloud
+                        
+                          Serverless solutions
+                        
+                          Free your developers to focus on writing
+                        
+                          By industry
+                        
+                          Education
+                        
+                          Energy
+                        
+                          Financial services
+                        
+                          Gaming
+                        
+                          Government
+                        
+                          Healthcare
+                        
+                          Life sciences
+                        
+                          Media and entertainment
+                        
+                          Retail
+                        
+                          close
+                        
+                          By role
+                        
+                          Customer support and sales
+                        
+                          DevOps
+                        
+                          HR and recruiting
+                        
+                          Marketing
+                        
+                          Small business owners
+                        
+                          See all solutions
+                        
+          Products
+        
+                          Google Cloud Platform
+                        
+                          AI and machine learning
+                        
+                          Text-to-Speech
+                        
+                          Vision
+                        
+                          Translation
+                        
+                          More
+                        
+                          API management
+                        
+                          Apigee API Platform
+                        
+                          Cloud Endpoints
+                        
+                          More
+                        
+                          Cloud Services Platform
+                        
+                          GKE On-Prem
+                        
+                          Istio on GKE
+                        
+                          More
+                        
+                          Compute
+                        
+                          Compute Engine
+                        
+                          App Engine
+                        
+                          More
+                        
+                          Data analytics
+                        
+                          BigQuery
+                        
+                          Cloud Datalab
+                        
+                          More
+                        
+                          Databases
+                        
+                          Cloud SQL
+                        
+                          Cloud Datastore
+                        
+                          More
+                        
+                          Developer Tools
+                        
+                          Container Registry
+                        
+                          Cloud SDK
+                        
+                          More
+                        
+                          Internet of things
+                        
+                          Cloud IoT Core
+                        
+                          Cloud IoT Edge
+                        
+                          Edge TPU
+                        
+                          Migration
+                        
+                          Data Transfer
+                        
+                          Transfer Appliance
+                        
+                          More
+                        
+                          Networking
+                        
+                          DNS
+                        
+                          CDN
+                        
+                          Virtual Private Cloud
+                        
+                          More
+                        
+                          Security
+                        
+                          Security Key Enforcement
+                        
+                          Cloud IAM
+                        
+                          More
+                        
+                          Storage
+                        
+                          Cloud Storage
+                        
+                          Persistent Disk
+                        
+                          More
+                        
+                          close
+                        
+                          More Cloud Products
+                        
+                          G Suite
+                        
+                          Gmail, Docs, Drive, Hangouts, and more
+                        
+                          Google Maps Platform
+                        
+                          Build with real-time, comprehensive data
+                        
+                          Cloud Identity
+                        
+                          Easily manage user identities
+                        
+                          Chrome Enterprise
+                        
+                          Get Chrome OS devices and browser
+                        
+                          Android Enterprise
+                        
+                          Intelligent devices, OS, and business apps
+                        
+                          Hire by Google
+                        
+                          Identify, evaluate, and hire better
+                        
+                          See all products (100+)
+                        
+          Pricing
+        
+                          Do more for less with Google Cloud
+                        
+                          Our customer-friendly pricing means more overall value to your business.
+                        
+                          Contact sales
+                        
+                          Google Cloud Platform
+                        
+                          Overview
+                        
+                          Pay only for what you use with no lock-in
+                        
+                          Price list
+                        
+                          Pricing details on each GCP product
+                        
+                          Calculators
+                        
+                          Calculate your cloud savings
+                        
+                          Free on GCP
+                        
+                          Learn and build on GCP for free
+                        
+                          close
+                        
+                          More Cloud Products
+                        
+                          G Suite
+                        
+                          Google Maps Platform
+                        
+                          Cloud Identity
+                        
+                          Hire by Google
+                        
+                          Apigee
+                        
+                          Firebase
+                        
+                          Zync Render
+                        
+          Getting started
+        
+                          Get started with Google Cloud
+                        
+                          Start building right away on our secure, intelligent platform. New customers can use a $300 free credit to get started with any GCP product.
+                        
+                          Try GCP Free
+                        
+                          Go to console
+                        
+                          Resources to Start on Your Own
+                        
+                          Quickstarts
+                        
+                          View short tutorials to help you get started
+                        
+                          GCP Marketplace
+                        
+                          Deploy ready-to-go solutions in a few clicks
+                        
+                          Training
+                        
+                          Enroll in on-demand or classroom training
+                        
+                          Certification
+                        
+                          Become Google Cloud Certified
+                        
+                          close
+                        
+                          Get Help from an Expert
+                        
+                          Consulting
+                        
+                          Jump-start your project with help from Google
+                        
+                          Technical Account Management
+                        
+                          Get long-term guidance from Google
+                        
+                          Find a Partner
+                        
+                          Work with a Partner in our global network
+                        
+                          Become a Partner
+                        
+                          Join Google Cloud's Partner program
+                        
+                          More ways to get started
+                        
+          Docs
+        
+          Support
+        Console
+  
+  Sign in
     
-    iframe.c1 {display:none;visibility:hidden}
     
-        Google Maps and Earth Enterprise Universal Acceptable Use Policy
+    
+      Google Cloud
+    
+    
+  
+      More
+  
+          Overview
+        
+          Google Cloud
+        
+    Contact sales
+  
+    Try free
+  
+          Google Cloud
+        
+      More
+    
+          Overview
+        
+          Google Cloud
+        
+        Console
       
-        Google customers (âYou(r)â) access to or use of Googleâs software, services or content
-        (âProductsâ) is subject to this Google Maps and Earth Enterprise Universal Acceptable Use
-        Policy (âUAUPâ). Except as otherwise explicitly authorized in writing by Google, You agree
-        not to, and not to allow third parties (including their end users), to use the Products as
-        follows:
+          Why Google
+        
+          Solutions
+        
+          Products
+        
+          Pricing
+        
+          Getting started
+        
+          Docs
+        
+          Support
+        
+        Console
       
+                    One Cloud, endless possibilities
+                  
+                    Learn more
+                  
+                    Why Google Cloud
+                  
+                    Choosing Google Cloud
+                  
+                    Trust and security
+                  
+                    Open cloud
+                  
+                    Customers and case studies
+                  
+                    Analyst reports
+                  
+                    close
+                  
+                    Data centers and network
+                  
+                    Google Cloud Blog
+                  
+                    By business need
+                  
+                    Artificial intelligence solutions
+                  
+                    Big data analytics
+                  
+                    Business intelligence
+                  
+                    Collaboration and productivity
+                  
+                    Continuous delivery
+                  
+                    Device management
+                  
+                    Internet of things
+                  
+                    Manage hybrid cloud
+                  
+                    Migrate workloads
+                  
+                    Serverless solutions
+                  
+                    By industry
+                  
+                    Education
+                  
+                    Energy
+                  
+                    Financial services
+                  
+                    Gaming
+                  
+                    Government
+                  
+                    Healthcare
+                  
+                    Life sciences
+                  
+                    Media and entertainment
+                  
+                    Retail
+                  
+                    close
+                  
+                    By role
+                  
+                    Customer support and sales
+                  
+                    DevOps
+                  
+                    HR and recruiting
+                  
+                    Marketing
+                  
+                    Small business owners
+                  
+                    See all solutions
+                  
+                    Google Cloud Platform
+                  
+                    AI and machine learning
+                  
+                    Text-to-Speech
+                  
+                    Vision
+                  
+                    Translation
+                  
+                    More
+                  
+                    API management
+                  
+                    Apigee API Platform
+                  
+                    Cloud Endpoints
+                  
+                    More
+                  
+                    Cloud Services Platform
+                  
+                    GKE On-Prem
+                  
+                    Istio on GKE
+                  
+                    More
+                  
+                    Compute
+                  
+                    Compute Engine
+                  
+                    App Engine
+                  
+                    More
+                  
+                    Data analytics
+                  
+                    BigQuery
+                  
+                    Cloud Datalab
+                  
+                    More
+                  
+                    Databases
+                  
+                    Cloud SQL
+                  
+                    Cloud Datastore
+                  
+                    More
+                  
+                    Developer Tools
+                  
+                    Container Registry
+                  
+                    Cloud SDK
+                  
+                    More
+                  
+                    Internet of things
+                  
+                    Cloud IoT Core
+                  
+                    Cloud IoT Edge
+                  
+                    Edge TPU
+                  
+                    Migration
+                  
+                    Data Transfer
+                  
+                    Transfer Appliance
+                  
+                    More
+                  
+                    Networking
+                  
+                    DNS
+                  
+                    CDN
+                  
+                    Virtual Private Cloud
+                  
+                    More
+                  
+                    Security
+                  
+                    Security Key Enforcement
+                  
+                    Cloud IAM
+                  
+                    More
+                  
+                    Storage
+                  
+                    Cloud Storage
+                  
+                    Persistent Disk
+                  
+                    More
+                  
+                    close
+                  
+                    More Cloud Products
+                  
+                    G Suite
+                  
+                    Google Maps Platform
+                  
+                    Cloud Identity
+                  
+                    Chrome Enterprise
+                  
+                    Android Enterprise
+                  
+                    Hire by Google
+                  
+                    See all products (100+)
+                  
+                    Do more for less with Google Cloud
+                  
+                    Contact sales
+                  
+                    Google Cloud Platform
+                  
+                    Overview
+                  
+                    Price list
+                  
+                    Calculators
+                  
+                    Free on GCP
+                  
+                    close
+                  
+                    More Cloud Products
+                  
+                    G Suite
+                  
+                    Google Maps Platform
+                  
+                    Cloud Identity
+                  
+                    Hire by Google
+                  
+                    Apigee
+                  
+                    Firebase
+                  
+                    Zync Render
+                  
+                    Get started with Google Cloud
+                  
+                    Try GCP Free
+                  
+                    Go to console
+                  
+                    Resources to Start on Your Own
+                  
+                    Quickstarts
+                  
+                    GCP Marketplace
+                  
+                    Training
+                  
+                    Certification
+                  
+                    close
+                  
+                    Get Help from an Expert
+                  
+                    Consulting
+                  
+                    Technical Account Management
+                  
+                    Find a Partner
+                  
+                    Become a Partner
+                  
+                    More ways to get started
+                  
+    
+    
+      Google Cloud Platform Terms
+    
+    
+    
+    
+    
+      Google Cloud
+    
+    
+    
+    
+    
+      Google Cloud
+    
+    
+    
+    Google Maps and Earth Universal Acceptable Use Policy
+  
+Last modified: Dec 18, 2017 | Previous Versions
+          Google Maps and Earth Universal Acceptable Use Policy
+        
+          Google customers ("You(r)") access to or use of Google's software, services or content
+          ("Products") is subject to this Google Maps and Earth Enterprise Universal Acceptable Use
+          Policy ("UAUP"). Except as otherwise explicitly authorized in writing by Google, You agree
+          not to, and not to allow third parties (including their end users), to use the Products as
+          follows:
+        
 -to threaten, violate, or encourage the violation of the legal rights of others;
           
 -for any unlawful, invasive, infringing, defamatory, or fraudulent purpose;
@@ -22,11 +702,11 @@
           manner not authorized by Google;
           
 -to, unless otherwise authorized in advance and in writing by Google, pre-fetch,
-          retrieve, cache, index, or store any Google content, or any portion of Googleâs services
+          retrieve, cache, index, or store any Google content, or any portion of Google's services
           with the exception being You may store limited amounts of Google content solely to
           improve the performance of the Your Product implementation. To store limited amounts of
           Google content You must do so temporarily, securely, and in a manner that 1) does not
-          permit use of the Google content outside of Googleâs services, 2) is session based only
+          permit use of the Google content outside of Google's services, 2) is session based only
           (once the browser is closed, any additional storage is prohibited), 3) does not aggregate
           or manipulate any Google content or portion of the Google services, 4) does not prohibit
           Google from tracking usage limits and 5) does not modify and adjust attribution;
@@ -61,15 +741,128 @@
           or any Product component.
           
 THE PRODUCTS AND SERVICES ARE NOT DESIGNED, INTENDED OR MANUFACTURED FOR HIGH RISK
-          ACTIVITIES. âHigh Risk Activitiesâ means uses like the operation of emergency services,
+          ACTIVITIES. "High Risk Activities" means uses like the operation of emergency services,
           nuclear facilities, air traffic control or life support systems, reliance on the
           positional accuracy of the Products for operational targeting or precise navigation, or
           where the use or failure of the Services could lead to death, personal injury, or
           environmental damage.
           
-          Failure to comply with this UAUP may constitute a breach of your written agreement with
-          Google and may further result in suspension or termination, or both, of Your Product use.
-          Google reserves the right to pursue all remedies available to it under your agreementâs
-          terms. If Your agreementâs terms modify the UAUPâs terms, Your agreementâs terms will
-          supercede.
+           Failure to comply with this UAUP may constitute a breach of your written agreement with
+           Google and may further result in suspension or termination, or both, of Your Product use.
+           Google reserves the right to pursue all remedies available to it under your
+           agreement's terms. If Your agreement's terms modify the UAUP's terms,Your agreement's terms will supersede.
+         
+Previous Versions
+No previous versions
+      
+      Was this page helpful? Let us know how we did:
+    
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the Apache 2.0 License. For details, see our Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Why Google
+                Choosing Google Cloud
+            
+                Trust and security
+            
+                Open cloud
+            
+                Data center locations
+            
+                Customers and case studies
+            
+                Analyst reports
+            
+                Whitepapers
+            
+                Products and pricing
+            
+                GCP pricing
+            
+                G Suite pricing
+            
+                Maps Platform pricing
+            
+                See all products
+            Solutions
+                Artificial intelligence
+            
+                Big data analytics
+            
+                Collaboration and productivity
+            
+                Continuous delivery
+            
+                Migrate workloads
+            
+                Mobile apps and sites
+            
+                Serverless computing
+            
+                Industry solutions
+            
+                DevOps solutions
+            
+                HR and recruiting solutions
+            
+                Marketing solutions
+            
+                Small business solutions
+            
+                See all solutions
+            Resources
+                GCP documentation
+            
+                GCP quickstarts
+            
+                GCP Marketplace
+            
+                G Suite Marketplace
+            
+                Support
+            
+                Tutorials
+            
+                Training
+            
+                Certifications
+            
+                Google Developers
+            
+                Google Cloud for Startups
+            
+                System status
+            Engage
+                Contact sales
+            
+                Find a Partner
+            
+                Become a Partner
+            
+                Blog
+            
+                Events
+            
+                Podcast
+            
+                Community
+            
+                Press center
+            
+                Google Cloud on YouTube
+            
+                GCP on YouTube
+            
+                G Suite on YouTube
+            
+                Follow on Twitter
+            
+                We're hiring. Join Google Cloud!
+            About Google
+         Privacy
+         Site Terms
+         Google Cloud Terms
+         
+        Sign up for the Google Cloud newsletter
+      
         
+        Subscribe
+      
