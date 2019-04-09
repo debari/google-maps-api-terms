@@ -39,53 +39,43 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Build on the same infrastructure Google uses
                         
+                          Partners
+                        
+                          Tap into our global ecosystem of cloud experts
+                        
                           Google Cloud Blog
                         
                           Read the latest stories and product updates
+                        
+                          Events
+                        
+                          Join events and learn more about Google Cloud
                         
           Solutions
         
                           By business need
                         
-                          Artificial intelligence solutions
+                          Infrastructure modernization
                         
-                          Pre-packaged and build-your-own AI
+                          Modernize enterprise workloads
                         
-                          Big data analytics
+                          Data management
                         
-                          Integrated, serverless analytics
+                          Manage data securely, reliably and at scale
                         
-                          Business intelligence
+                          Application development
                         
-                          Make insights accessible
+                          Build and run apps on an open, secure cloud
                         
-                          Collaboration and productivity
+                          Smart business analytics and AI
                         
-                          Transform how teams work
+                          Generate insights with analytics, ML, and AI
                         
-                          Continuous delivery
+                          Productivity and work transformation
                         
-                          Achieve end-to-end automation
+                          Transform how people work together
                         
                           Device management
-                        
-                          Deploy and manage devices easily
-                        
-                          Internet of things
-                        
-                          Unlock insights from your IoT network
-                        
-                          Manage hybrid cloud
-                        
-                          Modernize in place with our open cloud
-                        
-                          Migrate workloads
-                        
-                          Choose your path to the cloud
-                        
-                          Serverless solutions
-                        
-                          Free your developers to focus on writing
                         
                           By industry
                         
@@ -145,14 +135,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           More
                         
-                          Cloud Services Platform
-                        
-                          GKE On-Prem
-                        
-                          Istio on GKE
-                        
-                          More
-                        
                           Compute
                         
                           Compute Engine
@@ -185,11 +167,19 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           More
                         
-                          Internet of things
+                          Hybrid and multi-cloud
+                        
+                          Anthos
+                        
+                          GKE On-Prem
+                        
+                          Istio on GKE
+                        
+                          More
+                        
+                          Internet of Things
                         
                           Cloud IoT Core
-                        
-                          Cloud IoT Edge
                         
                           Edge TPU
                         
@@ -420,29 +410,25 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                   
                     Data centers and network
                   
+                    Partners
+                  
                     Google Cloud Blog
+                  
+                    Events
                   
                     By business need
                   
-                    Artificial intelligence solutions
+                    Infrastructure modernization
                   
-                    Big data analytics
+                    Data management
                   
-                    Business intelligence
+                    Application development
                   
-                    Collaboration and productivity
+                    Smart business analytics and AI
                   
-                    Continuous delivery
+                    Productivity and work transformation
                   
                     Device management
-                  
-                    Internet of things
-                  
-                    Manage hybrid cloud
-                  
-                    Migrate workloads
-                  
-                    Serverless solutions
                   
                     By industry
                   
@@ -500,14 +486,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                   
                     More
                   
-                    Cloud Services Platform
-                  
-                    GKE On-Prem
-                  
-                    Istio on GKE
-                  
-                    More
-                  
                     Compute
                   
                     Compute Engine
@@ -540,11 +518,19 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                   
                     More
                   
-                    Internet of things
+                    Hybrid and multi-cloud
+                  
+                    Anthos
+                  
+                    GKE On-Prem
+                  
+                    Istio on GKE
+                  
+                    More
+                  
+                    Internet of Things
                   
                     Cloud IoT Core
-                  
-                    Cloud IoT Edge
                   
                     Edge TPU
                   
