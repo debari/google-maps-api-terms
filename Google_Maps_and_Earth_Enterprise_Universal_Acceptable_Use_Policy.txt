@@ -5,9 +5,9 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
         
           Why Google
         
-                          One Cloud, endless possibilities
+                          Groundbreaking solutions. Transformative know-how.
                         
-                          Google Cloud delivers secure, open, intelligent, and transformative tools to help enterprises modernize for today's digital world.
+                          Whether your business is early in its journey or well on its way to digital transformation, Google Cloud's solutions and technologies help chart a path to success.
                         
                           Learn more
                         
@@ -93,15 +93,13 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Life sciences
                         
-                          Media and entertainment
+                          Telecommunications, Media & Entertainment
                         
                           Retail
                         
                           close
                         
                           By role
-                        
-                          Customer support and sales
                         
                           DevOps
                         
@@ -390,7 +388,7 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
         
         Console
       
-                    One Cloud, endless possibilities
+                    Groundbreaking solutions. Transformative know-how.
                   
                     Learn more
                   
@@ -446,15 +444,13 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                   
                     Life sciences
                   
-                    Media and entertainment
+                    Telecommunications, Media & Entertainment
                   
                     Retail
                   
                     close
                   
                     By role
-                  
-                    Customer support and sales
                   
                     DevOps
                   
