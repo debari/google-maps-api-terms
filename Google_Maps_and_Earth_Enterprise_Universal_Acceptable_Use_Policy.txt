@@ -75,8 +75,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Transform how people work together
                         
-                          Device management
-                        
                           By industry
                         
                           Education
@@ -93,7 +91,7 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Life sciences
                         
-                          Telecommunications, Media & Entertainment
+                          Telecommunications, media & entertainment
                         
                           Retail
                         
@@ -426,8 +424,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                   
                     Productivity and work transformation
                   
-                    Device management
-                  
                     By industry
                   
                     Education
@@ -444,7 +440,7 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                   
                     Life sciences
                   
-                    Telecommunications, Media & Entertainment
+                    Telecommunications, media & entertainment
                   
                     Retail
                   
