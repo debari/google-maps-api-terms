@@ -1,6 +1,10 @@
 
 Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platform Terms
-       |  Google CloudGoogle Cloud
+       |  Google Cloud
+     .no-bullets {
+        list-style: none;
+      }
+    Google Cloud
           Google Cloud
         
           Why Google
