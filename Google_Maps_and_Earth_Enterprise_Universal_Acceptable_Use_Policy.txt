@@ -842,7 +842,25 @@ Why Google
                 Follow on Twitter
             
                 We're hiring. Join Google Cloud!
-            About Google
+            
+      Deutsch
+    
+      English
+    
+      Español (América Latina)
+    
+      français
+    
+      Português Brasileiro
+    
+      日本語
+    
+      简体中文
+    
+      繁體中文
+    
+      한국어
+    About Google
          Privacy
          Site Terms
          Google Cloud Terms
