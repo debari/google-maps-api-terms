@@ -346,7 +346,25 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
           Docs
         
           Support
-        Console
+        Language
+      Deutsch
+    
+      English
+    
+      Español (América Latina)
+    
+      français
+    
+      Português Brasileiro
+    
+      日本語
+    
+      简体中文
+    
+      繁體中文
+    
+      한국어
+    Console
   
   Sign in
     
@@ -842,7 +860,7 @@ Why Google
                 Follow on Twitter
             
                 We're hiring. Join Google Cloud!
-            
+            Language
       Deutsch
     
       English
