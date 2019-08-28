@@ -791,19 +791,15 @@ Why Google
             
                 See all products
             Solutions
-                Artificial intelligence
+                Infrastructure modernization
             
-                Big data analytics
+                Data management
             
-                Collaboration and productivity
+                Application development
             
-                Continuous delivery
+                Smart business analytics and AI
             
-                Migrate workloads
-            
-                Mobile apps and sites
-            
-                Serverless computing
+                Productivity & work transformation
             
                 Industry solutions
             
