@@ -386,30 +386,21 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
   
     Get started for free
   
-          Google Cloud
-        
-      More
-    
-          Overview
-        
-          Google Cloud
-        
-        Console
-      
-          Why Google
-        
-          Solutions
-        
-          Products
-        
-          Pricing
-        
-          Getting started
-        
-          Docs
-        
-          Support
-        
+Google Cloud
+            Why Google
+          
+            Solutions
+          
+            Products
+          
+            Pricing
+          
+            Getting started
+          
+            Docs
+          
+            Support
+          
         Console
       
                     Groundbreaking solutions. Transformative know-how.
