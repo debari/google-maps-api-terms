@@ -245,10 +245,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Intelligent devices, OS, and business apps
                         
-                          Hire by Google
-                        
-                          Identify, evaluate, and hire better
-                        
                           See all products (100+)
                         
           Pricing
@@ -594,8 +590,6 @@ Google Cloud
                     Chrome Enterprise
                   
                     Android Enterprise
-                  
-                    Hire by Google
                   
                     See all products (100+)
                   
