@@ -119,9 +119,9 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
         
                           Google Cloud Platform
                         
-                          AI and machine learning
+                          AI and Machine Learning
                         
-                          Text-to-Speech
+                          Speech-to-Text
                         
                           Vision
                         
@@ -129,7 +129,7 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           More
                         
-                          API management
+                          API Management
                         
                           Apigee API Platform
                         
@@ -141,13 +141,21 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Compute Engine
                         
-                          Cloud Run
-                        
-                          App Engine
+                          Cloud GPUs
                         
                           More
                         
-                          Data analytics
+                          Containers, Hybrid, and Multi-cloud
+                        
+                          Anthos
+                        
+                          Migrate for Anthos
+                        
+                          GKE
+                        
+                          More
+                        
+                          Data Analytics
                         
                           BigQuery
                         
@@ -159,39 +167,25 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Cloud SQL
                         
-                          Cloud Datastore
+                          Cloud Firestore
                         
                           More
                         
                           Developer Tools
                         
-                          Container Registry
+                          Cloud Build
+                        
+                          Cloud Code
                         
                           Cloud SDK
                         
                           More
                         
-                          Hybrid and multi-cloud
-                        
-                          Anthos
-                        
-                          GKE On-Prem
-                        
-                          Istio on GKE
-                        
-                          More
-                        
-                          Internet of Things
-                        
-                          Cloud IoT Core
-                        
-                          Edge TPU
-                        
                           Migration
                         
                           Data Transfer
                         
-                          Transfer Appliance
+                          VM Migration
                         
                           More
                         
@@ -205,11 +199,21 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           More
                         
-                          Security
+                          Security and Identity
                         
-                          Security Key Enforcement
+                          Shielded VMs
                         
                           Cloud IAM
+                        
+                          More
+                        
+                          Serverless Computing
+                        
+                          Cloud Run
+                        
+                          App Engine
+                        
+                          Cloud Functions
                         
                           More
                         
@@ -474,9 +478,9 @@ Console
                   
                     Google Cloud Platform
                   
-                    AI and machine learning
+                    AI and Machine Learning
                   
-                    Text-to-Speech
+                    Speech-to-Text
                   
                     Vision
                   
@@ -484,7 +488,7 @@ Console
                   
                     More
                   
-                    API management
+                    API Management
                   
                     Apigee API Platform
                   
@@ -496,13 +500,21 @@ Console
                   
                     Compute Engine
                   
-                    Cloud Run
-                  
-                    App Engine
+                    Cloud GPUs
                   
                     More
                   
-                    Data analytics
+                    Containers, Hybrid, and Multi-cloud
+                  
+                    Anthos
+                  
+                    Migrate for Anthos
+                  
+                    GKE
+                  
+                    More
+                  
+                    Data Analytics
                   
                     BigQuery
                   
@@ -514,39 +526,25 @@ Console
                   
                     Cloud SQL
                   
-                    Cloud Datastore
+                    Cloud Firestore
                   
                     More
                   
                     Developer Tools
                   
-                    Container Registry
+                    Cloud Build
+                  
+                    Cloud Code
                   
                     Cloud SDK
                   
                     More
                   
-                    Hybrid and multi-cloud
-                  
-                    Anthos
-                  
-                    GKE On-Prem
-                  
-                    Istio on GKE
-                  
-                    More
-                  
-                    Internet of Things
-                  
-                    Cloud IoT Core
-                  
-                    Edge TPU
-                  
                     Migration
                   
                     Data Transfer
                   
-                    Transfer Appliance
+                    VM Migration
                   
                     More
                   
@@ -560,11 +558,21 @@ Console
                   
                     More
                   
-                    Security
+                    Security and Identity
                   
-                    Security Key Enforcement
+                    Shielded VMs
                   
                     Cloud IAM
+                  
+                    More
+                  
+                    Serverless Computing
+                  
+                    Cloud Run
+                  
+                    App Engine
+                  
+                    Cloud Functions
                   
                     More
                   
