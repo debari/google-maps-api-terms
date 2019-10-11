@@ -5,8 +5,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
         list-style: none;
       }
     Google Cloud
-          Google Cloud
-        
           Why Google
         
                           Groundbreaking solutions. Transformative know-how.
@@ -369,19 +367,8 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
     Console
   
   Sign in
-    
-    
-    
-      Google Cloud
-    
-    
-  
       More
   
-          Overview
-        
-          Google Cloud
-        
     Contact sales
   
     Get started for free
@@ -665,18 +652,6 @@ Console
     
     
       Google Cloud Platform Terms
-    
-    
-    
-    
-    
-      Google Cloud
-    
-    
-    
-    
-    
-      Google Cloud
     
     
     
