@@ -359,10 +359,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
     
       More
   
-          Overview
-        
-          Guides
-        
     Contact sales
   
     Get started for free
@@ -380,13 +376,8 @@ Google Cloud
           
             Docs
           
-      More
-    
-            Overview
-          
-            Guides
-          
-Console
+    More
+  
             Support
           
 Console
@@ -641,7 +632,7 @@ Google Cloud
                   
                     More ways to get started
                   
-Google Cloud TermsTerms DirectoryGoogle Cloud PlatformTerms of ServiceService Specific TermsData Processing and Security Terms (Customers)Data Processing and Security Terms (Partners)Technical Support Services GuidelinesOverviewFirebase SupportAcceptable Use PolicyServices SummaryService Level AgreementsLaunch StagesSubprocessorsServices in Scope by Compliance ProgramSKUsServices Subject to Deprecation PolicyEU Model Contract ClausesFree Trial Terms and ConditionsImplementation Services AgreementCollaborative Support Partners ListNVIDIA Third Party TermsG SuiteTerms of ServiceService Specific TermsData Processing AmendmentTechnical Support Services GuidelinesAcceptable Use PolicyServices SummaryService Level AgreementSubprocessorsMarketplace Terms of ServiceEU Model Standard Contractual ClausesG Suite (Free) AgreementGoogle Cloud Pre-General Availability Program AgreementGoogle Cloud User Experience Research Panel AddendumG Suite for Education(Online) AgreementPrivacy NoticeGoogle Maps PlatformTerms of ServiceChrome EnterpriseGoogle Chrome Browser Terms of ServiceGoogle Chrome OS TermsChrome Service License AgreementChrome Service via Reseller Console Trial Terms AddendumChrome Service Trial Terms AddendumChrome Browser Cloud Management License AgreementAndroidManaged Google Play AgreementCloud IdentityTerms of ServiceService Level AgreementApigeeApigee SupportFirebaseTerms of ServiceHire by GoogleTerms of Service
+Google Cloud TermsGoogle Cloud PlatformTerms of ServiceService Specific TermsData Processing and Security Terms (Customers)Data Processing and Security Terms (Partners)Technical Support Services GuidelinesOverviewFirebase SupportAcceptable Use PolicyServices SummaryService Level AgreementsLaunch StagesSubprocessorsServices in Scope by Compliance ProgramSKUsServices Subject to Deprecation PolicyEU Model Contract ClausesFree Trial Terms and ConditionsImplementation Services AgreementCollaborative Support Partners ListNVIDIA Third Party TermsG SuiteTerms of ServiceService Specific TermsData Processing AmendmentTechnical Support Services GuidelinesAcceptable Use PolicyServices SummaryService Level AgreementSubprocessorsMarketplace Terms of ServiceEU Model Standard Contractual ClausesG Suite (Free) AgreementGoogle Cloud Pre-General Availability Program AgreementGoogle Cloud User Experience Research Panel AddendumG Suite for Education(Online) AgreementPrivacy NoticeGoogle Maps PlatformTerms of ServiceChrome EnterpriseGoogle Chrome Browser Terms of ServiceGoogle Chrome OS TermsChrome Service License AgreementChrome Service via Reseller Console Trial Terms AddendumChrome Service Trial Terms AddendumChrome Browser Cloud Management License AgreementAndroidManaged Google Play AgreementCloud IdentityTerms of ServiceService Level AgreementApigeeApigee SupportFirebaseTerms of ServiceHire by GoogleTerms of ServiceTerms Directory
     
     
       Home
@@ -657,12 +648,6 @@ Google Cloud TermsTerms DirectoryGoogle Cloud PlatformTerms of ServiceService Sp
     
     
       Google Cloud Platform Terms
-    
-    
-    
-    
-    
-      Guides
     
     
     
