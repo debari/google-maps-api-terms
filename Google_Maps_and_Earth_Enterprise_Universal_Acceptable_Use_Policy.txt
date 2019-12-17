@@ -33,7 +33,7 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           See how Google Cloud ranks
                         
-                          Data centers and network
+                          Global infrastructure
                         
                           Build on the same infrastructure Google uses
                         
@@ -398,7 +398,7 @@ Google Cloud
                   
                     Analyst reports
                   
-                    Data centers and network
+                    Global infrastructure
                   
                     Partners
                   
