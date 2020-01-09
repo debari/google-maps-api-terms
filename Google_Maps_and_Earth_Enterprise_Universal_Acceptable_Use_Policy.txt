@@ -151,7 +151,7 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           BigQuery
                         
-                          Cloud Datalab
+                          Looker
                         
                           More
                         
@@ -272,8 +272,6 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                           Google Maps Platform
                         
                           Cloud Identity
-                        
-                          Hire by Google
                         
                           Apigee
                         
@@ -494,7 +492,7 @@ Google Cloud
                   
                     BigQuery
                   
-                    Cloud Datalab
+                    Looker
                   
                     More
                   
@@ -595,8 +593,6 @@ Google Cloud
                     Google Maps Platform
                   
                     Cloud Identity
-                  
-                    Hire by Google
                   
                     Apigee
                   
