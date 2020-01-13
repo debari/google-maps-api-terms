@@ -25,17 +25,17 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
                           Scale with open, flexible technology
                         
-                          Customers and case studies
+                          Global infrastructure
                         
-                          Learn how businesses use Google Cloud
+                          Build on the same infrastructure Google uses
                         
                           Analyst reports
                         
                           See how Google Cloud ranks
                         
-                          Global infrastructure
+                          Customer stories
                         
-                          Build on the same infrastructure Google uses
+                          Learn how businesses use Google Cloud
                         
                           Partners
                         
@@ -51,59 +51,87 @@ Google Maps and Earth Universal Acceptable Use Policy  |  Google Cloud Platfor
                         
           Solutions
         
-                          By business need
+                          By technology
                         
-                          Infrastructure modernization
+                          Infrastructure Modernization
                         
-                          Modernize enterprise workloads
+                          VM Migration
                         
-                          Data management
+                          SAP
                         
-                          Manage data securely, reliably and at scale
+                          more
                         
-                          Application development
+                          Data Management
                         
-                          Build and run apps on an open, secure cloud
+                          Database Services
                         
-                          Smart business analytics and AI
+                          Database Migration
                         
-                          Generate insights with analytics, ML, and AI
+                          more
                         
-                          Productivity and work transformation
+                          Application Modernization
                         
-                          Transform how people work together
+                          Anthos
                         
-                          Device management
-                        
-                          By industry
-                        
-                          Education
-                        
-                          Energy
-                        
-                          Financial services
-                        
-                          Gaming
-                        
-                          Government
-                        
-                          Healthcare
-                        
-                          Life sciences
-                        
-                          Manufacturing
-                        
-                          Telecommunications, Media & Entertainment
-                        
-                          Retail
-                        
-                          By role
+                          Serverless
                         
                           DevOps
                         
-                          Marketing
+                          more
                         
-                          Small business owners
+                          Smart Analytics
+                        
+                          Data Warehouse Modernization
+                        
+                          Data Lake Modernization
+                        
+                          more
+                        
+                          Artificial Intelligence
+                        
+                          Contact Center AI
+                        
+                          Document AI
+                        
+                          more
+                        
+                          Security
+                        
+                          Security Analytics & Ops
+                        
+                          Application Security
+                        
+                          more
+                        
+                          Productivity & Collaboration
+                        
+                          Work Transformation
+                        
+                          Chrome Enterprise
+                        
+                          more
+                        
+                          By industry
+                        
+                          Retail
+                        
+                          Financial Services
+                        
+                          Healthcare & Life Sciences
+                        
+                          Media & Entertainment
+                        
+                          Gaming
+                        
+                          Manufacturing
+                        
+                          Energy
+                        
+                          Government
+                        
+                          Education
+                        
+                          Small Businesses
                         
                           See all solutions
                         
@@ -392,11 +420,11 @@ Google Cloud
                   
                     Open cloud
                   
-                    Customers and case studies
+                    Global infrastructure
                   
                     Analyst reports
                   
-                    Global infrastructure
+                    Customer stories
                   
                     Partners
                   
@@ -404,49 +432,87 @@ Google Cloud
                   
                     Events
                   
-                    By business need
+                    By technology
                   
-                    Infrastructure modernization
+                    Infrastructure Modernization
                   
-                    Data management
+                    VM Migration
                   
-                    Application development
+                    SAP
                   
-                    Smart business analytics and AI
+                    more
                   
-                    Productivity and work transformation
+                    Data Management
                   
-                    Device management
+                    Database Services
                   
-                    By industry
+                    Database Migration
                   
-                    Education
+                    more
                   
-                    Energy
+                    Application Modernization
                   
-                    Financial services
+                    Anthos
                   
-                    Gaming
-                  
-                    Government
-                  
-                    Healthcare
-                  
-                    Life sciences
-                  
-                    Manufacturing
-                  
-                    Telecommunications, Media & Entertainment
-                  
-                    Retail
-                  
-                    By role
+                    Serverless
                   
                     DevOps
                   
-                    Marketing
+                    more
                   
-                    Small business owners
+                    Smart Analytics
+                  
+                    Data Warehouse Modernization
+                  
+                    Data Lake Modernization
+                  
+                    more
+                  
+                    Artificial Intelligence
+                  
+                    Contact Center AI
+                  
+                    Document AI
+                  
+                    more
+                  
+                    Security
+                  
+                    Security Analytics & Ops
+                  
+                    Application Security
+                  
+                    more
+                  
+                    Productivity & Collaboration
+                  
+                    Work Transformation
+                  
+                    Chrome Enterprise
+                  
+                    more
+                  
+                    By industry
+                  
+                    Retail
+                  
+                    Financial Services
+                  
+                    Healthcare & Life Sciences
+                  
+                    Media & Entertainment
+                  
+                    Gaming
+                  
+                    Manufacturing
+                  
+                    Energy
+                  
+                    Government
+                  
+                    Education
+                  
+                    Small Businesses
                   
                     See all solutions
                   
