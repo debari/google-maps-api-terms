@@ -170,7 +170,7 @@ Data Analytics
                                       
 BigQuery
                                       
-Cloud Datalab
+Looker
                                       
 More
                                       
@@ -563,7 +563,7 @@ Terms Directory
    
       BigQuery
    
-      Cloud Datalab
+      Looker
    
       More
    
