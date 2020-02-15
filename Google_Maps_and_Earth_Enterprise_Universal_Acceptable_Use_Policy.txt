@@ -301,7 +301,7 @@ Get started with Google Cloud
 Start building right away on our secure, intelligent platform. New customers can use a $300 free credit to get started with any GCP product.
 Try GCP Free
                                       
-Go to console
+Get Started
                                       
 Resources to Start on Your Own
 Quickstarts
@@ -675,7 +675,7 @@ Terms Directory
    
       Try GCP Free
    
-      Go to console
+      Get Started
    
       Resources to Start on Your Own
    
