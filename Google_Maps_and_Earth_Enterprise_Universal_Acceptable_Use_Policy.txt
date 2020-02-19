@@ -815,19 +815,19 @@ Solutions
           
             Data management
           
-            Application development
+            Application modernization
           
-            Smart business analytics and AI
+            Smart analytics
+          
+            Artificial Intelligence
+          
+            Security
           
             Productivity & work transformation
           
             Industry solutions
           
             DevOps solutions
-          
-            HR and recruiting solutions
-          
-            Marketing solutions
           
             Small business solutions
           
@@ -838,7 +838,7 @@ Resources
           
             GCP quickstarts
           
-            GCP Marketplace
+            Google Cloud Marketplace
           
             G Suite Marketplace
           
