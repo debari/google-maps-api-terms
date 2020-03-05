@@ -113,6 +113,8 @@ Healthcare & Life Sciences
                                       
 Media & Entertainment
                                       
+Telecommunications
+                                      
 Gaming
                                       
 Manufacturing
@@ -506,6 +508,8 @@ Terms Directory
       Healthcare & Life Sciences
    
       Media & Entertainment
+   
+      Telecommunications
    
       Gaming
    
