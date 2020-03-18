@@ -408,7 +408,7 @@ Technical Support Services GuidelinesOverviewFirebase SupportAcceptable Use Poli
 G SuiteTerms of ServiceService Specific TermsData Processing AmendmentTechnical Support Services GuidelinesAcceptable Use PolicyServices SummaryService Level AgreementSubprocessorsMarketplace Terms of ServiceEU Model Standard Contractual ClausesG Suite (Free) AgreementGoogle Cloud Pre-General Availability Program AgreementGoogle Cloud User Experience Research Panel Addendum
 G Suite for Education(Online) AgreementPrivacy Notice
 Google Maps PlatformTerms of Service
-Chrome EnterpriseGoogle Chrome Browser Terms of ServiceGoogle Chrome OS TermsChrome Service License AgreementChrome Service via Reseller Console Trial Terms AddendumChrome Service Trial Terms AddendumChrome Browser Cloud Management License Agreement
+Chrome EnterpriseChrome Service License AgreementChrome Service via Reseller Console Trial Terms AddendumChrome Service Trial Terms AddendumChrome Browser Cloud Management License Agreement
 AndroidManaged Google Play Agreement
 Cloud IdentityTerms of ServiceService Level Agreement
 ApigeeApigee Support
