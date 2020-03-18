@@ -860,6 +860,8 @@ Resources
           
             System status
           
+            Release Notes
+          
 Engage 
             Contact sales
           
