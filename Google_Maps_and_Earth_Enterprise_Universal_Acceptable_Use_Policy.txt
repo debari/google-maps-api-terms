@@ -4,343 +4,343 @@ Google Maps and Earth Universal Acceptable Use Policy
 close
 Groundbreaking solutions. Transformative know-how.
 Whether your business is early in its journey or well on its way to digital transformation, Google Cloud's solutions and technologies help chart a path to success.
-Learn more
-                                      
+                      Learn more
+                    
 Why Google Cloud
-Choosing Google Cloud
-                                        
+                      Choosing Google Cloud
+                    
                       Reasons why people choose us
                     
-Trust and security
-                                        
+                      Trust and security
+                    
                       Keep your data secure and compliant
                     
-Open cloud
-                                        
+                      Open cloud
+                    
                       Scale with open, flexible technology
                     
-Global infrastructure
-                                        
+                      Global infrastructure
+                    
                       Build on the same infrastructure Google uses
                     
-Analyst reports
-                                        
+                      Analyst reports
+                    
                       See how Google Cloud ranks
                     
-Customer stories
-                                        
+                      Customer stories
+                    
                       Learn how businesses use Google Cloud
                     
-Partners
-                                        
+                      Partners
+                    
                       Tap into our global ecosystem of cloud experts
                     
-Google Cloud Blog
-                                        
+                      Google Cloud Blog
+                    
                       Read the latest stories and product updates
                     
-Events
-                                        
+                      Events
+                    
                       Join events and learn more about Google Cloud
                     
   Solutions
 close
 By technology
-Infrastructure Modernization
-                                      
-VM Migration
-                                      
-SAP
-                                      
-more
-                                      
-Data Management
-                                      
-Database Services
-                                      
-Database Migration
-                                      
-more
-                                      
-Application Modernization
-                                      
-Anthos
-                                      
-Serverless
-                                      
-DevOps
-                                      
-more
-                                      
-Smart Analytics
-                                      
-Data Warehouse Modernization
-                                      
-Data Lake Modernization
-                                      
-more
-                                      
-Artificial Intelligence
-                                      
-Contact Center AI
-                                      
-Document AI
-                                      
-more
-                                      
-Security
-                                      
-Security Analytics & Ops
-                                      
-Application Security
-                                      
-more
-                                      
-Productivity & Collaboration
-                                      
-Work Transformation
-                                      
-Chrome Enterprise
-                                      
-more
-                                      
+                      Infrastructure Modernization
+                    
+                      VM Migration
+                    
+                      SAP
+                    
+                      more
+                    
+                      Data Management
+                    
+                      Database Services
+                    
+                      Database Migration
+                    
+                      more
+                    
+                      Application Modernization
+                    
+                      Anthos
+                    
+                      Serverless
+                    
+                      DevOps
+                    
+                      more
+                    
+                      Smart Analytics
+                    
+                      Data Warehouse Modernization
+                    
+                      Data Lake Modernization
+                    
+                      more
+                    
+                      Artificial Intelligence
+                    
+                      Contact Center AI
+                    
+                      Document AI
+                    
+                      more
+                    
+                      Security
+                    
+                      Security Analytics & Ops
+                    
+                      Application Security
+                    
+                      more
+                    
+                      Productivity & Collaboration
+                    
+                      Work Transformation
+                    
+                      Chrome Enterprise
+                    
+                      more
+                    
 By industry
-Retail
-                                      
-Financial Services
-                                      
-Healthcare & Life Sciences
-                                      
-Media & Entertainment
-                                      
-Telecommunications
-                                      
-Gaming
-                                      
-Manufacturing
-                                      
-Energy
-                                      
-Government
-                                      
-Education
-                                      
-Small Businesses
-                                      
-See all solutions
-                                      
+                      Retail
+                    
+                      Financial Services
+                    
+                      Healthcare & Life Sciences
+                    
+                      Media & Entertainment
+                    
+                      Telecommunications
+                    
+                      Gaming
+                    
+                      Manufacturing
+                    
+                      Energy
+                    
+                      Government
+                    
+                      Education
+                    
+                      Small Businesses
+                    
+                      See all solutions
+                    
   Products
 close
 Google Cloud Platform
-AI and Machine Learning
-                                      
-Speech-to-Text
-                                      
-Vision
-                                      
-Translation
-                                      
-More
-                                      
-API Management
-                                      
-Apigee API Platform
-                                      
-Cloud Endpoints
-                                      
-More
-                                      
-Compute
-                                      
-Compute Engine
-                                      
-Cloud GPUs
-                                      
-More
-                                      
-Hybrid and Multi-cloud
-                                      
-Anthos
-                                      
-Migrate for Anthos
-                                      
-GKE
-                                      
-More
-                                      
-Data Analytics
-                                      
-BigQuery
-                                      
-Looker
-                                      
-More
-                                      
-Databases
-                                      
-Cloud SQL
-                                      
-Cloud Firestore
-                                      
-More
-                                      
-Developer Tools
-                                      
-Cloud Build
-                                      
-Cloud Code
-                                      
-Cloud SDK
-                                      
-More
-                                      
-Migration
-                                      
-Data Transfer
-                                      
-VM Migration
-                                      
-More
-                                      
-Networking
-                                      
-DNS
-                                      
-CDN
-                                      
-Virtual Private Cloud
-                                      
-More
-                                      
-Security and Identity
-                                      
-Shielded VMs
-                                      
-Cloud IAM
-                                      
-More
-                                      
-Serverless Computing
-                                      
-Cloud Run
-                                      
-App Engine
-                                      
-Cloud Functions
-                                      
-More
-                                      
-Storage
-                                      
-Cloud Storage
-                                      
-Persistent Disk
-                                      
-More
-                                      
+                      AI and Machine Learning
+                    
+                      Speech-to-Text
+                    
+                      Vision
+                    
+                      Translation
+                    
+                      More
+                    
+                      API Management
+                    
+                      Apigee API Platform
+                    
+                      Cloud Endpoints
+                    
+                      More
+                    
+                      Compute
+                    
+                      Compute Engine
+                    
+                      Cloud GPUs
+                    
+                      More
+                    
+                      Hybrid and Multi-cloud
+                    
+                      Anthos
+                    
+                      Migrate for Anthos
+                    
+                      GKE
+                    
+                      More
+                    
+                      Data Analytics
+                    
+                      BigQuery
+                    
+                      Looker
+                    
+                      More
+                    
+                      Databases
+                    
+                      Cloud SQL
+                    
+                      Cloud Firestore
+                    
+                      More
+                    
+                      Developer Tools
+                    
+                      Cloud Build
+                    
+                      Cloud Code
+                    
+                      Cloud SDK
+                    
+                      More
+                    
+                      Migration
+                    
+                      Data Transfer
+                    
+                      VM Migration
+                    
+                      More
+                    
+                      Networking
+                    
+                      DNS
+                    
+                      CDN
+                    
+                      Virtual Private Cloud
+                    
+                      More
+                    
+                      Security and Identity
+                    
+                      Shielded VMs
+                    
+                      Cloud IAM
+                    
+                      More
+                    
+                      Serverless Computing
+                    
+                      Cloud Run
+                    
+                      App Engine
+                    
+                      Cloud Functions
+                    
+                      More
+                    
+                      Storage
+                    
+                      Cloud Storage
+                    
+                      Persistent Disk
+                    
+                      More
+                    
 More Cloud Products
-G Suite
-                                        
+                      G Suite
+                    
                       Gmail, Docs, Drive, Hangouts, and more
                     
-Google Maps Platform
-                                        
+                      Google Maps Platform
+                    
                       Build with real-time, comprehensive data
                     
-Cloud Identity
-                                        
+                      Cloud Identity
+                    
                       Easily manage user identities
                     
-Chrome Enterprise
-                                        
+                      Chrome Enterprise
+                    
                       Get Chrome OS devices and browser
                     
-Android Enterprise
-                                        
+                      Android Enterprise
+                    
                       Intelligent devices, OS, and business apps
                     
-See all products (100+)
-                                      
+                      See all products (100+)
+                    
   Pricing
 close
 Do more for less with Google Cloud
 Our customer-friendly pricing means more overall value to your business.
-Contact sales
-                                      
+                      Contact sales
+                    
 Google Cloud Platform
-Overview
-                                        
+                      Overview
+                    
                       Pay only for what you use with no lock-in
                     
-Price list
-                                        
+                      Price list
+                    
                       Pricing details on each GCP product
                     
-Calculators
-                                        
+                      Calculators
+                    
                       Calculate your cloud savings
                     
-Free on GCP
-                                        
+                      Free on GCP
+                    
                       Learn and build on GCP for free
                     
 More Cloud Products
-G Suite
-                                      
-Google Maps Platform
-                                      
-Cloud Identity
-                                      
-Apigee
-                                      
-Firebase
-                                      
-Zync Render
-                                      
+                      G Suite
+                    
+                      Google Maps Platform
+                    
+                      Cloud Identity
+                    
+                      Apigee
+                    
+                      Firebase
+                    
+                      Zync Render
+                    
   Getting started
 close
 Get started with Google Cloud
 Start building right away on our secure, intelligent platform. New customers can use a $300 free credit to get started with any GCP product.
-Try GCP Free
-                                      
-Get Started
-                                      
+                      Try GCP Free
+                    
+                      Get Started
+                    
 Resources to Start on Your Own
-Quickstarts
-                                        
+                      Quickstarts
+                    
                       View short tutorials to help you get started
                     
-GCP Marketplace
-                                        
+                      GCP Marketplace
+                    
                       Deploy ready-to-go solutions in a few clicks
                     
-Training
-                                        
+                      Training
+                    
                       Enroll in on-demand or classroom training
                     
-Certification
-                                        
+                      Certification
+                    
                       Become Google Cloud Certified
                     
 Get Help from an Expert
-Consulting
-                                        
+                      Consulting
+                    
                       Jump-start your project with help from Google
                     
-Technical Account Management
-                                        
+                      Technical Account Management
+                    
                       Get long-term guidance from Google
                     
-Find a Partner
-                                        
+                      Find a Partner
+                    
                       Work with a Partner in our global network
                     
-Become a Partner
-                                        
+                      Become a Partner
+                    
                       Join Google Cloud's Partner program
                     
-More ways to get started
-                                      
+                      More ways to get started
+                    
   Docs
   Support
   Docs
