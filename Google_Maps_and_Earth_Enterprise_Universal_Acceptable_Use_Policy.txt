@@ -791,106 +791,106 @@ Previous Versions
 No previous versions
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates. 
 Why Google 
-            Choosing Google Cloud
-          
-            Trust and security
-          
-            Open cloud
-          
-            Global infrastructure
-          
-            Customers and case studies
-          
-            Analyst reports
-          
-            Whitepapers
-          
+                      Choosing Google Cloud
+                    
+                      Trust and security
+                    
+                      Open cloud
+                    
+                      Global infrastructure
+                    
+                      Customers and case studies
+                    
+                      Analyst reports
+                    
+                      Whitepapers
+                    
 Products and pricing 
-            GCP pricing
-          
-            G Suite pricing
-          
-            Maps Platform pricing
-          
-            See all products
-          
+                      GCP pricing
+                    
+                      G Suite pricing
+                    
+                      Maps Platform pricing
+                    
+                      See all products
+                    
 Solutions 
-            Infrastructure modernization
-          
-            Data management
-          
-            Application modernization
-          
-            Smart analytics
-          
-            Artificial Intelligence
-          
-            Security
-          
-            Productivity & work transformation
-          
-            Industry solutions
-          
-            DevOps solutions
-          
-            Small business solutions
-          
-            See all solutions
-          
+                      Infrastructure modernization
+                    
+                      Data management
+                    
+                      Application modernization
+                    
+                      Smart analytics
+                    
+                      Artificial Intelligence
+                    
+                      Security
+                    
+                      Productivity & work transformation
+                    
+                      Industry solutions
+                    
+                      DevOps solutions
+                    
+                      Small business solutions
+                    
+                      See all solutions
+                    
 Resources 
-            GCP documentation
-          
-            GCP quickstarts
-          
-            Google Cloud Marketplace
-          
-            G Suite Marketplace
-          
-            Support
-          
-            Tutorials
-          
-            Training
-          
-            Certifications
-          
-            Google Developers
-          
-            Google Cloud for Startups
-          
-            System status
-          
-            Release Notes
-          
+                      GCP documentation
+                    
+                      GCP quickstarts
+                    
+                      Google Cloud Marketplace
+                    
+                      G Suite Marketplace
+                    
+                      Support
+                    
+                      Tutorials
+                    
+                      Training
+                    
+                      Certifications
+                    
+                      Google Developers
+                    
+                      Google Cloud for Startups
+                    
+                      System status
+                    
+                      Release Notes
+                    
 Engage 
-            Contact sales
-          
-            Find a Partner
-          
-            Become a Partner
-          
-            Blog
-          
-            Events
-          
-            Podcast
-          
-            Community
-          
-            Press center
-          
-            Google Cloud on YouTube
-          
-            GCP on YouTube
-          
-            G Suite on YouTube
-          
-            Follow on Twitter
-          
-            Join User Research
-          
-            We're hiring. Join Google Cloud!
-          
+                      Contact sales
+                    
+                      Find a Partner
+                    
+                      Become a Partner
+                    
+                      Blog
+                    
+                      Events
+                    
+                      Podcast
+                    
+                      Community
+                    
+                      Press center
+                    
+                      Google Cloud on YouTube
+                    
+                      GCP on YouTube
+                    
+                      G Suite on YouTube
+                    
+                      Follow on Twitter
+                    
+                      Join User Research
+                    
+                      We're hiring. Join Google Cloud!
+                    
           About Google
         
           Privacy
