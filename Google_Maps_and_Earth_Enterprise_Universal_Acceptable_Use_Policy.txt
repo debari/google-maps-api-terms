@@ -94,6 +94,8 @@ By technology
                     
                       Application Security
                     
+                      BeyondCorp Remote Access
+                    
                       more
                     
                       Productivity & Collaboration
@@ -488,6 +490,8 @@ Terms Directory
       Security Analytics & Ops
    
       Application Security
+   
+      BeyondCorp Remote Access
    
       more
    
