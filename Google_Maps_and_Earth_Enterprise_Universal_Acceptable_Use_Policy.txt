@@ -46,6 +46,10 @@ Why Google Cloud
   Solutions
 close
 Featured Solutions
+                      COVID-19 solutions
+                    
+                      Tools to get work done more safely and securely.
+                    
                       Infrastructure Modernization
                     
                       Migration tools for workloads like VMware, SAP, and Oracle.
@@ -96,6 +100,10 @@ Not seeing what you're looking for?
                       Industry Solutions
                     
                       Reduce cost, increase operational agility, and capture new market opportunities.
+                    
+                      COVID-19 solutions
+                    
+                      Tools to get work done more safely and securely.
                     
                       Retail
                     
@@ -1183,6 +1191,8 @@ Terms Directory
    
       Featured Solutions
    
+      COVID-19 solutions
+   
       Infrastructure Modernization
    
       Data Center Migration
@@ -1208,6 +1218,8 @@ Terms Directory
       See all solutions
    
       Industry Solutions
+   
+      COVID-19 solutions
    
       Retail
    
