@@ -938,10 +938,6 @@ Not seeing what you're looking for?
                     
                       Containerized apps with prebuilt deployment and unified billing.
                     
-                      Batch
-                    
-                      Batch workload management using Kubernetes.
-                    
 Internet of Things
                       Cloud IoT Core
                     
@@ -1652,8 +1648,6 @@ Terms Directory
       Deep Learning Containers
    
       Kubernetes Applications
-   
-      Batch
    
       Internet of Things
    
