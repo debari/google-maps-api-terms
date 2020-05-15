@@ -442,10 +442,6 @@ Not seeing what you're looking for?
                     
                       Block storage for virtual machine instances running on Google Cloud.
                     
-                      Drive Enterprise
-                    
-                      Cloud storage and collaboration sold separately from G Suite.
-                    
                       Cloud Storage for Firebase
                     
                       Object storage for storing and serving user-generated content.
@@ -1386,8 +1382,6 @@ Terms Directory
       Filestore
    
       Persistent Disk
-   
-      Drive Enterprise
    
       Cloud Storage for Firebase
    
