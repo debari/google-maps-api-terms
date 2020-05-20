@@ -1088,9 +1088,9 @@ Get Help from an Expert
   Docs
   Support
 Language
-        Deutsch
-      
         English
+      
+        Deutsch
       
         Español – América Latina
       
@@ -1939,9 +1939,9 @@ Sign up for the Google Cloud newsletter
           Subscribe
         
 Language
-        Deutsch
-      
         English
+      
+        Deutsch
       
         Español – América Latina
       
