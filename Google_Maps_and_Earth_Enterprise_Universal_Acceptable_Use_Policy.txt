@@ -361,7 +361,7 @@ Featured Products
                     
                       Cloud SQL
                     
-                      Relational database services for MySQL and PostgreSQL.
+                      Relational database services for MySQL, PostgreSQL, and SQL server.
                     
                       Google Kubernetes Engine
                     
@@ -369,7 +369,7 @@ Featured Products
                     
                       BigQuery
                     
-                      Data warehouse running on serverless infrastructure.
+                      Data warehouse for business agility and insights.
                     
                       Cloud CDN
                     
@@ -385,7 +385,7 @@ Featured Products
                     
                       Cloud Run
                     
-                      Fully managed environment to run stateless containers.
+                      Fully managed environment for running containerized apps.
                     
                       Cloud Functions
                     
@@ -428,6 +428,14 @@ Not seeing what you're looking for?
                     
                       Infrastructure to run specialized workloads on Google Cloud.
                     
+                      Recommender
+                    
+                      Usage recommendations for Google Cloud products and services.
+                    
+                      VMware Engine
+                    
+                      Migrate and run your VMware workloads natively on Google Cloud.
+                    
                       Storage
                     
                       Cloud Storage
@@ -466,7 +474,7 @@ Not seeing what you're looking for?
                     
                       Cloud SQL
                     
-                      Relational database services for MySQL and PostgreSQL.
+                      Relational database services for MySQL, PostgreSQL, and SQL server.
                     
                       Firebase Realtime Database
                     
@@ -621,7 +629,7 @@ Not seeing what you're looking for?
                     
                       BigQuery
                     
-                      Data warehouse running on serverless infrastructure.
+                      Data warehouse for business agility and insights.
                     
                       Looker
                     
@@ -757,6 +765,10 @@ API Management
                     
                       Solution to bridge existing care systems and apps on Google Cloud.
                     
+                      AppSheet
+                    
+                      No-code development platform to build and extend applications.
+                    
                       Hybrid and Multi-cloud
                     
                       Anthos
@@ -890,7 +902,7 @@ Not seeing what you're looking for?
                     
                       Cloud Run
                     
-                      Compute platform for running and scaling stateless containers.
+                      Fully managed environment for running containerized apps.
                     
                       Cloud Functions
                     
@@ -933,6 +945,10 @@ Not seeing what you're looking for?
                       Kubernetes Applications
                     
                       Containerized apps with prebuilt deployment and unified billing.
+                    
+                      Artifact Registry
+                    
+                      Package manager for build artifacts and dependencies.
                     
 Internet of Things
                       Cloud IoT Core
@@ -1375,6 +1391,10 @@ Terms Directory
    
       Bare Metal
    
+      Recommender
+   
+      VMware Engine
+   
       Storage
    
       Cloud Storage
@@ -1549,6 +1569,8 @@ Terms Directory
    
       Cloud Healthcare API
    
+      AppSheet
+   
       Hybrid and Multi-cloud
    
       Anthos
@@ -1642,6 +1664,8 @@ Terms Directory
       Deep Learning Containers
    
       Kubernetes Applications
+   
+      Artifact Registry
    
       Internet of Things
    
